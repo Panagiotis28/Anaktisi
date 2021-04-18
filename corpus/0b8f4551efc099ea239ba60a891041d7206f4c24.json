@@ -1,0 +1,1732 @@
+{
+    "paper_id": "0b8f4551efc099ea239ba60a891041d7206f4c24",
+    "metadata": {
+        "title": "Population-Level Impact of Coronavirus Disease 2019 on Breast Cancer Screening and Diagnostic Procedures",
+        "authors": [
+            {
+                "first": "Sarah",
+                "middle": [
+                    "J"
+                ],
+                "last": "Nyante",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Thad",
+                "middle": [
+                    "S"
+                ],
+                "last": "Benefield",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Cherie",
+                "middle": [
+                    "M"
+                ],
+                "last": "Kuzmiak",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kathryn",
+                "middle": [],
+                "last": "Earnhardt",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": ";",
+                "middle": [
+                    "Michael"
+                ],
+                "last": "Pritchard",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": ";",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Louise",
+                "middle": [
+                    "M"
+                ],
+                "last": "Henderson",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "To understand how health care delays may affect breast cancer detection, the authors quantified changes in breastrelated preventive and diagnostic care during the coronavirus disease 2019 (COVID-19) pandemic. METHODS: Eligible women (N = 39,444) were aged \u226518 years and received a screening mammogram, diagnostic mammogram, or breast biopsy between January 1, 2019 and September 30, 2020, at 7 academic and community breast imaging facilities in North Carolina. Changes in the number of mammography or breast biopsy examinations after March 3, 2020 (the first COVID-19 diagnosis in North Carolina) were evaluated and compared with the expected numbers based on trends between January 1, 2019 and March 2, 2020. Changes in the predicted mean monthly number of examinations were estimated using interrupted time series models. Differences in patient characteristics were tested using least squares means regression. RESULTS: Fewer examinations than expected were received after the pandemic's onset. Maximum reductions occurred in March 2020 for screening mammography (\u221285.1%; 95% CI, \u2212100.0%, \u221270.0%) and diagnostic mammography (\u221248.9%; 95% CI, \u221271.7%, \u221226.2%) and in May 2020 for biopsies (\u221240.9%; 95% CI, \u221257.6%, \u221224.3%). The deficit decreased gradually, with no significant difference between observed and expected numbers by July 2020 (diagnostic mammography) and August 2020 (screening mammography and biopsy). Several months after the pandemic's onset, women who were receiving care had higher predicted breast cancer risk (screening mammography, P < .001) and more commonly lacked insurance (diagnostic mammography, P < .001; biopsy, P < .001) compared with the prepandemic population. CONCLUSIONS: Pandemic-associated deficits in the number of breast examinations decreased over time. Utilization differed by breast cancer risk and insurance status, but not by age or race/ethnicity. Long-term studies are needed to clarify the contribution of these trends to breast cancer disparities. Cancer 2021;0:1-11.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The coronavirus disease 2019 (COVID-19) pandemic has disrupted daily life, including the process of seeking health care. On March 18, 2020, the US federal government advised that individuals should avoid seeking nonurgent care to minimize the risk of community-based transmission and to reserve medical resources. 1 Following suit, professional organizations, including the American College of Radiology, the Society of Breast Imaging, and the American Cancer Society, recommended that asymptomatic women forego breast cancer screening appointments. 2 As of August 2020, many states and organizations have eased recommendations on avoiding routine health care. 3 However, the pandemic remains an ongoing health crisis in the United States. Although short-term delays in receiving an imaging examination or breast biopsy may have minimal effects, extended delays may reduce the number of cancers detected at early stages, potentially increasing the number of cancer deaths in years to come. 4 Reports from May, June, and July of 2020 indicate that the use of radiologic imaging, including mammography, decreased after emergence of the COVID-19 pandemic. [5] [6] [7] [8] [9] [10] [11] [12] [13] COVID-19 has not affected all demographic subgroups equally, with higher incidence and death rates among Black and Hispanic populations and older individuals. [14] [15] [16] [17] [18] [19] If these groups perceive themselves as being at higher risk of harm from COVID-19, they may also be more likely to avoid preventive care and disproportionately more likely to experience delayed cancer diagnoses. 4 Cancer Month 0, 2021 Previous reports of COVID-19-related reductions in mammography services have focused on aggregated examination counts and/or relative value units. [5] [6] [7] [8] [9] [10] [11] [12] [13] In the current analysis, we provide a detailed examination of trends in screening mammography, diagnostic mammography, and breast biopsy using prospectively collected, individual-level data. Furthermore, we compared the characteristics of women who received examinations before and after the onset of COVID-19 to determine which factors may have influenced the receipt of breast-related preventive care. Our hypotheses were that there would be decreases in all types of examinations during the first months of the pandemic and that the characteristics of those who continued to receive care during the pandemic would differ from the characteristics of the population observed in the pre-COVID era. These data are essential for understanding the effect of COVID-19 on delays to early breast cancer detection and diagnosis.",
+            "cite_spans": [
+                {
+                    "start": 314,
+                    "end": 315,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 550,
+                    "end": 551,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 661,
+                    "end": 662,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 990,
+                    "end": 991,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1153,
+                    "end": 1156,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1157,
+                    "end": 1160,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1161,
+                    "end": 1164,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1165,
+                    "end": 1168,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1169,
+                    "end": 1172,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1173,
+                    "end": 1177,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1178,
+                    "end": 1182,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1183,
+                    "end": 1187,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1188,
+                    "end": 1192,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1352,
+                    "end": 1356,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1357,
+                    "end": 1361,
+                    "text": "[15]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1362,
+                    "end": 1366,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1367,
+                    "end": 1371,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1372,
+                    "end": 1376,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1377,
+                    "end": 1381,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1594,
+                    "end": 1595,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1764,
+                    "end": 1767,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1768,
+                    "end": 1771,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1772,
+                    "end": 1775,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1776,
+                    "end": 1779,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1780,
+                    "end": 1783,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1784,
+                    "end": 1788,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1789,
+                    "end": 1793,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1794,
+                    "end": 1798,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1799,
+                    "end": 1803,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "For this analysis, we used data from 7 breast imaging facilities in the University of North Carolina (UNC) Health system that also participate in the Carolina Mammography Registry (CMR). The CMR is a community-based breast imaging registry that prospectively collects patient-reported and radiologist-reported data on breast imaging and is a member of the Breast Cancer Surveillance Consortium. 20, 21 Patient and radiologist data are linked to examination results and follow-up procedures in the electronic health record and to cancer diagnoses from the North Carolina Central Cancer Registry and rapid case ascertainment systems. Our analysis included all screening mammograms, diagnostic mammograms, and breast biopsies occurring among women age \u226518 years at a UNC CMR-affiliated facility between January 1, 2019 and September 30, 2020. This study was approved by the Institutional Review Board of the University of North Carolina at Chapel Hill. Participant data were collected under a waiver of informed consent.",
+            "cite_spans": [
+                {
+                    "start": 395,
+                    "end": 398,
+                    "text": "20,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 399,
+                    "end": 401,
+                    "text": "21",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Population"
+        },
+        {
+            "text": "Examination characteristics, including a mammogram's designation as screening versus diagnostic and the management recommendation, were reported by the radiologist. Biopsies included all image-guided needlecore procedures, fine-needle aspirations, and surgical excisions. Patients' personal characteristics were selfreported and included age, race, ethnicity, first-degree family history of breast cancer, type of health insurance coverage, and location of residence. Geographic locations for imaging facilities and participants' residence were classified according to rural-urban commuting area (RUCA) codes, which were further combined into urban (RUCA codes 1-3) and rural (RUCA codes 4-10) categories for analysis. 22 A woman's predicted risk of developing breast cancer during the next 5 and 10 years was calculated using the Breast Cancer Surveillance Consortium risk calculator. 23, 24 ",
+            "cite_spans": [
+                {
+                    "start": 719,
+                    "end": 721,
+                    "text": "22",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 886,
+                    "end": 889,
+                    "text": "23,",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 890,
+                    "end": 892,
+                    "text": "24",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Covariates"
+        },
+        {
+            "text": "Interrupted time series models were used to calculate the predicted mean number of screening mammography, diagnostic mammography, and biopsy examinations conducted per month (with 95% CIs) in the setting of the COVID-19 pandemic and in the absence of the pandemic. March 3, 2020-the date of the first COVID-19 diagnosis in North Carolina-was selected as the intervention date for the model. The percentage change (with 95% CI) was estimated by comparing predicted means given the onset of the COVID-19 pandemic versus predicted means in the absence of the pandemic. Graphic plots of CMR data from 2010 to 2018 demonstrated seasonal fluctuations in screening mammography use, which we confirmed using the Durbin-Watson test (P = .04; data not shown). Therefore, 12th-order lagged residual terms were included in the time series models to control for seasonal variation. Examination frequencies were normalized to adjust for the various number of days in each monthly interval. 25 Differences between observed and expected trends in the postintervention period were tested using the likelihood ratio test. The number of examinations not conducted, for which the absence may have been attributed to the pandemic, was estimated by summing the difference in expected examinations during the pandemic and expected examinations in the absence of the pandemic across all time periods. Standard errors were derived using matrix operations in SAS PROC IML (SAS Institute Inc).",
+            "cite_spans": [
+                {
+                    "start": 976,
+                    "end": 978,
+                    "text": "25",
+                    "ref_id": "BIBREF24"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "To determine whether changes in the receipt of screening mammography, diagnostic mammography, or biopsy disproportionately affected specific patient populations, we compared the distribution of patient characteristics during 4 time periods, which were defined based on the appearance of COVID- 19 26 ) to September 30, 2020 (the end of data collection), was considered phase 3.",
+            "cite_spans": [
+                {
+                    "start": 294,
+                    "end": 296,
+                    "text": "19",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 297,
+                    "end": 299,
+                    "text": "26",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "Random effects models were used to generate least squares mean scores (continuous variables) or predicted probabilities (categorical variables) by time period, regressing the variable of interest on the time period variable. A logit link was used when modeling categorical variables. In all least squares models, imaging facility was included as a fixed effect, a compound-symmetric, R-side random effect term was used to control for within-woman clustering, and a proportional weighting scheme was used to compute the least squares mean or predicted probability. Pairwise differences (comparing the time period in question with the pre-COVID period) in predicted means or probabilities were tested; P values were adjusted using the false-discovery rate to control for type 1 error. 27 The comparison of predicted breast cancer risk scores was restricted to screening mammography examinations. Risk scores were square-root-transformed before modeling to account for nonnormality.",
+            "cite_spans": [
+                {
+                    "start": 783,
+                    "end": 785,
+                    "text": "27",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "Among women in the subset who underwent a diagnostic mammogram and received a recommendation for a biopsy, the proportion of biopsies that occurred within 7 days of the diagnostic mammogram was computed to determine whether the pandemic was associated with time to completion. A random effects model was used to generate predicted probabilities, and pairwise differences in predicted probabilities by time period were tested using the methods described above. A post-hoc test of linear trend for the proportion of biopsies completed within 7 days was also conducted.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "To test the robustness of the results, the interrupted time series analysis was repeated using the beginning of the stay-at-home period (March 30, 2020) as the intervention date. In addition, 1 UNC CMR facility restricted screening services to women aged \u226465 years between May 4, 2020 and June 30, 2020, which may have affected comparisons of age and breast cancer risk score distributions over time. Therefore, comparisons of screening mammography patient characteristics were repeated separately for the facility with age restrictions and for facilities without age restrictions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sensitivity Analyses"
+        },
+        {
+            "text": "Statistical analyses were conducted using SAS version 9.4 (SAS Institute Inc). Two-sided P values < .05 were considered statistically significant.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Sensitivity Analyses"
+        },
+        {
+            "text": "In total, 42,412 screening mammograms, 17,793 diagnostic mammograms, and 2,321 breast biopsies were conducted among 39,444 unique women during the study period. The majority of women were non-Hispanic White (63%) or non-Hispanic Black (30%), with a mean \u00b1 SD age of 59 \u00b1 2 years (range, 18-97 years). Greater than 99% of the study population were residents of North Carolina. Out-of-state participants were most commonly from Virginia (0.52%) or South Carolina (0.11%). Of the 7 imaging facilities, 6 were located in urban areas and 1 was located in a rural area.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "In this population, the overall number of mammograms received after the start of the COVID-19 pandemic was lower than expected ( Decreases in the number of breast biopsies lagged behind decreases in screening and diagnostic mammography. The maximum reduction in the number of biopsies was not observed until May 2020, when use was 40.9% lower than expected (95% CI, \u221257.6%, \u221224.3%) (Fig.  1D ). By September 2020, the frequency of all examination types was above levels that would have been expected in the absence of COVID-19, although CIs for all estimates included the null (Fig. 1A-D) . Taking into account examination rates above and below expected, there was a mean \u00b1 SD deficit of 6501 \u00b1 1505 screening mammograms, 1167 \u00b1 488 diagnostic mammograms, and 214 \u00b1 57 breast biopsies between March 3, 2020 and September 30, 2020.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 382,
+                    "end": 391,
+                    "text": "(Fig.  1D",
+                    "ref_id": null
+                },
+                {
+                    "start": 577,
+                    "end": 588,
+                    "text": "(Fig. 1A-D)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Examination Trends Over Time"
+        },
+        {
+            "text": "Lower frequencies of screening mammography, diagnostic mammography, and breast biopsy after the start of the pandemic were confirmed in the interrupted time series analysis, in which the departure from the expected trend in the number of examinations was statistically significant for all 3 examination types (screening and Cancer Month 0, 2021 diagnostic mammography, P = .004; biopsies, P = .005) (Fig. 2) . The results did not differ when statistical models used March 30, 2020, to mark the start of the pandemic in North Carolina instead of March 3, 2020 (screening mammography, P = .003; diagnostic mammography and biopsy, P < .001; data not shown).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 399,
+                    "end": 407,
+                    "text": "(Fig. 2)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Examination Trends Over Time"
+        },
+        {
+            "text": "We observed small changes in predicted breast cancer risk over time. Compared with women who were screened in the pre-COVID period, predicted risks were lower among those who were screened in phase 1, when awareness of the pandemic was increasing, and higher during phases 2 and 3 (Table 1) . Patterns were similar for facilities that did and did not restrict screening mammography to younger women during the pandemic (Supporting Table 1 ). There were also changes in self-reported health insurance status. In addition, there was an increase in the proportion of diagnostic mammograms and biopsies among women with no health insurance coverage after the onset of the COVID-19 pandemic (Tables 2 and 3 ). Reductions in insurance coverage appear to have occurred mainly among private insurance and Medicare populations.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 281,
+                    "end": 290,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 431,
+                    "end": 438,
+                    "text": "Table 1",
+                    "ref_id": "TABREF1"
+                },
+                {
+                    "start": 686,
+                    "end": 701,
+                    "text": "(Tables 2 and 3",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Patient Characteristics Before and During the COVID-19 Pandemic"
+        },
+        {
+            "text": "After analyses were controlled for the effects of clustered data, there was no clear pattern of change in age, race/ethnicity, family history of breast cancer, or area of residence across time periods for screening mammography, diagnostic mammography, or biopsy receipt (Tables 1, 2, and 3).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Patient Characteristics Before and During the COVID-19 Pandemic"
+        },
+        {
+            "text": "Among the 1123 diagnostic mammograms that resulted in a biopsy recommendation, the proportion of biopsies performed within 7 days of the abnormal mammogram increased over time (P for trend < .001) (see Predicted means and probabilities were estimated using a least squares random effects model to adjust for within-woman clustering. For predicted breast cancer risks, a square root transformation was used before estimating the predicted mean values.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Time to Biopsy Before and During the COVID-19 Pandemic"
+        },
+        {
+            "text": "b P values compare predicted means or probabilities in the pre-COVID column with the predicted means or probabilities in the columns for phases 1 through 3.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Time to Biopsy Before and During the COVID-19 Pandemic"
+        },
+        {
+            "text": "Cancer Month 0, 2021",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Time to Biopsy Before and During the COVID-19 Pandemic"
+        },
+        {
+            "text": "Supporting Table 2 ). By phase 3, 79% of biopsies occurred within 7 days of the abnormal diagnostic mammogram, compared with only 55% occurring within 7 days during the pre-COVID period (P = .002) (see Supporting Table 2 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 11,
+                    "end": 18,
+                    "text": "Table 2",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 213,
+                    "end": 220,
+                    "text": "Table 2",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Time to Biopsy Before and During the COVID-19 Pandemic"
+        },
+        {
+            "text": "The full impact of the COVID-19 pandemic on health care use is still unknown. Reports suggest that some are postponing routine visits, with 32% of respondents to a May 2020 survey reporting that they were overdue for preventive care. 28 Institutions across the United States have reported reductions in radiology services, including mammography. 5,7-11 However, there is a lack of data addressing the extent to which the reductions are focused on screening examinations among asymptomatic women or diagnostic procedures among women with abnormalities. It is also unclear whether certain subpopulations are more likely to experience interruptions in care. Consistent with earlier reports, 5-11 our data indicate a large reduction in mammography use after the start of the pandemic. Our maximum drop in overall mammography (76% in March 2020) was slightly lower than the 80% to 99% reductions reported by others. 5, 8, [10] [11] [12] [13] Our maximum reduction in the number of breast biopsies (41% in May 2020) was lower than a 60% reduction in breast surgical consultations in April 2020 reported by others. 12 There are likely multiple factors that contributed to the drop in examinations. One reason is that patients may have stayed home because of public messaging. Initial statements from the American College of Radiology and others for individuals to postpone nonurgent care may have influenced provider and patient decision making, which resulted in canceled or delayed appointments. It is also possible that subsequent statements indicating that individuals could return to nonurgent care where safe procedures can be followed may not have had the same penetration as the initial stay home message.",
+            "cite_spans": [
+                {
+                    "start": 234,
+                    "end": 236,
+                    "text": "28",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 911,
+                    "end": 913,
+                    "text": "5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 914,
+                    "end": 916,
+                    "text": "8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 917,
+                    "end": 921,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 922,
+                    "end": 926,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 927,
+                    "end": 931,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 932,
+                    "end": 936,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1108,
+                    "end": 1110,
+                    "text": "12",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Another major reason for the reduction in examinations is the reduced operating status of imaging facilities and primary and specialty care clinics that refer women for imaging. In a survey of academic medical centers, Predicted means and probabilities were estimated using a least squares random effects model to adjust for within-woman clustering.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "b P values compare predicted means or probabilities in the pre-COVID column with the predicted means or probabilities in the columns for phases 1 through 3.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Cancer Month 0, 2021 >60% reported temporarily closing outpatient radiology facilities in response to the pandemic. 7 All of the facilities in our study either stopped performing screenings or stopped scheduling new screening appointments from the end of March through the beginning or middle of June to comply with the UNC health system's administrative directives, a period that roughly corresponds to our phase 2 (March 30 to May 21, 2020). The exact dates for which screening schedules were modified varied slightly by facility, but 6 of the 7 facilities had returned to normal operating status by mid-June of 2020. Although scheduling capacity was lowered at some facilities for diagnostic mammography and biopsy, none suspended these services completely. For all examination types, a reduced number of appointment templates to allow for social distancing also may have contributed to the lower number of examinations.",
+            "cite_spans": [
+                {
+                    "start": 116,
+                    "end": 117,
+                    "text": "7",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Screening and diagnostic mammogram use reached above-expected levels after the expiration of North Carolina's stay-at-home order on May 22, 2020 (phase 3). This likely reflects women receiving care as usual, plus the receipt of care by some women who delayed examinations during the first stages of the pandemic. In addition, changes in the state's operating status, the availability of personal protective equipment, symptom screening before appointments, the installation of protective barriers at health care facilities, and other social distancing measures likely contributed to the increase in examinations. Other studies have reported similar rebounds in mammography use between April and June of 2020, when other states also eased lockdown measures. 11, 29 The number of biopsies performed also increased in phase 3. The initial reduction in biopsy rates lagged behind the reduction in mammography, so it should be expected that the return to prepandemic levels would also lag behind. Somewhat counterintuitively, the proportion of biopsies completed within 7 days of an abnormal mammogram was higher during the pandemic. Potential explanations for this include fewer women using screening and diagnostic mammography services, which may have contributed to increased physician availability and a greater number of available biopsy appointment times at facilities. Although the rebounds in examination rates are reassuring, we estimate that there were still deficits of Predicted means and probabilities were estimated using a least squares random effects model to adjust for within-woman clustering.",
+            "cite_spans": [
+                {
+                    "start": 757,
+                    "end": 760,
+                    "text": "11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 761,
+                    "end": 763,
+                    "text": "29",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "b P values compare predicted means or probabilities in the pre-COVID column with the predicted means or probabilities in the columns for phases 1 through 3.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Cancer Month 0, 2021 6501 screening mammograms, 1167 diagnostic mammograms, and 214 biopsies during the study period. These 6501 screening examinations represent approximately 33 missed cancer diagnoses, 30 and there could be even more undiagnosed cancers if the diagnostic mammograms that were not conducted were linked to indications other than routine screening (eg, breast symptoms). Ongoing monitoring of these trends in the ensuing years will be crucial to understanding the long-term impact of examinations that were not conducted during the pandemic. As detailed outcome data become available, it will also be important to examine whether there are changes in the proportions of malignant, high-risk, and benign diagnoses resulting from biopsies performed during the COVID-19 pandemic. A thorough examination of such data was beyond the scope of this report but will be essential to assessing the degree to which clinically relevant diagnoses may have gone undiagnosed during the COVID-19 era.",
+            "cite_spans": [
+                {
+                    "start": 204,
+                    "end": 206,
+                    "text": "30",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The results of this and other studies can inform us about what to expect as the pandemic recovery continues and what might happen if there is a COVID-19 resurgence that requires a similar suspension of nonurgent services. Our data suggest that the proportion of women undergoing diagnostic evaluations who had health insurance declined after the onset of the pandemic. This is not surprising given the widespread negative economic effect of the pandemic, combined with the prevalence of employer-based health insurance plans in the United States. However, it is unclear why a similar pattern was not observed among screening mammography examinations. We observed few other demographic changes. There was some evidence that the underlying breast cancer risk of women screened may have changed with time. There is no clear explanation for why women with higher breast cancer risk were less likely to participate in screening immediately after the pandemic's onset. The change is unlikely to have been caused by older women avoiding care because we found that the mean age of women screened was relatively constant across time periods. The statistical significance of these results may be because of the study's large sample size; however, the clinical significance is unclear.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "We initially hypothesized that we might observe differences in examination use by race/ethnicity, but such disparities were not observed in this population during the time period we examined. Although non-Hispanic Black and other non-White women were represented in lower numbers among biopsy participants in phase 3 (May 22 to September 30, 2020), the differences were not statistically significant after accounting for clustering in regression models. Additional monitoring of health care use among vulnerable populations is still needed as the nature of the pandemic evolves. For example, we hypothesized that examinations might be disproportionately lower among non-White individuals if they perceived that they were at higher risk of contracting COVID-19. As of November 2020, the daily number of new infections in the United States was at an all-time high and increasing rapidly. 31 Over time, those opting out of preventive and diagnostic cancer care will include a greater proportion of those actively infected with COVID-19 in addition to high-risk individuals trying to avoid exposure. Thus the overall impact on racial disparities may change.",
+            "cite_spans": [
+                {
+                    "start": 886,
+                    "end": 888,
+                    "text": "31",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "This study has multiple strengths, including the use of individual-level data, which allowed us to examine specific patient subgroups. In addition, we analyzed data from multiple academic and community-based imaging facilities within the UNC health system, a large regional health care network. Interrupted time series modeling allowed us to evaluate trends during the pandemic while accounting for prepandemic trends. Our analysis distinguished between screening and diagnostic mammography, demonstrating different rates of decline based on mammography type. Screening mammograms were more susceptible to being delayed during the onset of the pandemic. This is important for logistical planning of future shutdowns and understanding how patients might be triaged and rescheduled.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Limitations include variation in imaging facility schedules. We were unable to account for all of the differences in our statistical models. However, we used sensitivity analyses to evaluate the potential effects of some facility-specific differences. We also lacked information about what influenced women's decisions to seek care. Family history was self-reported, but we do not know how many women were aware of their predicted breast cancer risk. Population-based surveys that collect patient-reported data on why individuals did or did not choose to seek care are necessary to clarify how pandemic-related barriers to care affect different population subgroups.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In summary, the frequency of breast screening and diagnostic examinations in our study population was significantly lower than expected after the start of the COVID-19 pandemic. Examination rates appear to be returning to or exceeding expected levels. However, continued monitoring is needed to ensure that the use of these services returns to expected levels among all population subgroups. Among women receiving screening mammography, it appears that women at higher risk for breast cancer were more likely to Cancer Month 0, 2021 seek care toward the end of the study period. This is reassuring, given fears that delayed screenings could contribute to delayed cancer diagnoses. Our findings suggest that, if current patterns continue, the excess number of large and late-stage breast cancers related to the pandemic may be lower than expected because of the lower breast cancer risk among women who delayed screening. The impact of COVID-19 on breast cancer disparities remains to be seen, but these data suggest that COVID-19-related reductions in radiology services related to breast cancer detection are unlikely to be a major factor.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "This study was supported by a grant from the National Institutes of Health (P01-CA154292-06).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FUNDING SUPPORT"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Centers for Medicare & Medicaid Services (CMS). CMS Releases Recommendations on Adult Elective Surgeries",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "American Cancer Society joins chorus advocating for delay of routine radiology screenings. Radiology Business. TriMed Media Group Inc",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Stempniak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "CMS Issues Recommendations to Re-Open Health Care Systems in Areas With Low Incidence of COVID-19",
+            "authors": [],
+            "year": 2020,
+            "venue": "Centers for Medicare & Medicaid Services (CMS)",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "COVID-19 and cancer",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Sharpless",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Science",
+            "volume": "368",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.abd3377"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Characteristics of coronavirus disease 2019 (COVID-19) community practice declines in noninvasive diagnostic imaging professional work",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Duszak R Jr",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Maze",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Sessa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Am Coll Radiol",
+            "volume": "17",
+            "issn": "",
+            "pages": "1453--1459",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jacr.2020.06.031"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Preventive Cancer Screenings During COVID-19 Pandemic. Epic Health Research Network",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Operational radiology recovery in academic radiology departments after the COVID-19 pandemic: moving toward normalcy",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Siegal",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Wessman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zadorozny",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Am Coll Radiol",
+            "volume": "17",
+            "issn": "",
+            "pages": "1101--1107",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jacr.2020.07.004"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "COVID-19 pandemic impact on decreased imaging utilization: a single institutional experience",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Parikh",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Ramaiya",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Kikano",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Acad Radiol",
+            "volume": "27",
+            "issn": "",
+            "pages": "1204--1213",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.acra.2020.06.024"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Rescheduling nonurgent care in radiology: implementation during the coronavirus disease 2019 (COVID-19) pandemic",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vagal",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mahoney",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Allen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Am Coll Radiol",
+            "volume": "17",
+            "issn": "",
+            "pages": "882--889",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jacr.2020.05.010"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Impact of the coronavirus disease 2019 (COVID-19) pandemic on imaging case volumes",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Naidich",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Boltyenkov",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Chusid",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hughes",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Sanelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Am Coll Radiol",
+            "volume": "17",
+            "issn": "",
+            "pages": "865--872",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jacr.2020.05.004"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Variables influencing radiology volume recovery during the next phase of the coronavirus disease 2019 (COVID-19) pandemic",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Madhuripan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Hmc",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "Alicia",
+                    "middle": [],
+                    "last": "Cheong",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Jawahar",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Willis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Larson",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Am Coll Radiol",
+            "volume": "17",
+            "issn": "",
+            "pages": "855--864",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jacr.2020.05.026"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Breast imaging, breast surgery, and cancer genetics in the age of COVID-19",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Singh",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Drohan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Hughes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cancer",
+            "volume": "126",
+            "issn": "",
+            "pages": "4466--4472",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/cncr.33113"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Early-stage radiology volume effects and considerations with the coronavirus disease 2019 (COVID-19) pandemic: adaptations, risks, and lessons learned",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Norbash",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Recht",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Am J Coll Radiol",
+            "volume": "17",
+            "issn": "",
+            "pages": "1086--1095",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jacr.2020.07.001"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Disparities in outcomes among COVID-19 patients in a large health care system in California",
+            "authors": [
+                {
+                    "first": "Kmj",
+                    "middle": [],
+                    "last": "Azar",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Romanelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Health Aff",
+            "volume": "39",
+            "issn": "",
+            "pages": "1253--1262",
+            "other_ids": {
+                "DOI": [
+                    "10.1377/hlthaff.2020.00598"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Racial and ethnic disparities among COVID-19 cases in workplace outbreaks by industry sector-Utah",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Bui",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mccaffrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Friedrichs",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "MMWR Morb Mortal Wkly Rep",
+            "volume": "69",
+            "issn": "",
+            "pages": "1133--1138",
+            "other_ids": {
+                "DOI": [
+                    "10.15585/mmwr.mm6933e3"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Black-White risk differentials in COVID-19 (SARS-COV2) transmission, mortality and case fatality in the United States: translational epidemiologic perspective and challenges",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Holmes",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Enwere",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Williams",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Environ Res Public Health",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/ijerph17124322"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Assessing racial and ethnic disparities using a COVID-19 outcomes continuum for New York State",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Holtgrave",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Barranco",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Tesoriero",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Blog",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Rosenberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Ann Epidemiol",
+            "volume": "48",
+            "issn": "",
+            "pages": "9--14",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.annepidem.2020.06.010"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "National disparities in COVID-19 outcomes between Black and White Americans",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Poulson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Geary",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Annesi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Natl Med Assoc",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jnma.2020.07.009"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Racial and ethnic disparities in SARS-CoV-2 pandemic: analysis of a COVID-19 observational registry for a diverse US metropolitan population",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Vahidy",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Nicolas",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Meeks",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMJ Open",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmjopen-2020-039849"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "The Carolina Mammography Registry: a population-based mammography and cancer surveillance project",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Yankaskas",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Aldrich",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "J Registry Manag",
+            "volume": "23",
+            "issn": "",
+            "pages": "175--178",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Breast Cancer Surveillance Consortium: a national mammography screening and outcomes database",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ballard-Barbash",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Taplin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Yankaskas",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "AJR Am J Roentgenol",
+            "volume": "169",
+            "issn": "",
+            "pages": "1001--1008",
+            "other_ids": {
+                "DOI": [
+                    "10.2214/ajr.169.4.9308451"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Rural-Urban Commuting Area Codes",
+            "authors": [],
+            "year": 2020,
+            "venue": "Economic Research Service",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Breast density and benign breast disease: risk assessment to identify women at high risk of breast cancer",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Tice",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Miglioretti",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Vachon",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Gard",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kerlikowske",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "J Clin Oncol",
+            "volume": "33",
+            "issn": "",
+            "pages": "3137--3143",
+            "other_ids": {
+                "DOI": [
+                    "10.1200/jco.2015.60.8869"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Using clinical factors and mammographic breast density to estimate breast cancer risk: development and validation of a new predictive model",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Tice",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Cummings",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Smith-Bindman",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ichikawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Barlow",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kerlikowske",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Ann Intern Med",
+            "volume": "148",
+            "issn": "",
+            "pages": "337--347",
+            "other_ids": {
+                "DOI": [
+                    "10.7326/0003-4819-148-5-200803040-00004"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Calendar effects in monthly time series: modeling and adjustment",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Cleveland",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Devlin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "J Am Stat Assoc",
+            "volume": "77",
+            "issn": "",
+            "pages": "520--528",
+            "other_ids": {
+                "DOI": [
+                    "10.2307/2287705"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "COVID-19 Executive Orders",
+            "authors": [
+                {
+                    "first": "North",
+                    "middle": [],
+                    "last": "State Of",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Carolina",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Controlling the false discovery rate: a practical and powerful approach to multiple testing",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Benjamini",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hochberg",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "J R Stat Soc B",
+            "volume": "57",
+            "issn": "",
+            "pages": "289--300",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "COVID-19 Patient Primary Care Survey: Series 1 Fielded",
+            "authors": [
+                {
+                    "first": "The",
+                    "middle": [],
+                    "last": "Larry",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "Green"
+                    ],
+                    "last": "Center",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Delayed cancer screenings-a second look. Epic Health Research Network",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Mast",
+                    "suffix": ""
+                },
+                {
+                    "first": "Munoz",
+                    "middle": [],
+                    "last": "Del Rio",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "National performance benchmarks for modern screening digital mammography: update from the Breast Cancer Surveillance Consortium",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Lehman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Arao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Sprague",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Radiology",
+            "volume": "283",
+            "issn": "",
+            "pages": "49--58",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiol.2016161174"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Trends in Number of COVID-19 Cases and Deaths in the US Reported to CDC",
+            "authors": [],
+            "year": null,
+            "venue": "Centers for Disease Control and Prevention (CDC)",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Fig. 1A), with maximum reductions (vs expected reductions) occurring in March 2020 (screening mammography, \u221285.1%; 95% CI, \u2212100.0%, \u221270.0%)(Fig. 1B)(diagnostic mammography, \u221248.9%; 95% CI, \u221271.7%, \u221226.2%)(Fig. 1C).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Monthly change in breast screening and diagnostic procedures after the onset of the COVID-19 pandemic. The predicted mean numbers of examinations for (A) all mammograms, (B) screening mammograms, (C) diagnostic mammograms, and (D) breast biopsies conducted among participants at a subset of Carolina Mammography Registry imaging facilities were estimated using interrupted time series models. For each month after the onset of the pandemic (through September 30, 2020), the percentage change estimate compares the observed predicted mean with the expected predicted mean. Vertical lines within the histogram bars denote the 95% CIs for each estimated proportion. Trends in screening mammography, diagnostic mammography, and breast biopsy before and during the coronavirus disease 19 (COVID-19) pandemic are illustrated. Time series plots show expected (solid red line) and observed (solid blue line) trends in (A) screening mammography, (B) diagnostic mammography, and (C) and breast biopsy between January 1, 2019 and September 30, 2020. The number of examinations is indicated on the y-axis, and calendar time is indicated on the x-axis. The expected number of examinations was modeled based on the preintervention trend (before March 3, 2020; denoted by the vertical line). The dotted lines around the observed number of examinations indicate 95% confidence bands.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "in North Carolina and the timing of executive orders issued",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Comparison of Characteristics Among Screening Mammography Attendees in the University of North Carolina-Based Carolina Mammography Registry Before and After Onset of the Coronavirus Disease 2019 Pandemic: January 1, 2019 Through September 30, 2020",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Comparison of Characteristics Among Diagnostic Mammography Attendees in the University of North Carolina-Based Carolina Mammography Registry Before and After Onset of the Coronavirus Disease 19 Pandemic: January 1, 2019 Through September 30, 2020",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Comparison of Characteristics Among Patients Who Underwent Breast Biopsy in the University of North Carolina-Based Carolina Mammography Registry Before and After Onset of the Coronavirus Disease 2019 Pandemic: January 1, 2019 Through September 30, 2020",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors made no disclosures. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONFLICT OF INTEREST DISCLOSURES"
+        }
+    ]
+}

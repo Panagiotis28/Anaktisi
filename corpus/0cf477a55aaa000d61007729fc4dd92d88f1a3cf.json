@@ -1,0 +1,2090 @@
+{
+    "paper_id": "0cf477a55aaa000d61007729fc4dd92d88f1a3cf",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Keigo",
+                "middle": [],
+                "last": "Asai",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hokkaido University of Education",
+                    "location": {
+                        "settlement": "Hokkaido",
+                        "country": "Japan"
+                    }
+                },
+                "email": "asai.keigo@k.hokkyodai.ac.jp"
+            },
+            {
+                "first": "Koubun",
+                "middle": [],
+                "last": "Wakashima",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tohoku University",
+                    "location": {
+                        "settlement": "Sendai",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sayaka",
+                "middle": [],
+                "last": "Toda",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Foundation of Brieftherapy",
+                    "location": {
+                        "settlement": "Tokyo",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kohei",
+                "middle": [],
+                "last": "Koiwa",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tohoku University",
+                    "location": {
+                        "settlement": "Sendai",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Infections caused by new coronaviruses (coronavirus disease 2019, or COVID-19) are continuing to spread on a global scale. As of January 1, 2021, there were approximately 83 million infections (confirmed cases) and 1,826,176 deaths worldwide ( Johns Hopkins University, 2021 ) . The psychological problems associated with COVID-19 have also been increasing in light of the spread of the pandemic.",
+            "cite_spans": [
+                {
+                    "start": 60,
+                    "end": 78,
+                    "text": "2019, or COVID-19)",
+                    "ref_id": null
+                },
+                {
+                    "start": 242,
+                    "end": 276,
+                    "text": "( Johns Hopkins University, 2021 )",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "One of the most noted psychological problems caused by a pandemic is anxiety (e.g. Ahmed et al., 2020 ; Ahorsu et al., 2020b ; Soraci et al., 2020 ) . Fears of COVID-19 can affect not only mental health issues such as depression ( Sakib et al., 2020 ) , but also social behaviors such as hoarding groceries and necessities ( Corbett et al., 2020 ; Wakashima et al., 2020 ) . Based on these contextual concerns, the Fear tries, pregnant women have refrained from visiting healthcare facilities for fear of infection due to hospital visits, or have felt isolated from social support networks and healthcare facilities designated for pregnant women suspected of having COVID-19. A study of pregnant Chinese women has shown that the perceived stress, depression, and anxiety of pregnant women in a pandemic situation are higher than those of normal pregnant women . On a couple level, wives' depression, anxiety, suicide intention, mental health quality of life, and preventive COVID-19 behaviors are associated with husbands' anxiety ( Ahorsu et al., 2020a ) .",
+            "cite_spans": [
+                {
+                    "start": 83,
+                    "end": 103,
+                    "text": "Ahmed et al., 2020 ;",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 104,
+                    "end": 126,
+                    "text": "Ahorsu et al., 2020b ;",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 127,
+                    "end": 148,
+                    "text": "Soraci et al., 2020 )",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 229,
+                    "end": 251,
+                    "text": "( Sakib et al., 2020 )",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 323,
+                    "end": 347,
+                    "text": "( Corbett et al., 2020 ;",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 348,
+                    "end": 372,
+                    "text": "Wakashima et al., 2020 )",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1031,
+                    "end": 1055,
+                    "text": "( Ahorsu et al., 2020a )",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Concerns have been raised about delays in treatment for those undergoing fertility treatments ( Rowe and Quinlivan, 2020 ; Vaughan et al., 2020 ) . A survey of fertile women in New England and the United States looked at stressors in January before the pandemic began, in March when the pandemic began, and in April when the pandemic was in progress, with infertility being the top stressor in each case ( Vaughan et al., 2020 ) . Thus, fertile women face the stressor of fertility treatment, even in usual times. However, under a pandemic, it can be suggested that they face additional stressors such as delayed treatment.",
+            "cite_spans": [
+                {
+                    "start": 94,
+                    "end": 122,
+                    "text": "( Rowe and Quinlivan, 2020 ;",
+                    "ref_id": null
+                },
+                {
+                    "start": 123,
+                    "end": 145,
+                    "text": "Vaughan et al., 2020 )",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 404,
+                    "end": 428,
+                    "text": "( Vaughan et al., 2020 )",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "In Japan, the fear of COVID-19 not only directly increased engagement in all coping behaviors, but also indirectly increased stockpiling through conforming behavior ( Wakashima et al., 2020 ) . In Japan, the social environment surrounding pregnant women has also changed because of the pandemic, with companies forcing pregnant women to go to work ( Koizumi, 2020 ) , and expectant mothers living in large cities are asked to refrain from giving birth in their hometowns ( Ichino, 2020 ) . With regard to infertility treatment, about 90% of medical institutions offering infertility treatment reported that the number of patients had decreased ( Japan Society of Fertilization and Implantation, 2020 ). Therefore, fertility patients face the dilemma of postponing treatment to reduce the risk of infection and the loss of opportunity for pregnancy due to postponement.",
+            "cite_spans": [
+                {
+                    "start": 165,
+                    "end": 191,
+                    "text": "( Wakashima et al., 2020 )",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 348,
+                    "end": 365,
+                    "text": "( Koizumi, 2020 )",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 471,
+                    "end": 487,
+                    "text": "( Ichino, 2020 )",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Traditionally in Japan, women have been asked \"Are you married?\" as a greeting or \"Do you have children?\" without hesitation. Moreover, some older people criticize childless women and believe that women are the cause of infertility. Therefore, Japanese infertility patients have higher psychological stress than pregnant women (Matsubayashi et al., 2001) . This trend is also observed in countries with similar beliefs about pregnancy (Fido and Zahid, 2004) . However, these results indicate situations before the spread of COVID-19. Currently, pregnant women and fertility patients are subjected to daily stressors as well as social stresses described above.",
+            "cite_spans": [
+                {
+                    "start": 327,
+                    "end": 354,
+                    "text": "(Matsubayashi et al., 2001)",
+                    "ref_id": null
+                },
+                {
+                    "start": 435,
+                    "end": 457,
+                    "text": "(Fido and Zahid, 2004)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Despite this social context, there has been no research on the reliability and validity scale of the concerns of pregnant women and infertility patients. The purpose of this study was to clarify the fears of pregnant and infertile patients in Japan about COVID-19. We also compared the FCV-19S scores of pregnant women in Japan with those in Iran ( Ahorsu et al. 2020a ) as a supplementary measure, especially since the Japanese version of the FCV-19S does not have a cutoff point.",
+            "cite_spans": [
+                {
+                    "start": 347,
+                    "end": 368,
+                    "text": "( Ahorsu et al. 2020a",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Data were collected in Japan. A total of 404 pregnant women and 36 infertile patients were recruited through an online service (SurveyMonkey). To confirm that participants are pregnant or undergoing fertility treatment, they were asked the questions: \"Are you currently pregnant?\"; \"Are you currently undergoing fertility treatment?\" Participants were excluded if they responded they are (1) not pregnant or infertile patients, (2) were men, and (3) did not respond completely to all measures. In all, responses from 292 pregnant women (aged 23 to 42; mean age = 31.18 (SD = 3.89)) and 13 infertile patients (aged 33 to 43; mean age = 37.69 (SD = 3.64)) were analyzed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Participants and procedure"
+        },
+        {
+            "text": "With regard to pregnant women, the purpose of the survey and links to the questions were published on a free information website for preg-nant women ( https://ninps.com/ ), and responses were requested on a voluntary basis between May 21 and May 31, 2020. With regard to infertile patients, the purpose of the survey and links to the questions were published on the websites of fertility clinics, and responses were requested on a voluntary basis between May 19 and June 6, 2020. The participants read the descriptions of the study and agreed to take part in it by opting into the study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Participants and procedure"
+        },
+        {
+            "text": "The FCV-19S developed by Ahorsu et al., (2020b) , was used to assess pregnant and infertile patients' fear of COVID-19. It is a unidimensional, seven-item scale. Items are answered on a five-point Likert-type scale (strongly disagree = 1 to strongly agree = 5). The total score (sum of individual response items) ranges from 7 to 35, with higher scores indicating a higher fear of COVID-19. A Japanese version ( Wakashima et al., 2020 ) was used.",
+            "cite_spans": [
+                {
+                    "start": 25,
+                    "end": 47,
+                    "text": "Ahorsu et al., (2020b)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 410,
+                    "end": 436,
+                    "text": "( Wakashima et al., 2020 )",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Fear of the COVID-19 Scale (FCV-19S)"
+        },
+        {
+            "text": "We asked participants what actions they take to cope with COVID-19 and their reasons ( Wakashima et al., 2020 ) . Behavior to cope with COVID-19 is a 13-item scale comprising eight items relating to being careful in daily life (e.g., avoiding places with large crowds), two items relating to stockpiling (e.g., purchasing food in larger quantities than usual), and three items relating to health monitoring (e.g., monitoring heath condition more carefully than before). Reasons for behavior to cope with COVID-19 is a five-item scale comprising two items relating to self-determination (e.g., I did it because I felt it was necessary for myself) and four items relating to conforming behavior (e.g., I did it because other people told me to). Items were answered on a six-point Likert-type scale (strongly disagree = 1 to strongly agree = 6).",
+            "cite_spans": [
+                {
+                    "start": 85,
+                    "end": 111,
+                    "text": "( Wakashima et al., 2020 )",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Their actions taken to cope with COVID-19 and reasons"
+        },
+        {
+            "text": "As with Wakashima et al., (2020) , questions concerning the demographic characteristics of participants (age, smoker, living with family) and risk factors such as current health condition, disease undergoing treatment, employment status, family communication in the last month, family conflict in the last month, the most important source of information, presence of infected people in your area (prefecture), and presence of infected acquaintance were included in this survey. Especially, for the most important source of information, we considered it to be a risk factor that could affect mental health because COVID-19 related information changes rapidly.",
+            "cite_spans": [
+                {
+                    "start": 8,
+                    "end": 32,
+                    "text": "Wakashima et al., (2020)",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Demographic variables and risk factors"
+        },
+        {
+            "text": "This study was approved by the Tohoku University Graduate School of Education's ethics committee (ID: 20-1-003). Participants were informed of the purpose of the survey, that participation was voluntary, that the survey was anonymous, and that personal information would not be disclosed to third parties. Only those who agreed to complete the survey were allowed to proceed with it.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethical consideration"
+        },
+        {
+            "text": "To investigate the association between each variable and pregnant and infertile patients, Fisher's exact test was conducted for qualitative variables, and Wilcoxon rank-sum tests were conducted for quantitative variables. For pregnant women, a t-test was conducted for comparison with data on the fear of pregnant women in Iran ( Ahorsu et al., 2020a ) . In addition, multiple regression analysis was conducted to identify the relationship between each variable and anxiety. As for infertile patients, only pregnant women were included in the study because the number of participants was small. In the multiple regression analysis, employment status and the most important source of information were grouped into Parentheses indicate standard deviation.",
+            "cite_spans": [
+                {
+                    "start": 328,
+                    "end": 352,
+                    "text": "( Ahorsu et al., 2020a )",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data analysis"
+        },
+        {
+            "text": "two groups. Specifically, full-time workers and part-time workers were grouped together as the working group, and maternity leave and students/unemployed were grouped together as the non-working group.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data analysis"
+        },
+        {
+            "text": "Regarding the most important source of information, newspaper and news/talk shows on TV were categorized as traditional media viewing group, referring to Riehm et al., (2020) . Websites of public organizations, news on the Internet, and SNS were categorized as Internet and social media use groups. All analyses were performed using Mplus 8.1 ( Muth\u00e9n and Muth\u00e9n, 2017 ) and R statistical software (R 3.6.3 ( R Core Team, 2020 )). Two-tailed tests were used for all statistical analyses. In all statistical evaluations, a p -value of less than 0.05 was considered to indicate a significant difference. For missing data, pairwise deletion was used. Table 1 shows the participants' basic characteristics. There was a significant association between attributes (pregnant women and fertility patients) and age, and pregnant women had significantly higher FCV-19S scores than fertility patients. Furthermore, when compared to the study by Ahorsu et al. (2020a) using FCV-19S for pregnant women, the fear scores of pregnant women in Japan were significantly higher than those of pregnant women in Iran (t (577.49) = 15.50, < .001; d = 1.28, 95% CI (1.11, 1.46)).",
+            "cite_spans": [
+                {
+                    "start": 154,
+                    "end": 174,
+                    "text": "Riehm et al., (2020)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 343,
+                    "end": 370,
+                    "text": "( Muth\u00e9n and Muth\u00e9n, 2017 )",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 934,
+                    "end": 955,
+                    "text": "Ahorsu et al. (2020a)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 648,
+                    "end": 655,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Data analysis"
+        },
+        {
+            "text": "Multiple regression analysis showed a significant and positive relationship between the FCV-19S and stockpiling and health monitoring ( Table 2 ) . Regarding newspaper or TV information as the most important source was significantly and negatively associated with FCV-19S. Those who regarded the Internet or SNS as an important source were less anxious than those who regarded newspapers and TV as an important source.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 136,
+                    "end": 145,
+                    "text": "Table 2 )",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Differences based on relevant variables"
+        },
+        {
+            "text": "The purpose of this study was to investigate the fear of COVID-19 among pregnant and infertile patients in Japan. The findings showed that pregnant women had higher levels of anxiety about COVID-19 when .246 * * * * p < .05, * * * p < .001.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "compared to infertile patients. This may have been influenced by the vulnerability of pregnant women and fetuses to natural disasters and major disease outbreaks ( Favre et al., 2020 ; Watanabe et al., 2016 ) and the lack of clarity about the impact of COVID-19 on the fetus ( Liang and Acharya, 2020 ; Qiao, 2020 ) . Moreover, pregnant women in Japan had higher anxiety scores than pregnant women in Iran. In Japan, companies are forcing pregnant women to go to work ( Koizumi, 2020 ) , and pregnant women living in large cities are being asked to refrain from giving birth in their hometowns ( Ichino, 2020 ) . In Japan, many pregnant women have traditional support (Satogaeri bunben); they return to their parents' homes to receive assistance for childbirth ( Ishikawa et al., 2011 ; Yoshida et al., 2001 ) . However, this support is no longer available as the pandemic has restricted the movement of people. In addition, services other than maternity care (e.g., parents' classes for group education and communication) have been withdrawn from maternity facilities to prevent infection ( Komatsu et al., 2020 ) . These findings suggest that Japanese society views pregnant women as a social risk, and that pregnant women in Japan may have shown a high level of anxiety because they are placed in an unpredictable situation where they may not receive the care they expect. In terms of factors associated with anxiety among pregnant women, the most important source of information, stockpiling, and health monitoring were found to be associated with the fear of COVID-19. Those who valued information from the Internet and social networking sites had a lower fear of COVID-19 than those who valued information from traditional media outlets such as newspapers and TV programs. For pregnant women, social networking sites and the Internet provided access to the information they need on their own. In China, antenatal health care information disseminated by hospitals using social media platforms was associated with a lower risk of stress, anxiety, and depression among pregnant women . Therefore, the use of social media in Japan as a means of disseminating antenatal health care information can decrease anxiety among pregnant women.",
+            "cite_spans": [
+                {
+                    "start": 162,
+                    "end": 184,
+                    "text": "( Favre et al., 2020 ;",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 185,
+                    "end": 208,
+                    "text": "Watanabe et al., 2016 )",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 275,
+                    "end": 302,
+                    "text": "( Liang and Acharya, 2020 ;",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 303,
+                    "end": 315,
+                    "text": "Qiao, 2020 )",
+                    "ref_id": null
+                },
+                {
+                    "start": 468,
+                    "end": 485,
+                    "text": "( Koizumi, 2020 )",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 594,
+                    "end": 610,
+                    "text": "( Ichino, 2020 )",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 761,
+                    "end": 786,
+                    "text": "( Ishikawa et al., 2011 ;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 787,
+                    "end": 809,
+                    "text": "Yoshida et al., 2001 )",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 1090,
+                    "end": 1114,
+                    "text": "( Komatsu et al., 2020 )",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "On the other hand, newspapers and TV are aimed at a wider reader/audience base, so information that is not relevant to pregnant women is also received. Therefore, traditional media, such as newspapers and television, are associated with increased fears in pregnant women.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "As for stockpiling, it was found to increase the fear of COVID-19 among pregnant women. Many also reported stocking up in a survey of pregnant women in Ireland ( Corbett et al., 2020 ) . Stockpiling is therefore considered to be a behavior that occurs across cultures.",
+            "cite_spans": [
+                {
+                    "start": 160,
+                    "end": 184,
+                    "text": "( Corbett et al., 2020 )",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Health monitoring was also found to increase anxiety. In the face of the COVID-19 disaster, a study of patients with inflammatory bowel disease (IBD) reported self-imposed prevention measures, including handwashing, after educational and instructional alerts on SNS were issued . A survey of the general population also revealed that fear of COVID-19 enhances health monitoring ( Wakashima et al., 2020 ) . For the prevention of psychological problems associated with COVID-19, it is important to have accurate knowledge and a comprehensive understanding of relevant prevention methods . Although health monitoring is an important coping strategy for both the general public and pregnant women in protecting their health, the results of this study suggest an association between health monitoring and fear of COVID-19 among pregnant women. Therefore, when providing information on self-imposed prevention measures to pregnant women, it is necessary to provide information on infection prevention measures as well as information on the psychological care of pregnant women.",
+            "cite_spans": [
+                {
+                    "start": 378,
+                    "end": 404,
+                    "text": "( Wakashima et al., 2020 )",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "This study has some limitations. The first concerns the methodology of the investigation. The data for this study are cross-sectional data collected through an online survey. Therefore, it is not possible to infer a strict causal relationship. In the present study, the factors of fear, including coping behaviors, were used as independent variables and the fear of COVID-19 as the dependent variable. However, Wakashima et al. (2020) examined a model that assumed a path from anxiety to coping behaviors. In other words, the relationship between coping behaviors and fear of COVID-19 could relate to both the possibility that coping behaviors evoke fear and the possibility that fear evokes coping behaviors. In future research, longitudinal data should be used to determine the causal relationships between anxiety and related factors.",
+            "cite_spans": [
+                {
+                    "start": 411,
+                    "end": 434,
+                    "text": "Wakashima et al. (2020)",
+                    "ref_id": "BIBREF26"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Limitations"
+        },
+        {
+            "text": "The second limitation concerns the comparison with other countries. In this study, we compared the FCV-19S scores of Japanese pregnant women with those of Iranian pregnant women ( Ahorsu et al., 2020a ) . However, this result does not consider the infection status of both countries. In the future, it is recommended to conduct epidemiological studies in multiple countries at the same time to compare the results regarding fear of COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 178,
+                    "end": 202,
+                    "text": "( Ahorsu et al., 2020a )",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Limitations"
+        },
+        {
+            "text": "The third limitation concerns the content of the sources that pregnant women emphasize. The study asked about the sources of information that pregnant women considered important; however, the study did not ask about the content of the sources. Particularly, in the case of social networking sites, it is not just the aspect of gathering the information you need. There is also the aspect of being able to connect with others in a similar position. It is also conceivable that if pregnant women value information from the web or social networking sites, they may place more importance on information that is uncertain but reassuring to them than on the accuracy of the information. In addition, this study did not measure the amount of time participants spend on social media, which is also likely to influence the most important source of information and the content they view. Future research will need to examine what aspects of the web and social networking sites have led to a decrease in the fear of COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Limitations"
+        },
+        {
+            "text": "Despite the limitations described above, this is the first study to investigate the fear of pregnant women and infertility patients in Japan during the coronavirus disaster. This study revealed that pregnant women in Japan were more anxious than infertile patients and more anxious than pregnant women in other countries, and pregnant women's anxiety was associated with the information they valued, stockpiling, and health monitoring. In particular, health monitoring, while a necessary action to prevent infection, was associated with high levels of anxiety among pregnant women. Therefore, it will be necessary to provide not only accurate information about the prevention of infectious diseases but also information that will alleviate the anxiety of pregnant women.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        },
+        {
+            "text": "The study was approved by the Ethics Committee of Tohoku University Graduate School of Education (ID: 20-1-003).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethics"
+        },
+        {
+            "text": "This research did not receive any specific grant from funding agencies in the public, commercial or not-for -profit sections.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "KA and KW conceived, designed, and conducted the study with the help of ST and KK. KA analyzed the data and drafted the manuscript, and all authors reviewed and revised the manuscript equally.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Author contributions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Fear and practice modifications among dentists to combat Novel Coronavirus Disease (COVID-19) outbreak",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ahmed",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jouhar",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Ahmed",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Adnan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Aftab",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Zafar",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Khurshid",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int. J. Environ. Res. and Public Health",
+            "volume": "17",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Associations between fear of COVID-19, mental health, and preventive behaviours across pregnant women and husbands: an actorpartner interdependence modelling",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Ahorsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Imani",
+                    "suffix": ""
+                },
+                {
+                    "first": "C.-Y",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Timpka",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Brostr\u00f6m",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Updegraff",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "\u00c5restedt",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Griffiths",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Pakpour",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int. J. Ment. Health Ad",
+            "volume": "",
+            "issn": "",
+            "pages": "1--15",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "The fear of COVID-19 scale: development and initial validation",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Ahorsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Imani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Saffari",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Griffiths",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Pakpour",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int. J. Ment. Health Ad",
+            "volume": "",
+            "issn": "",
+            "pages": "1--9",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Prevention of COVID-19 in patients with IBD in Wuhan",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "An",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ji",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Su",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Ding",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Lv",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ding",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Lancet Gastroenterol. Hepatol",
+            "volume": "5",
+            "issn": "",
+            "pages": "525--527",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "The psychological impact of the COVID-19 epidemic on college students in China",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Hou",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Psychiatry Res",
+            "volume": "287",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Health anxiety and behavioural changes of pregnant women during the COVID-19 pandemic",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Corbett",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Milne",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Hehir",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Lindow",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "O&apos;connell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Eur. J. Obstet. Gynecol. Reprod. Biol",
+            "volume": "249",
+            "issn": "",
+            "pages": "96--97",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Assessing coronavirus fear in the Indian population using the fear of COVID-19 Scale",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Doshi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Karunakar",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Sukhabogi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Prasanna",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Mahajan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int. J. Ment. Health Ad",
+            "volume": "1",
+            "issn": "",
+            "pages": "1--9",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "2019-nCoV epidemic: what about pregnancies?",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Favre",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Pomar",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Musso",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Baud",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Doctors warn pregnant women not to flee to remote hospitals",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Ichino",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Prospective study of maternal depressive symptomatology among Japanese women",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Ishikawa",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Goto",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Murase",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kanai",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Masuda",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Aleksic",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Usui",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Ozaki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J. Psychosom. Res",
+            "volume": "71",
+            "issn": "",
+            "pages": "264--269",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Japan Society of Fertilization and Implantation, 2020. Current status and countermeasures of COVID-19 in fertility treatment facilities",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Evidence of accessing antenatal care information via social media platforms supports mental wellbeing in the COVID-19 epidemic",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jin",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Qian",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "La",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Abudukelimu",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Japan to oblige employers to let pregnant women take virus leave",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Koizumi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Prevention and practice during the COVID-19 emergency declaration period in Japanese obstetrical/gynecological facilities",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Komatsu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Banno",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Yanaihara",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kimura",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "M O J S O"
+                    ],
+                    "last": "Obstetrics",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Gynecology",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J. Obstet. Gynaecol. Res",
+            "volume": "46",
+            "issn": "",
+            "pages": "2237--2241",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Novel corona virus disease (COVID-19) in pregnancy: what clinical recommendations follow?",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Acharya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Acta Obstet. Gynecol. Scand",
+            "volume": "99",
+            "issn": "",
+            "pages": "439--442",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Analysis of the influence of the psychology changes in fear induced by the COVID-19 epidemic on the body",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Ji",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Mou",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "World J. Acupunct. Moxibustion",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "What are the risks of COVID-19 infection in pregnant women?",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Muth\u00e9n",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Muth\u00e9n",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "760--762",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "R: a language and environment for statistical computing",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "R Core Team",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "COVID-19 Fear in Eastern Europe: validation of the fear of the COVID-19 scale",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Reznik",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Gritsenko",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Konstantinov",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Khamenka",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Isralowitz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int. J. Ment. Health Addict",
+            "volume": "",
+            "issn": "",
+            "pages": "1--6",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Associations between media exposure and mental distress among US adults at the beginning of the COVID-19 pandemic",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Riehm",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Holingue",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Kalb",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bennett",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kapteyn",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Veldhuis",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Fallin",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Kreuter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Am. J. Prev. Med",
+            "volume": "59",
+            "issn": "",
+            "pages": "630--638",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "2020. let us not forget endometriosis and infertility amid the covid-19 crisis",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Rowe",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Quinlivan",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "J. Psychosom. Obstet. Gynecol",
+            "volume": "41",
+            "issn": "",
+            "pages": "83--85",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Psychometric validation of the BMR of COVID-19 scale: confirmatory factor analysis and Rasch analysis",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sakib",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bhuiyan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hossain",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Al Mamun",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Hosen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Abdullah",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Sarker",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Mohiuddin",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Rayhan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hossain",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Sikder",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gozal",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Muhit",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M S"
+                    ],
+                    "last": "Islam",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Griffiths",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Pakpour",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Mamun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int. J. Ment. Health Ad",
+            "volume": "",
+            "issn": "",
+            "pages": "1--12",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Validation and psychometric evaluation of the Italian version of the fear of COVID-19 scale",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Soraci",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ferrari",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Abbiati",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Del Fante",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "De Pace",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Urso",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Griffiths",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int. J. Ment. Health Ad",
+            "volume": "",
+            "issn": "",
+            "pages": "1--10",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Infertility remains a top stressor despite the COVID-19 pandemic",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Vaughan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Shah",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Penzias",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Domar",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Toth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Reprod. BioMed. Online",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "The Japanese version of the Fear of COVID-19 scale: reliability, validity, and relation to coping behavior",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Wakashima",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Asai",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kobayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Koiwa",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kamochida",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sakuraba",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "PLoS One",
+            "volume": "15",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Psychological distress during pregnancy in Miyagi after the Great East Japan Earthquake: the Japan Environment and Children's Study",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Watanabe",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Iwama",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Nishigori",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nishigori",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Mizuno",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sakurai",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ishikuro",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Obara",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Tatsuta",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Nishijima",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Fujiwara",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nakai",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Arima",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Takeda",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sugawara",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kuriyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Metoki",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Yaegashi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J. Affect. Disord",
+            "volume": "190",
+            "issn": "",
+            "pages": "341--348",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Postnatal depression in Japanese mothers and the reconsideration of 'Satogaeri bunben",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Yoshida",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yamashita",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ueda",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Tashiro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Pediatr. Int",
+            "volume": "43",
+            "issn": "",
+            "pages": "189--193",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Participants' basic characteristics.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Multiple regression analysis of the associations of variables with FCV-19S.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors would like to thank the members of our study team and the participants who took part in our study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        },
+        {
+            "text": "None.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Declarations of Competing Interest"
+        }
+    ]
+}

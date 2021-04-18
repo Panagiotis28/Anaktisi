@@ -1,0 +1,2076 @@
+{
+    "paper_id": "0b51b930e16f3ff55d4358f29ccdf863c62f10ee",
+    "metadata": {
+        "title": "Journal Pre-proof Analysis and comparison of genetic variants and mutations of the novel coronavirus SARS-CoV-2 Analysis and Comparison of Genetic Variants and Mutations of the Novel Coronavirus SARS-CoV-2",
+        "authors": [
+            {
+                "first": "Zaid",
+                "middle": [],
+                "last": "Almubaid",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hisham",
+                "middle": [],
+                "last": "Al-Mubaid",
+                "suffix": "",
+                "affiliation": {},
+                "email": "hisham@uhcl.edu"
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Please cite this article as: Z. Almubaid and H. Al-Mubaid, Analysis and comparison of genetic variants and mutations of the novel coronavirus SARS-CoV-2, Gene Reports (2021), https://doi.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "We present an analysis and comparison study of genetic variants and mutations of about 1200 genomes of SARS-CoV-2 virus sampled across the first seven months of 2020. The study includes 12 sets of about 100 genomes each collected between January through September. We analyzed the mutations, mutation frequency and count trends over time, and genomes trends over time from January through September. We show that certain mutations in the SARS-CoV-2 genome are not occurring randomly as it has been commonly believed. This finding is in agreement with other recently published research in this domain. Therefore, this validates other findings in this direction. This study includes approximately 1000 genomes and was able to identify over 35 different mutations most of which are common to almost all genomes groups. Some mutations' ratios (frequency percentage) fluctuate over time to adapt the virus to various environmental factors, climate, and populations. One of the interesting findings in this paper is that the coding region, at the nucleotide level for NSP13 protein is relatively conserved compared with other protein regions in the ORF1ab gene which makes this protein a good candidate for developing drug targets and treatment for the COVID-19 disease. Although this outcome was already reported by other researchers, we corroborated their result with our work in a different approach and another experimental setting with almost one thousand complete genome sequences. We presented and discussed all these results and findings with tables of results and illustrating figures. J o u r n a l P r e -p r o o f Journal Pre-proof J o u r n a l P r e -p r o o f Journal Pre-proof Area or task References J o u r n a l P r e -p r o o f Journal Pre-proof ***Note: Literature and publications related to the COVID-19 disease and pandemic (see [22 -26]) are mainly interested in the disease outbreak data analysis, timeline and infection rate analysis, pandemic declining prediction, etc, [22 -26]. J o u r n a l P r e -p r o o f Journal Pre-proof J o u r n a l P r e -p r o o f Journal Pre-proof J o u r n a l P r e -p r o o f Journal Pre-proof",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Mutagens in the environment such as UV radiation, metals, and even endogenous substances produced by organisms create genetic variation in the genetic make-up of the SARS-CoV-2 genome. Over time, these random, naturally occurring mutations fluctuate in frequency in the genome pool, which contains implications about evolutionary mechanisms favoring certain mutations due to their adaptive values. The variations in the genetic sequence at the nucleotide level of an important virus like SARS-CoV-2 can help us in understanding and unfolding important facts and knowledge about its virulence. Such information and facts shall assist in drug and treatment design and discovering and determining new chemicals and therapies for the COVID-19 disease caused by this virus. Knowing that this virus is an RNA single -stranded virus helps researchers understand more details on the mutation mechanisms followed by this virus, SARS-CoV-2. Viruses in general exhibits one of the highest mutation rate variations among all organisms. In their comprehensive study about mutation mechanisms of viruses, Sanjuan and Domingo-Celep (2016) reported that RNA viruses tend to mutate faster than DNA viruses [31] . Moreover, they found that single-stranded viruses, in general, show higher rates of mutations compared with doublestranded [31, 32] . Besides, viruses with smaller genome found to have higher mutation rates [31, 32] . Among the many factors that affect mutation rates, they found the largest difference being DNA and RNA viruses.",
+            "cite_spans": [
+                {
+                    "start": 1091,
+                    "end": 1123,
+                    "text": "Sanjuan and Domingo-Celep (2016)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1189,
+                    "end": 1193,
+                    "text": "[31]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 1319,
+                    "end": 1323,
+                    "text": "[31,",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 1324,
+                    "end": 1327,
+                    "text": "32]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1403,
+                    "end": 1407,
+                    "text": "[31,",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 1408,
+                    "end": 1411,
+                    "text": "32]",
+                    "ref_id": "BIBREF36"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "SARS-CoV-2 is a highly contagious and quickly transmissible virus among various populations and with different (and perhaps difficult) conditions. This means it is highly adaptable to many situations and many conditions, which is apparent from the fast and broad spread of the disease all over the world. There were about 200,000 new cases of COVID-19 every day in the world during the months of June -September [1] . All these indicate that the virus has an exceptional ability to changing itself and adapting to survive and keep transmitting itself. Typically, genetic changes, including sequence variations, help the virus become more transmissible and more vicious [2] . Most importantly, SARS-CoV-2, like most other viruses and pathogens, mutates to produce variants that are not known to the host immune system [3, 4] . The availability of a large number of (complete) genomes (for SARS-CoV-2) freely online makes it easier for researchers to study and analyze the mutation and sequence variation mechanisms of this virus. In this paper, we present a study and analysis of the genetic variations and mutations of the SARS-CoV-2 genomic sequences at the nucleotide level of the complete genome. For that, the study includes about 1,000 genomes grouped according to the month of collection from January through September. The SARS-CoV-2 virus causes the COVID-19 disease which started back in December 2019 in the Wuhan region in China and transferred to the rest of the world quickly during the first three months of 2020. The SARS-CoV-2 virus is highly contagious and easily transmissible and is the main cause of the Coronavirus disease. The Coronavirus disease, COVID-19, began at the end of 2019 in China and quickly spread to the rest of the world. By March 2020, the rapid spread had caused many countries around the world to administer a lockdown and apply stay-at-home and work from home policies. By the end of March 2020, there were one million COVID-19 cases and 45,000 deaths globally. By end of June 2020, the number of cases exceeded 10 million while deaths exceeded half a million worldwide. By the last week of August 2020, there were 850,000 deaths, 26 million cases, and the number of daily new cases in the world exceeded 250,000 new cases every day in the world [1].",
+            "cite_spans": [
+                {
+                    "start": 412,
+                    "end": 415,
+                    "text": "[1]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 669,
+                    "end": 672,
+                    "text": "[2]",
+                    "ref_id": null
+                },
+                {
+                    "start": 817,
+                    "end": 820,
+                    "text": "[3,",
+                    "ref_id": null
+                },
+                {
+                    "start": 821,
+                    "end": 823,
+                    "text": "4]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Started in Wuhan city in China around December 2019, the Coronavirus disease is caused by a SARS family virus named SARS-CoV-2 by the World Health Organization (WHO). This novel disease spread throughout the world starting in January 2020 wherein Italy and Spain were among the first few countries to experience initial outbreaks outside of China [1 -4] . Around mid-March, COVID-19 became the most difficult and biggest problem, impacting every aspect of life around the globe.",
+            "cite_spans": [
+                {
+                    "start": 347,
+                    "end": 353,
+                    "text": "[1 -4]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "2.1: Background"
+        },
+        {
+            "text": "The SARS-CoV-2 virus is not lab manipulated; it is naturally produced as a result of many years of changes, as most significant studies showed, but it is not proved as the origin of this virus [5] . The disease was named COVID-19 by the World Health Organization WHO, and the virus called the novel coronavirus (novel because it is a new member of the coronaviruses family). Initially, they named it n-Cov-19 or 2019-nCoV then changed the name to SARS-CoV-2). Thus, the virus is now named SARS-CoV-2, and the disease is COVID-19 or the \u2017Novel Coronavirus Disease 2019'. From the family of human coronaviruses (H-CoV's), three highly pathogenic H-CoV's have been identified so far [2] , including: (1) Middle East respiratory syndrome coronavirus (MERS-CoV); (2) severe acute respiratory syndrome (SARS) coronavirus (SARS-CoV), and (3) the 2019 novel coronavirus (or SARS-CoV-2), previously called 2019-nCoV [2] . Among these three, the MERS-CoV [6] was responsible for 2494 cases and 858 deaths in 27 countries during the 2012 MERS outbreak; whereas the SARS-CoV pathogen was responsible for >8000 cases and 774 deaths in 37 countries during the 2002 to 2003 SARS outbreak; and SARS-CoV-2 is causing close to one million deaths so far [7, 1] . The complete genome (reference) of the virus is comprised of 11 (protein-coding) genes. The map of virus SARS-CoV-2 is shown in Figure 1 while Table 1 contains all the genes and proteins of this virus. There are 16 nonstructural proteins (NSP): NSP1 to NSP11 by gene ORF1a and NSP12 to NSP16 by ORF1ab. As shown in the gene map in Figure 1 , the first gene ORF1ab occupies more than two-thirds of the virus, and ORF2 (S gene; Spike protein) is the second largest (8319 nt); Figure 1 and Table 1 . Moreover, Figure 2 illustrates the position of the Spike protein (S gene) within the reference genome [5] . Table_2 presents other details about coded proteins (and genes) in the virus as laid in the NCBI database.",
+            "cite_spans": [
+                {
+                    "start": 193,
+                    "end": 196,
+                    "text": "[5]",
+                    "ref_id": null
+                },
+                {
+                    "start": 680,
+                    "end": 683,
+                    "text": "[2]",
+                    "ref_id": null
+                },
+                {
+                    "start": 907,
+                    "end": 910,
+                    "text": "[2]",
+                    "ref_id": null
+                },
+                {
+                    "start": 945,
+                    "end": 948,
+                    "text": "[6]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1235,
+                    "end": 1238,
+                    "text": "[7,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1239,
+                    "end": 1241,
+                    "text": "1]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1843,
+                    "end": 1846,
+                    "text": "[5]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1372,
+                    "end": 1380,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1387,
+                    "end": 1394,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 1575,
+                    "end": 1583,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1718,
+                    "end": 1726,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 1731,
+                    "end": 1738,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 1751,
+                    "end": 1759,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "2.1: Background"
+        },
+        {
+            "text": "Zai et al. (2020) presents a very good review study on the evolutionary history of SARS-CoV-2 and what could be the potential intermediate transferring animals [6] . In [18] Yoshimoto presented the complete set of genes and proteins of SARS-CoV-2. In [4] , Saha et al. (2020) presented a study that the virus can evolve through mutations into a better version of itself to fit best in the host environment that is, the virus uses the mutation as a mechanism to acclimatize with its environment. , in [7] , presented a very good study of the evolutionary history of the virus with the potential animals and species analysis in the context of this disease [7] . Tai et al. (2020) in [9] study and present the complete details of the virus and the disease in the context of its transfer to humans via the Spike protein and the sequence of molecular of biological functions involved in the process [2] . In [17] , Petropoulos et al. (2020) present objective forecasts for the confirmed coronavirus disease and provide a study and timeline of the potential implications of the disease for planning and decision making. Kristian et al.",
+            "cite_spans": [
+                {
+                    "start": 160,
+                    "end": 163,
+                    "text": "[6]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 169,
+                    "end": 173,
+                    "text": "[18]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 251,
+                    "end": 254,
+                    "text": "[4]",
+                    "ref_id": null
+                },
+                {
+                    "start": 257,
+                    "end": 275,
+                    "text": "Saha et al. (2020)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 500,
+                    "end": 503,
+                    "text": "[7]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 654,
+                    "end": 657,
+                    "text": "[7]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 660,
+                    "end": 677,
+                    "text": "Tai et al. (2020)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 681,
+                    "end": 684,
+                    "text": "[9]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 894,
+                    "end": 897,
+                    "text": "[2]",
+                    "ref_id": null
+                },
+                {
+                    "start": 903,
+                    "end": 907,
+                    "text": "[17]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 910,
+                    "end": 935,
+                    "text": "Petropoulos et al. (2020)",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [],
+            "section": "2.2: Related Work"
+        },
+        {
+            "text": "(2020) present a study of the notable features and origin theories of this virus [5] . A comprehensive study and list of proteins in the Coronavirus SARS-CoV-2 are presented by Francis (2020) in [18] . presented a study of the genetic variations and mutation comparison of the reported SARS-CoV-2 genetic data over various time frames and locations [12] . They analyzed 95 complete genomes of SARS-CoV-2 submitted to various databases through April 2020 [12] . In [19] Emameh et al. (2020) presented a data mining and computational study of SARS-CoV-2 isolates from Oronasopharynx of Iranian patients to characterize the proteins in ORF1ab region of the genome. The polyproteins of SARS-CoV-2 are cleaved by virus-encoded cysteine proteinases comprising 16 nonstructural proteins (NSP's) including the expression of NSP1 to NSP11 by ORF1a and encoding NSP12 to NSP16 by ORF1b [19] . The SARS-CoV-2 research projects and studies are very recent, and all publications are in 2020. In general, most research projects and studies related to SARS-CoV-2 can be divided into one of five distinct categories as summarized in the following table: (c) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ J o u r n a l P r e -p r o o f ",
+            "cite_spans": [
+                {
+                    "start": 81,
+                    "end": 84,
+                    "text": "[5]",
+                    "ref_id": null
+                },
+                {
+                    "start": 195,
+                    "end": 199,
+                    "text": "[18]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 349,
+                    "end": 353,
+                    "text": "[12]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 454,
+                    "end": 458,
+                    "text": "[12]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 464,
+                    "end": 468,
+                    "text": "[19]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 876,
+                    "end": 880,
+                    "text": "[19]",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [],
+            "section": "2.2: Related Work"
+        },
+        {
+            "text": "We collected 12 sets of complete genomic sequences of SARS-CoV-2 over the first seven months of 2020 based on the date of collection (or acquisition), and obtained from NCBI [14] . Approximately, the 12 datasets .. are collected during the months Jan. 2020 through Sep. 2020 as shown in Table 3 . Each set, .. , contains approximately 100 complete genome sequences. We focus on our study on the date of collection of each genome which is available for all data. The total number of sequences available in NCBI based on the month of collection for each month is shown in Table 7 . We decided to choose the same number of sequences in each one of the 12 sets. As shown in Table 7 , March and April were the peak months of data collection for this virus's genome. We discarded each genome with high variations or high unknown nucleotides.",
+            "cite_spans": [
+                {
+                    "start": 174,
+                    "end": 178,
+                    "text": "[14]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 287,
+                    "end": 294,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                },
+                {
+                    "start": 570,
+                    "end": 577,
+                    "text": "Table 7",
+                    "ref_id": "TABREF6"
+                },
+                {
+                    "start": 670,
+                    "end": 677,
+                    "text": "Table 7",
+                    "ref_id": "TABREF6"
+                }
+            ],
+            "section": "3.1: Genomic Data and Method"
+        },
+        {
+            "text": "We ran each dataset for alignment in the Ebi Clustal Omega tool and used Jalview [15, 16] for alignment visualization. We used both Clustal Omega results and Jalview for extracting and determining the genetic variants in each dataset . Figure 3 shows some of the sequence alignment results in various methods of visualization. In some cases, for the analysis, some variants were converted from nucleotide to amino acid levels. Mutations in each set were identified, extracted, and analyzed against all sequences in the other sets for the goal of finding significant mutations. Also, our analysis focused on determining whether or not a mutation is occurring randomly in the genome sequence. Since the virus continues to spread month after month throughout the world, we anticipate that it changes and mutates itself continuously over time starting January 2020.",
+            "cite_spans": [
+                {
+                    "start": 81,
+                    "end": 85,
+                    "text": "[15,",
+                    "ref_id": null
+                },
+                {
+                    "start": 86,
+                    "end": 89,
+                    "text": "16]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 236,
+                    "end": 244,
+                    "text": "Figure 3",
+                    "ref_id": "FIGREF6"
+                }
+            ],
+            "section": "3.1: Genomic Data and Method"
+        },
+        {
+            "text": "Most of the related and similar work on mutations and genetic variations of SARS-CoV-2 focuses on extracting and determining mutations, studying and analyzing one or few specific mutations, or analyzing mutations within J o u r n a l P r e -p r o o f a specific coding region, e.g. Spike. This work, on the other hand, focuses on extracting most of the significant mutations and examining the important ones from various perspectives, for example, that do not occur randomly (see section 4. Results). Moreover, while most of the other studies tend to focus on the differences in mutations based on geographic regions, our approach determines and analyzes the significant mutations based on time progression from January through September where the peak of the spread of the virus was during April 2020. This is the period that experienced the greatest number of genomes submitted/collected as reported in NCBI https://www.ncbi.nlm.nih.gov/sars-cov-2/. Therefore, the main contributions are in the Results section (section_4). In [32] , Koyama et. al. (2020) studied the SARS-CoV genome and were able to identify more than 5700 distinct genome mutations. The most common was the synonymous 3037C>T [32] . This is also reported in this research in this paper with 41% in Table 4 and 47% in Table 5 for this 3037C>T mutation.",
+            "cite_spans": [
+                {
+                    "start": 1029,
+                    "end": 1033,
+                    "text": "[32]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1036,
+                    "end": 1057,
+                    "text": "Koyama et. al. (2020)",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1197,
+                    "end": 1201,
+                    "text": "[32]",
+                    "ref_id": "BIBREF36"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1269,
+                    "end": 1276,
+                    "text": "Table 4",
+                    "ref_id": "TABREF3"
+                },
+                {
+                    "start": 1288,
+                    "end": 1295,
+                    "text": "Table 5",
+                    "ref_id": "TABREF4"
+                }
+            ],
+            "section": "3.2: Comparison with other methods"
+        },
+        {
+            "text": "We identified and collected over 300 genetic variants (not all shown) from these genomes at the nucleotide level and we reported and discussed the important and significant ones. Table 4 contains the most commonly occurring genetic variants in the set which contains100 genomes collected during (the beginning of) the month of May. In Table 5 , we see the most occurring and prevalent genetic variants in the set collected around the end (last three days) of May. Moreover, we collected 13 genetic variants common to almost all ten sets as shown in Table_6. The percentage of each one of the 13 variants in Table 6 are shown. We also identified 5 genetic variants that showed a clear trend of increase from January to May across eight datasets as shown in Figure 4 . Table 8 and Table 9 include the most frequent genetic variants in the August and September (S 11 and S 12 sets) genomes. S9-128-genomes-06-09-06-12 ~100 9 -12 June 29686 S10 S10-101-genomes-07-01-07-17 ~100 1 -17 July 29836 S11 S11-100-genomes-08-01-08-31 ~100 1 -31 August 29824 S12 S12-100-genomes-09-01-09-30 J o u r n a l P r e -p r o o f Of the genetic variants identified, the ORF1a region contained mostly synonymous mutations that retained the amino acid encoded by the codon, which is due to the degeneracy of the genetic code. The mutations found in J o u r n a l P r e -p r o o f this region were alterations of the third nucleotide in each respective codon triplet, which retained the amino acid of the reference genome in all but one mutation, which is due to the wobble hypothesis [27] . The only mutation that did not was the mutation 11083 g>t, which was found in the region that coded for the NSP6 subunit. This mutation changed the TTG codon for Leucine to the TTT codon of Phenylalanine. Though this changes the amino acid, the hydrophobicity of the two amino acids are the same, with the only difference being the size of the side chain, which may add some steric hindrance and potentially cause the protein NSP6 to fold differently [1] [2] [3] [4] [5] [16] [17] [18] [19] . According to Table 1 (c), this protein functions to generate autophagosomes which play an important part in the virulence of this virus, as autophagosomes designate cell parts for intracellular degradation by the lysosome of the cell. More research needs to be done about this specifically, however. For this mutation, we identified that it was most prevalent in the and genomes, which means it was most frequent around late February or early March (Tables 1-6 ). Through mid-June (S 9 ), the prevalence of this mutation quickly approached and maintained close to 0% of the genomes, then started to reemerge in S10, making a presence of 15%. This may have been due to the outbreaks in the United States, which began around this time as well, which could have caused this mutation to arise due to different environmental conditions as an effort of the virus to be effective in a new region. The other subunit of the ORF1ab region, which is composed of NSP12a, NSP13, NSP14, NSP15a, and NSP16 also contained mutations. Of the four mutations studied, two of the mutations were synonymous mutations in the proteins NSP12a and NSP13. However, NSP13 also contained another mutation at nucleotide 17858 a>g. This mutation changed the codon from ATG, which codes for Methionine to GTG, coding for Valine. This mutation changes this codon from coding for a polar, hydrophilic amino acid to a nonpolar hydrophobic amino acid, which will cause this amino acid to be faced inwards rather than outwards, which could change the way the amino acid is folded, as well as its functionality. The last mutation in NSP13 identified was at nucleotide 18060 c>t. This changed the TCT codon of the reference to TTT, which consequentially changed the amino acid from Serine to Phenylalanine. This missense mutation is similar to the previous mutation discussed, as serine is a polar hydrophilic amino acid and Phenylalanine is a nonpolar hydrophobic amino acid. NSP13, according to Table 1 (c), has a proposed functionality of a helicase, which has an enzymatic catalytic activity to unzip DNA for the virus to function. This mutation fluctuated between 0% and 14% through the month of February as indicated by the date for S1-S4 and peaked at 34% in March according to S5 and continued to decrease until S10. Interestingly, this missense mutation at nucleotide 17858 had almost the same trend as the other synonymous mutation in NSP13 at nucleotide 17747, as well as the missense mutation at nucleotide 18060. Because of such a similar trend between three independent mutations, this dismisses the potential for their trend to be random. Rather, a prediction from this data is that this may be due to an effort of the virus to change its code arbitrarily to cloak itself because this trend is near identical. Further research needs to be done over these mutations, as well as any other mutations found in NSP13. In the second gene, ORF2 (S), which codes for the Spike protein, we studied a mutation at nucleotide position 23406 where we observed a transition mutation from a>g. The Spike protein acts as a ligand binding to cell receptors to initiate the attack of the virus on the cellular level, and a persistent mutation in this region may be indicative of the virus becoming more effective in human to human transmission. Furthermore, this protein is important for the body to develop antibodies as an immune response to this virus, as the Spike protein is the antigen that is used to make the antibody [15] [16] [17] [18] [19] . With this mutation specifically at nucleotide 23406, it causes the codon to change from GGT to GAT, which changes the amino acid from Glycine to Aspartate. This missense mutation replaces the highly flexible, nonpolar amino acid Glycine with an acidic amino acid, which may change the folding of the Spike protein, as well as the function, as mentioned with the other missense mutations discussed previously. From S1 to S8 genomes, this transition missense mutation consistently increased in prevalence up to 46%. S9 and S10 saw dramatic decreases from this figure, but the mutation remained consistently prevalent in the genome, nonetheless. This mutation must have added functionality or had a favorable outcome for it to still be consistently prevalent in the genome. This particular mutation is interesting, as it occurs in the gene of an important protein, but also because the frequency of the mutation in the genomes J o u r n a l P r e -p r o o f studied never approached zero as the others did. Further research needs to be done on this mutation to make a conclusive determination of the function of this mutation. The third gene, ORF3a, also contained a mutation that we studied extensively. This gene codes for its selfnamed protein, ORF3a, of 275 amino acids, Table 1 . The particular mutation studied occurs at nucleotide 25566 where the transversion mutation of g>t occurs. This mutation changes the reference codon of AGA to ATA, which consequentially changes the amino acid encoded from Arginine to Isoleucine. This missense mutation changes the previously basic, highly polar, hydrophilic amino acid to a largely nonpolar and hydrophobic amino acid, which may lead to misfolded proteins with different functions. While the effect in this missense mutation is relatively similar to the others, this mutation is unique in that it consistently increases, and never truly peaks but rather fluctuates between 34% and 48% prevalence in the genomes, as indicated by the data. S1 through S3 does not exhibit this mutation at all in these genomes but quickly picks up over time in the data set of S5 through S7. From this, we can identify this as a relatively late arriving mutation, as it does not appear until March, and increases through the first week of May, and is still relatively highly prevalent through June up till the first week of July in the data sets of S8 to S10. However, as opposed to some of the other mutations that were early arriving, this mutation never experiences a drastic drop over time. This mutation needs to be monitored in future genomes, as it may experience a drop in frequency like the other mutations. The fact that this missense mutation is relatively high indicates that the functionality is not affected by the swap of the amino acids and can be used interchangeably. This mutation may need to be studied molecularly in future research to identify the effects of this mutation on protein folding and function. In the ORF8 gene, we studied mutations in this genome that yielded changes in the 121-amino-acid ORF8 protein. The mutation studied occurs at nucleotide 28144 where the transition mutation of t>c occurs. This mutation changes the codon from TTC to TTT, which is a synonymous mutation for the amino acid Phenylalanine. While this mutation may not affect protein structure or function, it may be a mutation prevalent because it helps cloak itself in the human body or may affect human to human transmission. As opposed to the trends for the other mutations, this mutation is more frequent in the earlier records of the genomes for the virus and continues to decrease. From S1 to S5, the genomes fluctuate between 29% and 46% in the frequency of this mutation. From the S6 genome set onwards, the frequency of this mutation sees a drastic drop, hovering between 4.7% and 17% in the data sets of S6 to S10. This is the reverse trend from the previous mutation studied in , which had a dramatic increase in the frequency of its mutation and maintained that high frequency. Though this is a synonymous mutation, the virus may have been more effective in transmission without this mutation, or human cells were able to target this mutation more easily than the viruses that did not have this mutation. However, further research needs to be done to find conclusive evidence of this. Of our findings, the most interesting results came from the mutations located in the coding region for the NSP13 protein including 17747 c>t, 17858 a>g, and 18060 c>t. Specifically, the frequency of these mutations over time were similar to one another. That is, these three mutations had similar frequencies of occurrence in each of the genome pools that we studied. This is interesting, as these mutations in the genome must be happening simultaneously and have similar changes on the NSP13 protein that served to be useful at one point (S5 genome had a frequency of 34-37% for the three mutations). According to [11] , recurrent non-synonymous mutations suggest the possible ongoing adaptation of the SARS-CoV-2 genome. As we found these mutations to be prevalent in genomes over time, with the trend being similar between the three mutations, this may be indicative of convergent evolution, as suggested by [11] . From an evolutionary standpoint, these three mutations (2 of which are non-synonymous) start with low frequency in the S1 genomes collected from January and remain low until they all reach 14% frequency in S4, the genomes collected between February and March of 2020. This mutation peaks in frequency in March, as indicated by the frequency of the three mutations observed in the NSP13 region for the S5 genomes. Because of this increase in prevalence, we can infer that this mutation offered the virus adaptive value in human to human transmission, which may have increased its virulence. At the end of April (S6) we see a drastic drop of the frequency of this mutation, heavily favoring the wild-type nucleotide as indicated by the reference genome, as the frequency of the mutation was found atin the S6 genomes. In S7 for the first week of May, the mutation frequency rose to 14-15% for the three mutations, then consistently decreased to 6%, 4.6%, and 1.6% for each of the three mutations for S8, S9, and S10, respectively. This steady decrease may represent a lack of need for this mutation, as it is not as prevalent in the last three genome sets. The drastic drop to 1-3% for the three NSP13 mutations in S6 may not be representative of the entire month of April, as these 100 genomes were collected in the last two days of April only. Further research may be needed to fill in the gaps in time for our data.",
+            "cite_spans": [
+                {
+                    "start": 1562,
+                    "end": 1566,
+                    "text": "[27]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 2020,
+                    "end": 2023,
+                    "text": "[1]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 2024,
+                    "end": 2027,
+                    "text": "[2]",
+                    "ref_id": null
+                },
+                {
+                    "start": 2028,
+                    "end": 2031,
+                    "text": "[3]",
+                    "ref_id": null
+                },
+                {
+                    "start": 2032,
+                    "end": 2035,
+                    "text": "[4]",
+                    "ref_id": null
+                },
+                {
+                    "start": 2036,
+                    "end": 2039,
+                    "text": "[5]",
+                    "ref_id": null
+                },
+                {
+                    "start": 2040,
+                    "end": 2044,
+                    "text": "[16]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 2045,
+                    "end": 2049,
+                    "text": "[17]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 2050,
+                    "end": 2054,
+                    "text": "[18]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 2055,
+                    "end": 2059,
+                    "text": "[19]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 5546,
+                    "end": 5550,
+                    "text": "[15]",
+                    "ref_id": null
+                },
+                {
+                    "start": 5551,
+                    "end": 5555,
+                    "text": "[16]",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 5556,
+                    "end": 5560,
+                    "text": "[17]",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 5561,
+                    "end": 5565,
+                    "text": "[18]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 5566,
+                    "end": 5570,
+                    "text": "[19]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 10519,
+                    "end": 10523,
+                    "text": "[11]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 10815,
+                    "end": 10819,
+                    "text": "[11]",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 179,
+                    "end": 186,
+                    "text": "Table 4",
+                    "ref_id": "TABREF3"
+                },
+                {
+                    "start": 335,
+                    "end": 342,
+                    "text": "Table 5",
+                    "ref_id": "TABREF4"
+                },
+                {
+                    "start": 607,
+                    "end": 614,
+                    "text": "Table 6",
+                    "ref_id": "TABREF5"
+                },
+                {
+                    "start": 756,
+                    "end": 764,
+                    "text": "Figure 4",
+                    "ref_id": "FIGREF7"
+                },
+                {
+                    "start": 767,
+                    "end": 774,
+                    "text": "Table 8",
+                    "ref_id": null
+                },
+                {
+                    "start": 779,
+                    "end": 786,
+                    "text": "Table 9",
+                    "ref_id": null
+                },
+                {
+                    "start": 2075,
+                    "end": 2082,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 2511,
+                    "end": 2522,
+                    "text": "(Tables 1-6",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 4020,
+                    "end": 4027,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 6845,
+                    "end": 6852,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "The evolution of these NPS13 mutations is particularly interesting because it affects the NSP13 protein coded by the ORF1ab. In fact, according to Mirza and Froeyen (2020) [8] , the gene coding for NSP13 is highly conserved and should be used to produce inhibitors and treatments for this virus, as this region does not have as much variation as other genes of this virus [8] . Because we found three mutations that are found nearby in this region, two of which are non-synonymous, these results are interesting because this region is relatively conserved. Furthermore, the NSP13 region is conserved within the SARS virus, as a high degree of similarity was found between the two helicase proteins, as indicated in [8] , which results in a -strikingly conserved overall architecture\u2016 of NSP13 with its SARS counterpart [8] . They found that this region has a higher similarity than the other two conserved regions, NSP12 and Mpro, with NSP13 having 99.83% similarity and the other two having 96.35% and 96.08% similarity to SARS. Thus, mutations found in the NSP13 region are very strange because this region is highly conserved, and three mutations were found in nearby areas according to our results. To make matters more interesting, C-K Yuen, J-Y Lam, W-M Wong, et. al. (202) [10] also discovers another function of NSP13 as an interferon antagonist, as it is used to -suppress primary interferon production and signaling.\u2016 This means that the cell cannot indicate to other cells that it contains a foreign invader to activate an immune response, which increases virulence and cell to cell transmission of this virus, as well as human to human transmission potentially.",
+            "cite_spans": [
+                {
+                    "start": 172,
+                    "end": 175,
+                    "text": "[8]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 372,
+                    "end": 375,
+                    "text": "[8]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 715,
+                    "end": 718,
+                    "text": "[8]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 819,
+                    "end": 822,
+                    "text": "[8]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1280,
+                    "end": 1284,
+                    "text": "[10]",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "The novel coronavirus has been notoriously contagious causing a global pandemic spreading to every corner of the world [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] . Thus, studies for mutations have happened regionally to see how these viruses have adapted to new environments, diverse climates, and new populations. However, these results need to be contextualized with time, as the virus can mutate and adapt to new conditions in a region that arise with time. Our results indicate that common mutations found to fluctuate over time, and analyzing these trends are important to frame the results of other research that study the variation in mutations between different regions. As we only have reliable genomic data for 6-7 months of this novel virus, more research needs to be conducted as to how these mutations persist over time in the future as well. Furthermore, these results need to be studied while factoring in different regions and should be compared between these regions. Our findings provide a platform for further studies to analyze such mutations that we have found, as well as other mutations from aggregate genomic data collected and compared with genomes collected from different periods, as opposed to just comparing two data sets of genomes from different areas. The second most common mutation found by Koyama et al. (2020) is the 14408C>T [32] which agrees with our findings as shown in Table 4 , Table 5 and Table 6 (as in Table 5 this mutation occurs 46% in ). Finally, from studying the variations in the August (S11) and September (S12) genome sequences (200 sequences) we found that the majority of the mutations are c>t and g>t. These two types comprise more than 63% (Table 8, Table 9 ) of the most frequently occurring mutations in these genomes. The three most frequent mutations in the September S12 set (28881g>a, 28882g>a, and 28883g>c) are found to be major distinguishing points between two genome clusters with genome haplotype analysis in a recent study by Toshiki Takenouchi (Oct. 2020) in Japan [28] . These three mutations [28, 29] belong to the nucleocapsid protein (N protein) which prepares the formation of the helical nucleocapsid during virion assembly [29, 30] . More importantly, the N protein can trigger immune responses which may lead to progress towards developing a vaccine using this N protein and so these mutations will be considered and further studied for the vaccine development purpose [28 -30] .",
+            "cite_spans": [
+                {
+                    "start": 119,
+                    "end": 122,
+                    "text": "[1]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 123,
+                    "end": 126,
+                    "text": "[2]",
+                    "ref_id": null
+                },
+                {
+                    "start": 127,
+                    "end": 130,
+                    "text": "[3]",
+                    "ref_id": null
+                },
+                {
+                    "start": 131,
+                    "end": 134,
+                    "text": "[4]",
+                    "ref_id": null
+                },
+                {
+                    "start": 135,
+                    "end": 138,
+                    "text": "[5]",
+                    "ref_id": null
+                },
+                {
+                    "start": 139,
+                    "end": 142,
+                    "text": "[6]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 143,
+                    "end": 146,
+                    "text": "[7]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 147,
+                    "end": 150,
+                    "text": "[8]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 151,
+                    "end": 154,
+                    "text": "[9]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 155,
+                    "end": 159,
+                    "text": "[10]",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1323,
+                    "end": 1343,
+                    "text": "Koyama et al. (2020)",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 1360,
+                    "end": 1364,
+                    "text": "[32]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 2034,
+                    "end": 2038,
+                    "text": "[28]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 2063,
+                    "end": 2067,
+                    "text": "[28,",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 2068,
+                    "end": 2071,
+                    "text": "29]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 2199,
+                    "end": 2203,
+                    "text": "[29,",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 2204,
+                    "end": 2207,
+                    "text": "30]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 2446,
+                    "end": 2454,
+                    "text": "[28 -30]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1408,
+                    "end": 1415,
+                    "text": "Table 4",
+                    "ref_id": "TABREF3"
+                },
+                {
+                    "start": 1418,
+                    "end": 1425,
+                    "text": "Table 5",
+                    "ref_id": "TABREF4"
+                },
+                {
+                    "start": 1430,
+                    "end": 1437,
+                    "text": "Table 6",
+                    "ref_id": "TABREF5"
+                },
+                {
+                    "start": 1445,
+                    "end": 1452,
+                    "text": "Table 5",
+                    "ref_id": "TABREF4"
+                },
+                {
+                    "start": 1695,
+                    "end": 1712,
+                    "text": "(Table 8, Table 9",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "J o u r n a l P r e -p r o o f",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "We presented a study of analysis and comparison of genetic variants and mutations of SARS-CoV-2 genome. The study and analysis used almost 1000 (complete) genomes of sampled across the first seven months of 2020. We showed experimentally that certain mutations in the SARS-CoV-2 genome are not occurring randomly as it has been commonly believed. This finding is in agreement with other recently published research in this domain. Therefore, these results and outcomes validate other findings in this direction. Some mutations' ratios (frequency percentage) fluctuates over time to adapt the virus to various environmental factors, climate, and populations. One of the interesting findings in this paper is that the coding region, at the nucleotide level for NSP13 protein is relatively conserved compared with other protein regions in the ORF1ab gene which makes this protein a good candidate for developing drug targets and treatment for the COVID-19 disease. This result was already inferred and reported by other researchers and here we corroborated their result with our work with a different approach and another experimental setting with over almost one thousand (complete) genomes. This study includes close to 1000 genomes and was able to identify over 35 different mutations most of which are common to almost all genomes groups. We presented and discussed all these results and findings with tables of results and illustrating figures. (a) This shows 23406A>G using NCBI msa viewer (this is the dataset (this is only partial view showing position 23354 to position 23463 with a sample of 30 genomes) (b) visualization of the multiple sequence alignment (using Jalview tool) (c) S1c-100-genome (aligned with clustal msa)>>partial view with Jalview. {***note: Y is C or T; R is A or G; W is A or T.****} {***note: Figure 3(a) is courtesy of the US National Center for Biotechnology Information NCBI. Figure 3(b) and Figure 3 (c) are courtesy of Jalview tool [16] : https://www.jalview.org/} ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ J o u r n a l P r e -p r o o f (a) (b) Table 8 : Top genetic variants in genome sets S11-August (a); and in S12-September (b).",
+            "cite_spans": [
+                {
+                    "start": 1967,
+                    "end": 1971,
+                    "text": "[16]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1823,
+                    "end": 1834,
+                    "text": "Figure 3(a)",
+                    "ref_id": "FIGREF6"
+                },
+                {
+                    "start": 1909,
+                    "end": 1920,
+                    "text": "Figure 3(b)",
+                    "ref_id": "FIGREF6"
+                },
+                {
+                    "start": 1925,
+                    "end": 1933,
+                    "text": "Figure 3",
+                    "ref_id": "FIGREF6"
+                },
+                {
+                    "start": 2091,
+                    "end": 2098,
+                    "text": "Table 8",
+                    "ref_id": null
+                }
+            ],
+            "section": "Conclusions"
+        },
+        {
+            "text": "Journal Pre-proof 16269c>t 20268a>g 21304c>t 27964c>t 28821c>a 28854c>t 28881g>a 28882g>a 28883g>c Table 9 : The frequent genetic variants that found in common between S11-August and S12-September genome sequences.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 99,
+                    "end": 106,
+                    "text": "Table 9",
+                    "ref_id": null
+                }
+            ],
+            "section": "J o u r n a l P r e -p r o o f"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Characterization studies: Studying the structural details of the virus with its genes",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Comparison of SARS-CoV-2 with other viruses in this family like SARS and MERS-CoV",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Studying the mutations in SARS-CoV-2",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Studying the virus in connection with the COVID-19 disease (for example, for drugs",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "The Center for Systems Science and Engineering (CSSE) at JHU and the Worldmeter",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Center for Disease Control and Prevention (CDC): H5N1 Genetic Changes",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Bethesda (MD): National Institutes of Health (US)",
+            "authors": [],
+            "year": 2007,
+            "venue": "Curriculum Study",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "A virus that has gone viral: amino acid mutation in S protein of Indian isolate of Coronavirus COVID-19 might impact receptor binding, and thus, infectivity",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Saha",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Banerjee",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Tripathi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Srivastava",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Ray",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Biosci Rep",
+            "volume": "40",
+            "issn": "5",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1042/BSR20201312"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "The proximal origin of SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "Kristian",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Andersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Andrew",
+                    "middle": [],
+                    "last": "Rambaut",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "Ian"
+                    ],
+                    "last": "Lipkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Edward",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Holmes",
+                    "suffix": ""
+                },
+                {
+                    "first": "Robert",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Garry",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature Medicine",
+            "volume": "26",
+            "issn": "",
+            "pages": "450--452",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41591-020-0820-9"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Evolutionary history, potential intermediate animal host, and cross-species analyses of SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Nie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Foley",
+                    "suffix": ""
+                },
+                {
+                    "first": "Chaillon",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of medical virology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25731"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Evolutionary history, potential intermediate animal host, and cross-species analyses of SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Nie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Foley",
+                    "suffix": ""
+                },
+                {
+                    "first": "Chaillon",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of medical virology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25731"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Structural elucidation of SARS-CoV-2 vital proteins: Computational methods reveal potential drug candidates against main protease, Nsp12 polymerase and Nsp13 helicase",
+            "authors": [
+                {
+                    "first": "Matheus",
+                    "middle": [],
+                    "last": "Muhammad Usman Mirza",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Froeyen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of Pharmaceutical Analysis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jpha.2020.04.008"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Characterization of the receptor-binding domain (RBD) of 2019 novel coronavirus: implication for development of RBD protein as a viral attachment inhibitor and vaccine",
+            "authors": [
+                {
+                    "first": "Wanbo",
+                    "middle": [],
+                    "last": "Tai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lei",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xiujuan",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jing",
+                    "middle": [],
+                    "last": "Pu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Denis",
+                    "middle": [],
+                    "last": "Voronin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Shibo",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Yusen",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lanying",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cellular & Molecular Immunology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "SARS-CoV-2 nsp13, nsp14, nsp15 and orf6 function as potent interferon antagonists",
+            "authors": [
+                {
+                    "first": "Chun-Kit",
+                    "middle": [],
+                    "last": "Yuen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Joy-Yan",
+                    "middle": [],
+                    "last": "Lam",
+                    "suffix": ""
+                },
+                {
+                    "first": "Wan-Man",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Long-Fung",
+                    "middle": [],
+                    "last": "Mak",
+                    "suffix": ""
+                },
+                {
+                    "first": "Xiaohui",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerging Microbes & Infections",
+            "volume": "9",
+            "issn": "1",
+            "pages": "1418--1428",
+            "other_ids": {
+                "DOI": [
+                    "10.1080/22221751.2020.1780953"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Emergence of genomic diversity and recurrent mutations in SARS-CoV-2. Infection",
+            "authors": [
+                {
+                    "first": "Lucyvan",
+                    "middle": [],
+                    "last": "Dorp",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mislav",
+                    "middle": [],
+                    "last": "Acmana",
+                    "suffix": ""
+                },
+                {
+                    "first": "Damien",
+                    "middle": [],
+                    "last": "Richard",
+                    "suffix": ""
+                },
+                {
+                    "first": "Liam",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Shaw",
+                    "suffix": ""
+                },
+                {
+                    "first": "Charlotte",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Ford",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Genetics and Evolution",
+            "volume": "83",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.meegid.2020.104351"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Genomic characterization of a novel SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Khailany",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Safdar",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ozaslan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Gene reports",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.genrep.2020.100682"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "EMBOSS: the European molecular biology open software suite",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Rice",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Longden",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bleasby",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Trends Genet",
+            "volume": "16",
+            "issn": "6",
+            "pages": "276--277",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Version 2 -a multiple sequence alignment editor and analysis workbench\u2016",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Jalview:Waterhouse",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Procter",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M.A"
+                    ],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Clamp",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Barton",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Bioinformatics",
+            "volume": "25",
+            "issn": "9",
+            "pages": "1189--1191",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/bioinformatics/btp033"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Forecasting the novel coronavirus COVID-19",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Petropoulos",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Makridakis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "PLoS ONE",
+            "volume": "15",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0231236"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "The Proteins of Severe Acute Respiratory Syndrome Coronavirus-2 (SARS CoV-2 or n-COV19), the Cause of COVID-19",
+            "authors": [
+                {
+                    "first": "Francis",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Yoshimoto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Protein J",
+            "volume": "23",
+            "issn": "",
+            "pages": "1--19",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10930-020-09901-4"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Combination of Biodata Mining and Computational Modelling in Identification and Characterization of ORF1ab Polyprotein of SARS-CoV-2 Isolated from Oronasopharynx of an Iranian Patient",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Emameh",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Nosrati",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Taheri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Biological procedures online",
+            "volume": "22",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1186/s12575-020-00121-9"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Genetic characterization of structural and open reading Fram-8 proteins of SARS-CoV-2 isolates from different countries",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Shah",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Rashid",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Aziz",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Jan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Suleman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Gene Reports",
+            "volume": "21",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Phylogenomic proximity and comparative proteomic analysis of SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Prathiviraj",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Kiran",
+                    "suffix": ""
+                },
+                {
+                    "first": "Joseph",
+                    "middle": [],
+                    "last": "Selvin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Gene Reports",
+            "volume": "20",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Novel SARS-CoV-2/COVID-19: Origin, pathogenesis, genes and genetic variations, immune responses and phylogenetic analysis",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Junejo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ozaslan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Safdar",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Khailany",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rehman",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Yousaf",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Khan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Gene Reports",
+            "volume": "20",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "COVID-19: What you need to know",
+            "authors": [
+                {
+                    "first": "Hh",
+                    "middle": [
+                        "El"
+                    ],
+                    "last": "Idrissi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Gene Reports",
+            "volume": "20",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Ha Rothan",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Byrareddy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of autoimmunity",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Can we contain the COVID-19 outbreak with the same measures as for SARS? Lancet Infectious Diseases",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wilder-Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Chiew",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Data-based analysis, modelling and forecasting of the COVID-19 outbreak",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Anastassopoulou",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Russo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Tsakris",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Siettos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "PLoS one",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "The wobble hypothesis revisited: uridine-5-oxyacetic acid is critical for reading of G-ending codons",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Sj",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "N\u00e4svall",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Bj\u00f6rk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "RNA journal",
+            "volume": "13",
+            "issn": "12",
+            "pages": "2151--2164",
+            "other_ids": {
+                "DOI": [
+                    "10.1261/rna.731007"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Clinical Utility of SARS-CoV-2 Whole Genome Sequencing in Deciphering Source of Infection",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Takenouchi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Iwasaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Harada",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J. Hospital Infections",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jhin.2020.10.014"
+                ]
+            }
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Genotyping coronavirus SARS-CoV-2: methods and implications",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Genomics",
+            "volume": "112",
+            "issn": "5",
+            "pages": "3588--3596",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ygeno.2020.04.016"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Immune responses against SARS-coronavirus nucleocapsid protein induced by DNA vaccine",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L.-J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z.-L",
+                    "middle": [],
+                    "last": "Qin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.-S",
+                    "middle": [],
+                    "last": "Ke",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "J.-G",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Qi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Virology",
+            "volume": "331",
+            "issn": "1",
+            "pages": "128--135",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Mechanisms of viral mutation",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sanjuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Domingo-Calap",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Cell Mol Life Sci",
+            "volume": "73",
+            "issn": "23",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "4433-48.10.1007/s00018-016-2299-6"
+                ]
+            }
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Variant analysis of SARS-CoV-2 genomes",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Koyama",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Platt",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Parida",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Bulletin of the World Health Organization",
+            "volume": "98",
+            "issn": "7",
+            "pages": "495--504",
+            "other_ids": {
+                "DOI": [
+                    "10.2471/BLT.20.253591"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF1": {
+            "text": "Structure of the SARS-CoV-2 genome in three different views: (a) basic illustration of the complete genome structure (b) illustration of coronavirus 2 isolate Wuhan-Hu-1, NC_045512 (complete genome 29,903 bp) as presented in the Genbank/NCBI https://www.ncbi.nlm.nih.gov/nuccore/NC_045512.2?report=graph (c) another view of the NC_045512.2 reference genome from NCBI showing all location of all genes. {Note: Figures 1(b) and 1(c) are both courtesy of The US National Center for Biotechnology Information NCBI www.ncbi.nlm.nih.org}",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "This figure show the divisions of the genome into genes/proteins and highlights the ORF1ab and Spike protein .",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "Visualization of the genomic sequences showing the alignment and genetic variants:",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "Illustration of the percentage of five mutations in eight genomic sets (sets S 1 .. S 8 ) collected between 1 January to 31 May.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Description and details of all genes and proteins of the SARSthis table shows the location and number of amino acids for each gene/protein {The first gene ORF1ab expresses a The 16 NSP's {nonstructural proteins} from the SARS-CoV-2 polyprotein.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "More details about then main genes (and coded proteins) in the SARS-CoV-2",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Details of the twelve dataset of genome sequences.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "The",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "The genetic variants in the set (100 genomes).",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "Percentage of 13 genetic variants across ten sets of genomes. Each row represents on set of genomes (~ about 100 genomes in each set). The 13 genetic variants are shown as column headers 1 .. 13.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "Total number of genome sequences available at NCBI based on the collection month starting from December 2019.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

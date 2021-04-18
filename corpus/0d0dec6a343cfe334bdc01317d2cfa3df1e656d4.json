@@ -1,0 +1,3345 @@
+{
+    "paper_id": "0d0dec6a343cfe334bdc01317d2cfa3df1e656d4",
+    "metadata": {
+        "title": "Procrastination predicts online self-regulated learning and online learning ineffectiveness during the coronavirus lockdown",
+        "authors": [
+            {
+                "first": "Jon-Chao",
+                "middle": [],
+                "last": "Hong",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Taiwan Normal University",
+                    "location": {
+                        "addrLine": "No.162, Heping East Road Section 1",
+                        "postCode": "106209",
+                        "settlement": "Taipei",
+                        "country": "Taiwan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yi-Fang",
+                "middle": [],
+                "last": "Lee",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Taiwan Normal University",
+                    "location": {
+                        "addrLine": "No.162, Heping East Road Section 1",
+                        "postCode": "106209",
+                        "settlement": "Taipei",
+                        "country": "Taiwan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jian-Hong",
+                "middle": [],
+                "last": "Ye",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Taiwan Normal University",
+                    "location": {
+                        "addrLine": "No.162, Heping East Road Section 1",
+                        "postCode": "106209",
+                        "settlement": "Taipei",
+                        "country": "Taiwan"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "During the lockdown due to SARS-CoV-2 (coronavirus lockdown), there has been a tremendous increase in the number of students taking online courses. Few studies, however, have examined the individual dispositions that influence self-regulated online learning during the coronavirus lockdown. To address this gap, the present study explored the ineffectiveness of online learning and examined how it can be predicted by self-regulated online learning and participants' procrastination disposition. Data of 433 participants were collected and subjected to confirmatory factor analysis with structural equation modeling. The results indicated that procrastination is negatively related to 6 sub-constructs of self-regulated online learning: task strategy, mood adjustment, selfevaluation, environmental structure, time management, and help-seeking. These sub-constructs were negatively related to the learners' perceived ineffectiveness of online learning. However, the relationship between perceived learning ineffectiveness and environmental structure or help-seeking was weaker than that with task strategy or mood adjustment, indicating that the latter two subtypes of self-regulated online learning should be considered before students engage in online learning.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Due to the outbreak of SARS-CoV-2 (hereafter coronavirus), more than 130 countries have temporarily closed their educational facilities to prevent the spread of the virus. Many schools have continued using distance learning approaches to offer students online learning. As an urgent response to the coronavirus pandemic, in early February 2020, all schools and universities in China stopped face-to-face teaching and started to use internet platforms to deliver online learning. This was earlier than in other countries (Dong, Cao, & Li, 2020) . Schools in China adopted the approach of \"ensuring that learning is undisrupted when classes are disrupted\" to ensure that students' learning during the pandemic lockdown period could continue. To support this new educational policy, the Chinese government provided funding to endorse online learning (Chen, Peng, et al., 2020) . However, as students had to suddenly adjust to taking many courses at home, the effectiveness of online learning during the coronavirus lockdown is still doubted (Huang et al., 2020) . For example, Bao (2020) pointed out that the effectiveness of online learning relies on students' self-directed learning attitude or personality, rather than on their ability to master the use of technological devices. Because of some level of autonomy offered in online courses, students need to exert a higher level of self-control in their online actions, for example, to overcome learner isolation and the less spontaneous online interaction which can cause procrastination in distance learning (Rasheed, Kamsin, & Abdu, 2020) . In particular, during the coronavirus lockdown, the sudden shift to online learning has presented new opportunities and unexpected challenges to the affected young children. Accordingly, the present study aimed to explore an individual trait that influences learning effectiveness.",
+            "cite_spans": [
+                {
+                    "start": 520,
+                    "end": 543,
+                    "text": "(Dong, Cao, & Li, 2020)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 847,
+                    "end": 873,
+                    "text": "(Chen, Peng, et al., 2020)",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1038,
+                    "end": 1058,
+                    "text": "(Huang et al., 2020)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1074,
+                    "end": 1084,
+                    "text": "Bao (2020)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1560,
+                    "end": 1591,
+                    "text": "(Rasheed, Kamsin, & Abdu, 2020)",
+                    "ref_id": "BIBREF48"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Most online courses in China during the coronavirus lockdown were carried out in the form of teachers giving live lectures while the students watched them and learned. To understand the effectiveness of online learning during the coronavirus lockdown, Zheng, Lin, and Kwon's (2020) study examined the correlation between behavior in online learning (e.g., the attendance number and amount of discussion) and learning outcomes, and compared the overall effect of online learning with traditional learning. However, few studies have focused on the factors accounting for the lack of engagement, which influences learning effectiveness due to procrastination (Michinov, Brunot, Le Bohec, Juhel, & Delaval, 2011) , especially as perceived during the coronavirus outbreak. Thus, in this study we explored how procrastination affected learners' perceptions of online learning, with a sample of college students who took online courses during the coronavirus lockdown in China.",
+            "cite_spans": [
+                {
+                    "start": 252,
+                    "end": 281,
+                    "text": "Zheng, Lin, and Kwon's (2020)",
+                    "ref_id": "BIBREF68"
+                },
+                {
+                    "start": 656,
+                    "end": 708,
+                    "text": "(Michinov, Brunot, Le Bohec, Juhel, & Delaval, 2011)",
+                    "ref_id": "BIBREF40"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Trait activation theory (TAT), the fundamental theory upon which the current study is based, is a personality theory of job functioning that integrates personality traits with situations (Tett & Guterman, 2000; Tett, Simonet, Walser, & Brown, 2013) . TAT assumes that participants have to show consistency in their thoughts and actions, initiating a more stable personality trait (Scheuble, Nieden, Leue, & Beauducel, 2019) . Procrastination as one of the stable personality traits (Van Eerde, 2003) is related to the \"voluntary delay\" of \"an intended course of action despite expecting to be worse off for the delay\" (Steel, 2007, p. 66) . Using the TAT model, some studies have revealed that procrastination can intervene in self-regulated behavior (e.g., Loeffler, Stumpp, Grund, Limberger, & Ebner-Priemer, 2019; Ziegler & Opdenakker, 2018) . As TAT is extremely powerful in predicting how a person will act (Jayawickreme, Zachry, & Fleeson, 2019), it can be used to discuss the mediated-indirect effect between procrastination and online learning effectiveness (Broadbent & Poon, 2015) . Accordingly, the present study aimed to understand how procrastination was related to learning effectiveness mediated by self-regulated online learning (SROL) during the coronavirus lockdown. This study aimed to provide an insightful view to support teachers in enhancing their students' online learning during or after the coronavirus lockdown.",
+            "cite_spans": [
+                {
+                    "start": 187,
+                    "end": 210,
+                    "text": "(Tett & Guterman, 2000;",
+                    "ref_id": "BIBREF60"
+                },
+                {
+                    "start": 211,
+                    "end": 248,
+                    "text": "Tett, Simonet, Walser, & Brown, 2013)",
+                    "ref_id": "BIBREF61"
+                },
+                {
+                    "start": 380,
+                    "end": 423,
+                    "text": "(Scheuble, Nieden, Leue, & Beauducel, 2019)",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 482,
+                    "end": 499,
+                    "text": "(Van Eerde, 2003)",
+                    "ref_id": "BIBREF63"
+                },
+                {
+                    "start": 618,
+                    "end": 638,
+                    "text": "(Steel, 2007, p. 66)",
+                    "ref_id": null
+                },
+                {
+                    "start": 758,
+                    "end": 816,
+                    "text": "Loeffler, Stumpp, Grund, Limberger, & Ebner-Priemer, 2019;",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 817,
+                    "end": 844,
+                    "text": "Ziegler & Opdenakker, 2018)",
+                    "ref_id": "BIBREF69"
+                },
+                {
+                    "start": 1066,
+                    "end": 1090,
+                    "text": "(Broadbent & Poon, 2015)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Procrastination is associated with the executive functions of planned action and self-control (such as initiating or stopping action). Poorer executive function is related to greater procrastination (Sirois & Pychyl, 2016) . Sirois and Kitner (2015) highlighted that procrastination is positively linked with maladaptive learning strategies (e.g., denial, behavioral disengagement, etc.). The nature of procrastination is essentially \"a self-defeating behaviour pattern marked by short-term benefits and long-term costs\" (Tice & Baumeister, 1997, p. 454 ). In the academic domain, academic procrastination creates a serious barrier which prevents students' success in their school work because the goal of mastering the various educational levels is adversely affected by putting off studying the different subjects that are needed to fulfill the academic requirements (Steel, 2007) . Briefly, academic procrastination is the purposeful and unnecessary delay in completing academic tasks (Zhao & Elder, 2020) .",
+            "cite_spans": [
+                {
+                    "start": 199,
+                    "end": 222,
+                    "text": "(Sirois & Pychyl, 2016)",
+                    "ref_id": "BIBREF56"
+                },
+                {
+                    "start": 225,
+                    "end": 249,
+                    "text": "Sirois and Kitner (2015)",
+                    "ref_id": "BIBREF55"
+                },
+                {
+                    "start": 521,
+                    "end": 553,
+                    "text": "(Tice & Baumeister, 1997, p. 454",
+                    "ref_id": null
+                },
+                {
+                    "start": 869,
+                    "end": 882,
+                    "text": "(Steel, 2007)",
+                    "ref_id": "BIBREF58"
+                },
+                {
+                    "start": 988,
+                    "end": 1008,
+                    "text": "(Zhao & Elder, 2020)",
+                    "ref_id": "BIBREF67"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Academic procrastination"
+        },
+        {
+            "text": "Previous research has found that academic procrastination can predict learning performance and evoke psychological problems (Hussain & Sultan, 2010) . Academic procrastination brings about painful feelings and negative learning experiences (Sirois & Pychyl, 2013) . Moreover, academic procrastination might have an adverse effect on homework completion (Grunschel, Patrzek, & Fries, 2012) , and even influence the decision to drop out of distance learning courses. For example, when learning at a distance, procrastinators often feel motivated to work on their course at the beginning, but then feel like dropping out after some time (Michinov et al., 2011) . These studies considered procrastination in distance learning before the coronavirus outbreak. Since the outbreak, teachers have needed to increase their use of distance online learning, but only a limited number of studies have explored the relationship in these circumstances. Thus, the role that academic procrastination played during the lockdown period is a focus of this study.",
+            "cite_spans": [
+                {
+                    "start": 124,
+                    "end": 148,
+                    "text": "(Hussain & Sultan, 2010)",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 240,
+                    "end": 263,
+                    "text": "(Sirois & Pychyl, 2013)",
+                    "ref_id": "BIBREF54"
+                },
+                {
+                    "start": 353,
+                    "end": 388,
+                    "text": "(Grunschel, Patrzek, & Fries, 2012)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 634,
+                    "end": 657,
+                    "text": "(Michinov et al., 2011)",
+                    "ref_id": "BIBREF40"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Academic procrastination"
+        },
+        {
+            "text": "Self-regulated learning (SRL) is defined by a set of learning strategies that students undertake in order to learn (Pintrich, 2004; Zimmerman, 2000 Zimmerman, , 2008 . Self-regulation learning (SRL) has been conceptualized in various ways in the literature. For example, students set personal learning goals, monitor their progress towards those goals, and reflect on that learning to understand if their strategies used to reach a particular goal were in fact useful (Zimmerman, 2000 (Zimmerman, , 2008 . Three distinct SRL approaches have been clustered as: reflective-oriented, adaptive, and monitoring self-regulated behavior (Li, Chen, Xing, Zheng, & Xie, 2020) . In Zimmerman's SR model, the learning process functions in three cyclical phases: forethought, performance, and selfreflection (Zimmerman & Moylan, 2009) . Learners start with the forethought phase in which they are involved with task analysis and selfmotivation (Wong, Khalil, Baars, de Koning, & Paas, 2019) . They set goals and make plans before starting work on a learning task. Selfmotivation influences these goals and plans. After the forethought phase, learners proceed to the performance phase where they fulfill their plans by exercising self-control and self-observation (Wong et al., 2019) . Additionally, they monitor their learning progress. In the self-reflection phase, learners evaluate their learning progress based on the information derived from cognitive monitoring in the performance phase and the feedback they are given. That is, they reflect on their goals, plans and strategies, and make use of this information to form new goals and plans (Wong et al., 2019) . Students with different profiles of self-regulation diverge significantly in their learning performance. For example, self-regulation led learners to outperform minimally self-regulated learners on the completeness of a design work . A previous study also specified that students who engaged carefully with the task preparation, such as by organizing appropriate information to construct connections, had more competence when involved in new situations, and continuously improved their performance of completing tasks (Irvine, Brooks, Lau, & McKenna, in press ). All these behaviors are related to forethought, adaptation and monitoring, which are considered essential components when engaging in online learning (Irvine et al., in press ). Accordingly, we define \"forethought\" as students' self-regulated behavior before they participate in online learning. Additionally, students are at an increased risk of not engaging in school work if they experience emotional maladjustment (Skinner & Pitzer, 2012) . SROL is highly influenced by the actual situation (e.g., the Wi-Fi connection) as well as by individual characteristics (e.g., mood), both of which can affect the learning outcomes (Taminiau et al., 2013) . As mood positively activates pre-reflection in SROL (Lehmann, Hahnlein, & Ifenthaler, 2014) , and the teacher-centered instructional paradigm as an approach to knowledge transmission (Rajabi, 2012) , we used mood adjustment as one of the pre-prompts to replace goal setting in SROL, which is most often required by teachers in Chinese educational culture (Bai & Wang, 2021) . Thus, the six SROL sub-constructs of task strategy, mood adjustment, self-evaluation, environmental structure, time management, and help-seeking were included in the model used in this study.",
+            "cite_spans": [
+                {
+                    "start": 115,
+                    "end": 131,
+                    "text": "(Pintrich, 2004;",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 132,
+                    "end": 147,
+                    "text": "Zimmerman, 2000",
+                    "ref_id": "BIBREF70"
+                },
+                {
+                    "start": 148,
+                    "end": 165,
+                    "text": "Zimmerman, , 2008",
+                    "ref_id": "BIBREF71"
+                },
+                {
+                    "start": 468,
+                    "end": 484,
+                    "text": "(Zimmerman, 2000",
+                    "ref_id": "BIBREF70"
+                },
+                {
+                    "start": 485,
+                    "end": 503,
+                    "text": "(Zimmerman, , 2008",
+                    "ref_id": "BIBREF71"
+                },
+                {
+                    "start": 630,
+                    "end": 666,
+                    "text": "(Li, Chen, Xing, Zheng, & Xie, 2020)",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 796,
+                    "end": 822,
+                    "text": "(Zimmerman & Moylan, 2009)",
+                    "ref_id": "BIBREF72"
+                },
+                {
+                    "start": 932,
+                    "end": 978,
+                    "text": "(Wong, Khalil, Baars, de Koning, & Paas, 2019)",
+                    "ref_id": "BIBREF65"
+                },
+                {
+                    "start": 1251,
+                    "end": 1270,
+                    "text": "(Wong et al., 2019)",
+                    "ref_id": "BIBREF65"
+                },
+                {
+                    "start": 1635,
+                    "end": 1654,
+                    "text": "(Wong et al., 2019)",
+                    "ref_id": "BIBREF65"
+                },
+                {
+                    "start": 2175,
+                    "end": 2216,
+                    "text": "(Irvine, Brooks, Lau, & McKenna, in press",
+                    "ref_id": null
+                },
+                {
+                    "start": 2370,
+                    "end": 2394,
+                    "text": "(Irvine et al., in press",
+                    "ref_id": null
+                },
+                {
+                    "start": 2638,
+                    "end": 2662,
+                    "text": "(Skinner & Pitzer, 2012)",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 2846,
+                    "end": 2869,
+                    "text": "(Taminiau et al., 2013)",
+                    "ref_id": "BIBREF59"
+                },
+                {
+                    "start": 2924,
+                    "end": 2963,
+                    "text": "(Lehmann, Hahnlein, & Ifenthaler, 2014)",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 3055,
+                    "end": 3069,
+                    "text": "(Rajabi, 2012)",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 3227,
+                    "end": 3245,
+                    "text": "(Bai & Wang, 2021)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Self-regulated online learning"
+        },
+        {
+            "text": "In online learning, SRL play an essential role in assessing student learning effectiveness so that institutions and instructors can provide efficient support. Some prominent studies have found significant correlations between academic outcomes and overall SRL (Cicchinelli et al., 2018; Pardo, Han, & Ellis, 2016) or the subscales such as time management (Bruso & Stefaniak, 2016) and effort regulation (Bruso & Stefaniak, 2016; Dunnigan, 2018) . Facing the coronavirus lockdown, selfregulated online learners need to adapt to the learning settings and engage in the process of online learning to achieve the course goals. However, task strategies, monitoring progress, and evaluating goal accomplishment have not been extensively studied in the case of online learning during the coronavirus lockdown; thus, the present study explored forethought and the adaptive role of SROL.",
+            "cite_spans": [
+                {
+                    "start": 260,
+                    "end": 286,
+                    "text": "(Cicchinelli et al., 2018;",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 287,
+                    "end": 313,
+                    "text": "Pardo, Han, & Ellis, 2016)",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 355,
+                    "end": 380,
+                    "text": "(Bruso & Stefaniak, 2016)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 403,
+                    "end": 428,
+                    "text": "(Bruso & Stefaniak, 2016;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 429,
+                    "end": 444,
+                    "text": "Dunnigan, 2018)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Self-regulated online learning"
+        },
+        {
+            "text": "Technology can help students overcome scheduling and location barriers to learning. Students' engagement primarily emphasizes the time and effort they put into online learning activities to achieve the desired learning effectiveness. Despite the benefits of online learning, facilitating students' learning on online platforms is still challenging (Panigrahi, Srivastava, & Sharma, 2018) . Magalhaes, Ferreira, Cunha, and Rosario (2020) found that most studies agree that online learning is beneficial to students' learning outcomes compared to traditional learning, but the learning effectiveness is arguable when using online learning systems (Pye, Holt, Salzman, Bellucci, & Lombardi, 2015) .",
+            "cite_spans": [
+                {
+                    "start": 348,
+                    "end": 387,
+                    "text": "(Panigrahi, Srivastava, & Sharma, 2018)",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 390,
+                    "end": 436,
+                    "text": "Magalhaes, Ferreira, Cunha, and Rosario (2020)",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 645,
+                    "end": 693,
+                    "text": "(Pye, Holt, Salzman, Bellucci, & Lombardi, 2015)",
+                    "ref_id": "BIBREF46"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Online learning ineffectiveness"
+        },
+        {
+            "text": "Previous research has shown that attempts by emerging adolescents to link with self-perception bias in taking positive outcomes as individual efforts but looking down external attributes (Shepperd, Malone, & Sweeny, 2008) . This \"darker\" aspect of the psychology of young people is related to prejudice in viewing social world by evaluating external performance as lower achieved (Anderson & Cheers, 2018) . Moreover, adolescents tend to \"increase their endorsement of selffocused values and decrease their valuation of other-focused\" behavior (Daniel & Benish-Weisman, 2019, p. 620) . Because young people might have a particular response bias, we had the participants self-report their perceptions of ineffectiveness.",
+            "cite_spans": [
+                {
+                    "start": 187,
+                    "end": 221,
+                    "text": "(Shepperd, Malone, & Sweeny, 2008)",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 380,
+                    "end": 405,
+                    "text": "(Anderson & Cheers, 2018)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 544,
+                    "end": 583,
+                    "text": "(Daniel & Benish-Weisman, 2019, p. 620)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Online learning ineffectiveness"
+        },
+        {
+            "text": "However, if online teachers and course designers wish to ensure effective online learning, it is important to understand the students' perceptions of the effectiveness or ineffectiveness of online courses. Few studies have articulated the importance of perceived learning effectiveness which is likely to be biased due to response tendencies (van Herk, Poortinga, & Verhallen, 2004) . Considering this, this study adopted learning ineffectiveness instead of learning effectiveness for participants to self-rate their perceptions of their learning performance during the coronavirus lockdown.",
+            "cite_spans": [
+                {
+                    "start": 342,
+                    "end": 382,
+                    "text": "(van Herk, Poortinga, & Verhallen, 2004)",
+                    "ref_id": "BIBREF64"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Online learning ineffectiveness"
+        },
+        {
+            "text": "Researchers have argued that the concept of active procrastination is an oxymoron because the psychological definition of procrastination is not only conceptualized as an act of delay but also as a form of selfregulatory failure (Corkin, Yu, & Lindt, 2011) . Therefore, active procrastination is not procrastination, but rather a form of purposeful delay (Ferrari, 2010; Pychyl, 2009 ). However, other forms of procrastination exist in the psychological literature, where procrastination is deemed as \"inherently maladaptive\" (Corkin et al., 2011, p. 602 ). In the current study, we used trait-activation theory to support the research model, and used the term academic procrastination (AP) to represent inherently maladaptive procrastination as an individual trait rather than as an activator (active procrastination). Scheuble et al. (2019) posited that TAT can serve as the theoretical framework to explore how individual trait, AP, is related to perceived learning ineffectiveness (PLI) with the mediated effect of SROL: task strategy (TS), mood-adjustment (MA), self-evaluation (SE), environmental-structure (ES), time-management (TM), help-seeking (HS). Accordingly, the research model of this study is presented as follows (Fig. 1) .",
+            "cite_spans": [
+                {
+                    "start": 229,
+                    "end": 256,
+                    "text": "(Corkin, Yu, & Lindt, 2011)",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 355,
+                    "end": 370,
+                    "text": "(Ferrari, 2010;",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 371,
+                    "end": 383,
+                    "text": "Pychyl, 2009",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 526,
+                    "end": 554,
+                    "text": "(Corkin et al., 2011, p. 602",
+                    "ref_id": null
+                },
+                {
+                    "start": 820,
+                    "end": 842,
+                    "text": "Scheuble et al. (2019)",
+                    "ref_id": "BIBREF51"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1230,
+                    "end": 1238,
+                    "text": "(Fig. 1)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Research model"
+        },
+        {
+            "text": "Academic procrastination is a phenomenon that is highly related to other variables. Previous studies have stated that procrastination is a complex entanglement of affective, cognitive, and environmental constructs (e.g., Chow, 2011; Richardson, Abraham, & Bond, 2012; Steel, 2007; Ziegler & Opdenakker, 2018) . Additionally, SRL is recognized as a crucial factor in online learning, and students' perceived academic control is an imperative antecedent of SRL (You & Kang, 2014) . However, students vary in the characteristics or dispositions that regulate their learning (e.g., Azevedo & Cromley, 2004; Bol & Garner, 2011) . Among the characteristics, academic procrastination is a component that is highly associated with behavioral deficiencies in most SR models (Loeffler et al., 2019) . Thus, this study explored the relationship between academic procrastination and six SROL approaches (task-strategy, mood-adjustment, self-evaluation, environmental-structure, time-management, and help-seeking) during the coronavirus lockdown. The hypotheses are proposed as follows.",
+            "cite_spans": [
+                {
+                    "start": 221,
+                    "end": 232,
+                    "text": "Chow, 2011;",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 233,
+                    "end": 267,
+                    "text": "Richardson, Abraham, & Bond, 2012;",
+                    "ref_id": "BIBREF49"
+                },
+                {
+                    "start": 268,
+                    "end": 280,
+                    "text": "Steel, 2007;",
+                    "ref_id": "BIBREF58"
+                },
+                {
+                    "start": 281,
+                    "end": 308,
+                    "text": "Ziegler & Opdenakker, 2018)",
+                    "ref_id": "BIBREF69"
+                },
+                {
+                    "start": 459,
+                    "end": 477,
+                    "text": "(You & Kang, 2014)",
+                    "ref_id": "BIBREF66"
+                },
+                {
+                    "start": 578,
+                    "end": 602,
+                    "text": "Azevedo & Cromley, 2004;",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 603,
+                    "end": 622,
+                    "text": "Bol & Garner, 2011)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 765,
+                    "end": 788,
+                    "text": "(Loeffler et al., 2019)",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Procrastination and SROL"
+        },
+        {
+            "text": "H1. Academic procrastination is negatively related to task strategy in SROL.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Procrastination and SROL"
+        },
+        {
+            "text": "H2. Academic procrastination is negatively related to moodadjustment in SROL.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Procrastination and SROL"
+        },
+        {
+            "text": "H3. Academic procrastination is negatively related to self-evaluation in SROL.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Procrastination and SROL"
+        },
+        {
+            "text": "H4. Academic procrastination is negatively related to environmentalstructure in SROL.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Procrastination and SROL"
+        },
+        {
+            "text": "Academic procrastination is negatively related to timemanagement in SROL.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "H5."
+        },
+        {
+            "text": "Academic procrastination is negatively related to help-seeking in SROL.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "H6."
+        },
+        {
+            "text": "The effect of SRL on course learning outcomes and academic achievement has been studied extensively (Jansen, van Leeuwen, Janssen, Conijn, & Kester, 2020) . Previous studies have revealed that the correlates between SRL and academic outcomes are positive across educational levels (Broadbent & Poon, 2015; de Boer, Donker-Bergstra, Kostons, & Korpershoek, 2013) . SRL interventions are designed to enhance students' monitoring of and reflection on their learning process to promote effectiveness (e.g., Dorrenbacher & Perels, 2016; Jansen et al., 2020) . Furthermore, several studies have found that SRL can positively impact online course performance (e.g., Puzziferro, 2008) . Despite the findings of measuring SRL in online contexts, the results concerning the relationships between SRL and academic outcomes have been mixed (Jansen et al., 2020) . However, few studies have extended the relationship between SROL components and learning ineffectiveness in online learning during the coronavirus lockdown. To investigate their correlations, the following hypotheses were proposed:",
+            "cite_spans": [
+                {
+                    "start": 100,
+                    "end": 154,
+                    "text": "(Jansen, van Leeuwen, Janssen, Conijn, & Kester, 2020)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 281,
+                    "end": 305,
+                    "text": "(Broadbent & Poon, 2015;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 306,
+                    "end": 361,
+                    "text": "de Boer, Donker-Bergstra, Kostons, & Korpershoek, 2013)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 503,
+                    "end": 531,
+                    "text": "Dorrenbacher & Perels, 2016;",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 532,
+                    "end": 552,
+                    "text": "Jansen et al., 2020)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 659,
+                    "end": 676,
+                    "text": "Puzziferro, 2008)",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 828,
+                    "end": 849,
+                    "text": "(Jansen et al., 2020)",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "SROL and learning ineffectiveness"
+        },
+        {
+            "text": "H7. Task strategy in SROL is negatively related to learning ineffectiveness.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SROL and learning ineffectiveness"
+        },
+        {
+            "text": "H8. Mood-adjustment in SROL is negatively related to learning ineffectiveness.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SROL and learning ineffectiveness"
+        },
+        {
+            "text": "H9. Self-evaluation in SROL is negatively related to learning ineffectiveness.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SROL and learning ineffectiveness"
+        },
+        {
+            "text": "H10. Environmental-structure in SROL is negatively related to learning ineffectiveness.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SROL and learning ineffectiveness"
+        },
+        {
+            "text": "Time-management in SROL is negatively related to learning ineffectiveness.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "H11."
+        },
+        {
+            "text": "H12. Help-seeking in SROL is negatively related to learning ineffectiveness.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "H11."
+        },
+        {
+            "text": "Previous studies have revealed that online learning may have negative effects on students' learning behavior, especially when learning tasks are complex. In particular, when students exhibit procrastination behaviors, the negative effects include pressure to complete the course and assignments (Alghamdi, Karpinski, Lepp, & Barkley, 2020) . Online learning systems are perceived as a valuable teaching platform on which students who engage in their online learning work using SRL strategies are inclined to achieve higher grades than their counterparts who do not do online learning (Fan, Xu, Cai, He, & Fan, 2017; Magalhaes et al., 2020) . Despite this, Panigrahi et al.'s (2018) study pointed out a mixed result of using online learning to foster learning effectiveness, due to the disposition or background of the learners. It has been noted that more self-control is required in online education as compared to traditional classroom education (Allen & Seaman, 2007) . Thus, how students' procrastination is related to their learning ineffectiveness perceptions mediated by SROL during online learning during the coronavirus outbreak period was hypothesized as follows.",
+            "cite_spans": [
+                {
+                    "start": 295,
+                    "end": 339,
+                    "text": "(Alghamdi, Karpinski, Lepp, & Barkley, 2020)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 584,
+                    "end": 615,
+                    "text": "(Fan, Xu, Cai, He, & Fan, 2017;",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 616,
+                    "end": 639,
+                    "text": "Magalhaes et al., 2020)",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 656,
+                    "end": 681,
+                    "text": "Panigrahi et al.'s (2018)",
+                    "ref_id": null
+                },
+                {
+                    "start": 948,
+                    "end": 970,
+                    "text": "(Allen & Seaman, 2007)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Procrastination and learning ineffectiveness"
+        },
+        {
+            "text": "H13. Academic procrastination is positively related to perceived online learning ineffectiveness mediated by SROL components.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Procrastination and learning ineffectiveness"
+        },
+        {
+            "text": "The convenience sampling strategy was conducted and the sample for the study was recruited via professors who had joined the Global Chinese Association of Inquiry-based Learning social network. These professors texted the survey website to their students. The data were collected from April 1 to 15, 2020 and the subjects were college students who had engaged in online learning during the coronavirus outbreak in China. The total number of participants was 541. After deleting invalid responses, the final sample size was 531, with an 80% return rate. Among them, females accounted for 292 (55%) of the respondents, males for 238 (45%), and there were 178 graduates (33.5%) and 353 undergraduates (66.5%). The average number of online studying hours per day was 6.24 (SD = 1.56).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Procedure and participants"
+        },
+        {
+            "text": "Structural Equation Modeling (SEM) is a statistical technique used for analyzing the structural relationships between measured variables and latent constructs, especially when the model is multivariate or multilevel (Astrachan, Patel, & Wanzenried, 2014) . PLS-SEM was conducted in the current study since it is suitable for testing a theoretical framework from a prediction perspective (Shmueli, 2010) . In addition, this technique is considered as the preferred tool when the sample size is small (Hair, Ringle, & Sarstedt, 2011) . More specifically, the PLS-SEM minimum sample size is estimated using the \"10-times rule\" which assumes that the sample size should be greater than 10 times the maximum number of any latent variable in the model (Kock & Hadaya, 2018) . \"Perceived learning ineffectiveness\" in the current study has the largest number of items (7); therefore, according to the rule, as the sample size was greater than 70, PLS-SEM could be used for the data analysis.",
+            "cite_spans": [
+                {
+                    "start": 216,
+                    "end": 254,
+                    "text": "(Astrachan, Patel, & Wanzenried, 2014)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 387,
+                    "end": 402,
+                    "text": "(Shmueli, 2010)",
+                    "ref_id": "BIBREF53"
+                },
+                {
+                    "start": 499,
+                    "end": 531,
+                    "text": "(Hair, Ringle, & Sarstedt, 2011)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 746,
+                    "end": 767,
+                    "text": "(Kock & Hadaya, 2018)",
+                    "ref_id": "BIBREF33"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical tools"
+        },
+        {
+            "text": "The questionnaire items were adapted from previous theories or researchers and were obtained by professionally translating the original items into Chinese using the forward-backward method three times to verify the accuracy of the translation and to ensure the face validity of the items. A 5-point Likert scale was employed with 1 indicating strongly disagree and 5 for strongly agree. Additionally, we performed first-order confirmatory factor analysis (CFA) to examine the internal and external validity of the questionnaire (Kline, 2015) . We subsequently tested the reliability and validity of the constructs.",
+            "cite_spans": [
+                {
+                    "start": 528,
+                    "end": 541,
+                    "text": "(Kline, 2015)",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Development of the questionnaire"
+        },
+        {
+            "text": "Adapted from Martinez-Lopez, Yot, Tuovila, and Perera-Rodr\u00edguez's (2017) six sub-constructs, this study designed five items for each subconstruct: Environment-structuring, Time-management, Help-seeking, Mood-adjustment, Self-evaluation and Task-strategy to evaluate the participants' SROL during the coronavirus lockdown. We designed four items for each SROL. For example, \"Before learning online, I check the content I do not understand in order to ask questions during class\" for task strategy, \"Before learning online, I like to get my errands done to avoid being distracted during class\" for Mood-adjustment; \"To learn online, I pay attention to whether I am in a good mood or not, for example, feeling tired from eating too much\" for self-evaluation; \"Before learning online, I pay attention to whether the location is quiet for attending a lesson\" for environmental structuring; \"I allocate extra study time for my online courses because I know it is time-demanding\" for time management; and \"After learning online, I ask my classmates about the content I do not understand\" for help-seeking.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SROL measurement"
+        },
+        {
+            "text": "The items for this measurement were mainly adapted from Lay's General Procrastination Scale (GPS) (Lay, 1992) , which assessed traitlike tendencies to procrastinate across tasks. Moreover, taking procrastinators as disposed as a psychological trait, and they are likely to express negative emotions about procrastination (Chen, Peng, et al., 2020; Chen, Zhang, et al., 2020) . Accordingly, for the present study, we designed six items for assessing participants' academic procrastination. For example, \"I often fool around before the homework deadline has arrived.\" Ruhland and Brewer (2001) claim that learning outcomes not only determine what students know, but should also the cognitive and affective development from learning experiences. Because adolescents endorse being self-focused and tend to view external resources negatively (Daniel & Benish-Weisman, 2019) , we decided to use ineffectiveness rather than effectiveness to ask students about their perceived performance regarding their online learning. Nine items were designed, including, \"Since learning online, my mental state while studying has become worse.\"",
+            "cite_spans": [
+                {
+                    "start": 98,
+                    "end": 109,
+                    "text": "(Lay, 1992)",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 321,
+                    "end": 347,
+                    "text": "(Chen, Peng, et al., 2020;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 348,
+                    "end": 374,
+                    "text": "Chen, Zhang, et al., 2020)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 566,
+                    "end": 591,
+                    "text": "Ruhland and Brewer (2001)",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 837,
+                    "end": 868,
+                    "text": "(Daniel & Benish-Weisman, 2019)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Academic procrastination measurement"
+        },
+        {
+            "text": "The first-order CFA was employed to test the internal validity of the items, and the factor loading value lower than 0.5 was used as the criterion to screen out the items (Hair, Black, Babin, & Anderson, 2010) . The results showed that 1 or 2 items needed to be deleted from each construct to meet the criteria by reducing the higher residual values in each construct. Finally, the number of items was seven for \"Perceived learning ineffectiveness\" and three for each of the remaining constructs: \"Academic procrastination,\" \"Task-strategy,\" \"Mood-adjustment,\" \"Selfevaluation,\" \"Environmental structuring,\" \"Time-management\" and \"Help-seeking.\"",
+            "cite_spans": [
+                {
+                    "start": 171,
+                    "end": 209,
+                    "text": "(Hair, Black, Babin, & Anderson, 2010)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Item analysis"
+        },
+        {
+            "text": "In addition, the critical ratio was calculated for each item to examine the external validity and to check whether the item could be used to successfully distinguish the respondents in the high 27% and low 27% scoring groups (Cor, 2016; Green & Salkind, 2004) . Table 1 shows that all items have significant t values with good CR, indicating that they can differentiate the respondents from the different groups.",
+            "cite_spans": [
+                {
+                    "start": 225,
+                    "end": 236,
+                    "text": "(Cor, 2016;",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 237,
+                    "end": 259,
+                    "text": "Green & Salkind, 2004)",
+                    "ref_id": "BIBREF23"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 262,
+                    "end": 269,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Item analysis"
+        },
+        {
+            "text": "Cronbach's \u03b1 was conducted to examine the internal consistency in the scale items, where Cronbach's \u03b1 is higher than 0.6. Composite reliability (CR) was conducted to examine the internal stability of the scale items. The CR value should be higher than 0.7 to be considered as an acceptable result (Hair et al., 2010) . Table 1 shows that all values meet the requirements, with Cronbach's \u03b1 values from 0.73 to 0.94 across constructs, and CR values from 0.85 to 0.95.",
+            "cite_spans": [
+                {
+                    "start": 297,
+                    "end": 316,
+                    "text": "(Hair et al., 2010)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 319,
+                    "end": 326,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Construct reliability and validity analysis"
+        },
+        {
+            "text": "As for convergent validity, factor loading (FL) values for all retained items were higher than the criterion of 0.5 (Hair et al., 2010) . Specifically, the FL values in \"Academic procrastination\" ranged from 0.83 to 0.89, \"Task-strategy\" from 0.89 to 0.92, \"Mood-adjustment\" from 0.81 to 0.82, \"Self-evaluation\" from 0.79 to 0.815, \"Environmental structuring\" from 0.86 to 0.92, \"Time-management\" from 0.77 to 0.88, \"Help-seeking\" from 0.66 to 0.89, and \"Perceived learning ineffectiveness\" from 0.85 to 0.89. Regarding average variance extracted (AVE), all AVE values were between 0.65 and 0.78 (Table 1) . They were all higher than the standard of 0.5, thus showing good convergent validity (Hair et al., 2010) . In addition, the AVE has often been used to assess discriminant validity. According to Hair et al. (2010) , the AVE square root of each latent construct should be higher than the absolute value of the Pearson correlation coefficient. If that is the case, construct discriminant validity is established (see Table 2 ).",
+            "cite_spans": [
+                {
+                    "start": 116,
+                    "end": 135,
+                    "text": "(Hair et al., 2010)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 693,
+                    "end": 712,
+                    "text": "(Hair et al., 2010)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 802,
+                    "end": 820,
+                    "text": "Hair et al. (2010)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 596,
+                    "end": 605,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 1022,
+                    "end": 1029,
+                    "text": "Table 2",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Construct reliability and validity analysis"
+        },
+        {
+            "text": "We tested each hypothesis by computing the correlation coefficients between the latent constructs and their explanatory power using SmartPLS. Fig. 2 reveals that all of the \u03b2 values were negative and reached a significant level, indicating that all correlations in the model were negative. As for the explanatory power of each latent endogenous variable, the R 2 values ranged from 0.44 to 0.87, indicating a high explanatory power, and the effect size f 2 was from 0.77 to 6.41, indicating a good effect size; thus, the paths between each variable are well verified.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 142,
+                    "end": 148,
+                    "text": "Fig. 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "The mediated effect of the research model was significant (\u03b2 = \u2212 0.94***) with 95% CI from 0.89 to 0.98, which revealed that there was indeed a full mediating effect of the six components of SROL in the negative relationship between academic procrastination and perceived online learning ineffectiveness.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "With the outbreak of the coronavirus, an increasing number of students have had to study online, but how effective online learning actually is which is a source of disagreement. Due to active learning being essential to the online learning effect, we focused on academic procrastination to explore how it affected participants' SROL components and their perceptions of learning ineffectiveness. We adapted TAT to develop the conceptual framework and hypotheses, and used structural equation modeling to verify the research model. Taking academic procrastination as an individual trait, and six types of SROL as activators which affect the perception of online learning ineffectiveness, we found that procrastination can negatively predict the six components of SROL, which can in turn negatively predict perceived learning ineffectiveness. More details are described as follows.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In the academic domain, procrastination is a serious barrier preventing students from succeeding in their school work which requires learning mastery. Procrastination is the purposeful but needless delay in completing academic tasks (Zhao & Elder, 2020) . On the other hand, SRL is known as a critical factor for effective online learning. Thus, students' perceived academic control is an important antecedent of SRL (You & Kang, 2014) . Among the individual traits, academic procrastination is a component that is highly associated with behavioral deficiencies in most SR models (Loeffler et al., 2019) . Supporting this, we explored the relationship between academic procrastination and each of the six SROL components: task-strategy, mood-adjustment, selfevaluation, environmental-structure, time-management, and helpseeking during the coronavirus lockdown.",
+            "cite_spans": [
+                {
+                    "start": 233,
+                    "end": 253,
+                    "text": "(Zhao & Elder, 2020)",
+                    "ref_id": "BIBREF67"
+                },
+                {
+                    "start": 417,
+                    "end": 435,
+                    "text": "(You & Kang, 2014)",
+                    "ref_id": "BIBREF66"
+                },
+                {
+                    "start": 580,
+                    "end": 603,
+                    "text": "(Loeffler et al., 2019)",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The results of this study revealed that participants with higher levels of SROL components would perceive lower levels of learning ineffectiveness; in other words, they were more positive about the effectiveness of their learning. In light of the importance of adopting SRL strategies during online learning, it is necessary to measure students' use of SRL strategies and to identify those students who are likely to put efforts into online courses (Cicchinelli et al., 2018) . SRL can enhance students' monitoring of and reflection on their learning process, which can promote their learning effectiveness (Dorrenbacher & Perels, 2016) . However, the results concerning the relationships between SRL and academic outcomes in the previous research have been mixed (Jansen et al., 2020) . To explore the correlates between SROL and the perception of online learning ineffectiveness in the context of facing the coronavirus lockdown, we assumed that self-regulated learners need foresight to adapt to the learning settings, and to engage in and evaluate their achievement in the process of online learning.",
+            "cite_spans": [
+                {
+                    "start": 449,
+                    "end": 475,
+                    "text": "(Cicchinelli et al., 2018)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 607,
+                    "end": 636,
+                    "text": "(Dorrenbacher & Perels, 2016)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 764,
+                    "end": 785,
+                    "text": "(Jansen et al., 2020)",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Procrastination has negative effects on learning behaviors by perceiving pressure to complete the course and assignments (Alghamdi et al., 2020) . Online learning systems are perceived as a useful teaching platform. Students who engage in online learning work and adopt positive SRL practices tend to achieve higher grades than their counterparts who do not engage in online learning (Fan et al., 2017; Magalhaes et al., 2020) . Supporting the above studies, the results of this study show that, during the coronavirus outbreak period, students' procrastination was related to their learning ineffectiveness perception mediated by SROL.",
+            "cite_spans": [
+                {
+                    "start": 121,
+                    "end": 144,
+                    "text": "(Alghamdi et al., 2020)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 384,
+                    "end": 402,
+                    "text": "(Fan et al., 2017;",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 403,
+                    "end": 426,
+                    "text": "Magalhaes et al., 2020)",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In online learning, students studying by themselves may have less spontaneous interactions, and there are concerns about the effectiveness or their learning. To understand this issue, we explored the correlations between individual academic procrastination, six types of SROL and online learning during the coronavirus lockdown. Briefly, the results indicated that participants with high levels of academic procrastination had low levels of SROL, leading to high perceived ineffectiveness of online learning.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "Many researchers have indicated that SRL plays a critical role in online learning (e.g., Jansen et al., 2020) . To promote the effectiveness of online learning, students' SRL should be activated based on the traitactivation-theory. However, since higher levels of academic procrastination can lead to lower levels of SROL, teachers may find some approaches to decrease students' procrastination, such as providing more reminder services if students do not do their online course work in time.",
+            "cite_spans": [
+                {
+                    "start": 89,
+                    "end": 109,
+                    "text": "Jansen et al., 2020)",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Implications"
+        },
+        {
+            "text": "Another implication is that students who have less experience of using SROL strategies should pay attention to the items related to the six components listed in Table 1 as a checklist to regulate their SROL behavior. By using this checklist before or during online learning, the six components of SROL can be enhanced. Thus, their online learning ineffectiveness can be decreased. Alghamdi et al. (2020) found that female students with higher levels of SRL experience had better academic performance than male students. They proposed that gender difference should be further studied in the context of the coronavirus outbreak. In the future, the gender impact should be taken into consideration. Moreover, we did not analyze the effect of the number of hours spent on online learning on the variables of participants' procrastination and SROL. It is suggested that future studies conduct a comparison to explore the effect of the number of hours spent on online learning with those components of SROL that may affect the perception of online learning effectiveness during the coronavirus lockdown.",
+            "cite_spans": [
+                {
+                    "start": 381,
+                    "end": 403,
+                    "text": "Alghamdi et al. (2020)",
+                    "ref_id": "BIBREF0"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 161,
+                    "end": 168,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Implications"
+        },
+        {
+            "text": "Finally, students in China tend to encounter tremendous physical, emotional and psychological pressures from family and from teachers' high expectations. Such outside pressure might enforce their academic control; this may be why the participants in this study reported low levels of academic procrastination. Future studies may compare the level of academic procrastination across different cultures during the coronavirus lockdown in order to explore how academic procrastination influences the SROL of students from different cultures.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Limitations and future study"
+        },
+        {
+            "text": "Finally, future studies may include academic procrastination as a predictor of perceived learning ineffectiveness to check if its multiple linear regression can confirm the essential nature of academic procrastination.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Limitations and future study"
+        },
+        {
+            "text": "Jon-Chao Hong: Conceptualization, Methodology, Supervision, Writingreview & editing. Yi-Fang Lee: Writingreview & editing, Validation, Software. Jian-Hong Ye: Data curation, Writingoriginal draft.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CRediT authorship contribution statement"
+        },
+        {
+            "text": "This study was financially supported by the Institute for Research Excellence in Learning Sciences of National Taiwan Normal University (NTNU) from The Featured Areas Research Center Program within the ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgments"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Online and face-to-face classroom multitasking and academic performance: Moderated mediation with selfefficacy for self-regulated learning and gender",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Alghamdi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Karpinski",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lepp",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Barkley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Computers in Human Behavior",
+            "volume": "102",
+            "issn": "",
+            "pages": "214--222",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Likert scales and data analyses",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Allen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Seaman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "",
+            "volume": "40",
+            "issn": "",
+            "pages": "64--65",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Does the dark triad predict prejudice? The role of Machiavellianism, psychopathy, and narcissism in explaining negativity toward asylum seekers",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cheers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Australian Psychologist",
+            "volume": "53",
+            "issn": "",
+            "pages": "271--281",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "A comparative study of CB-SEM and PLS-SEM for theory development in family firm research",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Astrachan",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Patel",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wanzenried",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Journal of Family Business Strategy",
+            "volume": "5",
+            "issn": "1",
+            "pages": "116--128",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Does training on self-regulated learning facilitate students' learning with hypermedia?",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Azevedo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Cromley",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Journal of Educational Psychology",
+            "volume": "96",
+            "issn": "",
+            "pages": "523--535",
+            "other_ids": {
+                "DOI": [
+                    "10.1037/0022-0663.96.3.523"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Hong Kong secondary students' self-regulated learning strategy use and English writing: Influences of motivational beliefs",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "System",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "COVID-19 and online teaching in higher education: A case study of Peking University",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Bao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Human Behavior and Emerging Technologies",
+            "volume": "2",
+            "issn": "2",
+            "pages": "113--115",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Effective strategies for self-regulated learning: A meta-analysis",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "De Boer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Donker-Bergstra",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "D N M"
+                    ],
+                    "last": "Kostons",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Korpershoek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Challenges in supporting self-regulation in distance education environments",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bol",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Garner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Journal of Computing in Higher Education",
+            "volume": "23",
+            "issn": "2",
+            "pages": "104--123",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Self-regulated learning strategies & academic achievement in online higher education learning environments: A systematic review",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Broadbent",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Internet and Higher Education",
+            "volume": "27",
+            "issn": "",
+            "pages": "1--13",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "The use of self-regulated learning measure questionnaires as a predictor of academic success",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Bruso",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Stefaniak",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "",
+            "volume": "60",
+            "issn": "",
+            "pages": "577--584",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Analysis of user satisfaction with online education platforms in China during the COVID-19 pandemic",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Cong",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Healthcare",
+            "volume": "8",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Emotional attitudes towards procrastination in people: A large-scale sentiment-focused crawling analysis",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Computers in Human Behavior",
+            "volume": "110",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Procrastination among undergraduate students: Effects of emotional intelligence, school life, self-evaluation, and self-efficacy",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "P H"
+                    ],
+                    "last": "Chow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Alberta Journal of Educational Research",
+            "volume": "57",
+            "issn": "2",
+            "pages": "234--240",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Finding traces of self-regulated learning in activity streams",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cicchinelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Veas",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pardo",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Pammer-Schindler",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fessl",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Barreiros",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lindstadt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Proceedings of the 8th International Conference on Learning Analytics and Knowledge",
+            "volume": "",
+            "issn": "",
+            "pages": "191--200",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Trust me, it is valid: Research validity in pharmacy education research",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Cor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Currents in Pharmacy Teaching and Learning",
+            "volume": "8",
+            "issn": "",
+            "pages": "391--400",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Comparing active delay and procrastination from a self-regulated learning perspective",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Lindt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Learning and Individual Differences",
+            "volume": "21",
+            "issn": "",
+            "pages": "602--606",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Value development during adolescence: Dimensions of change and stability",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Daniel",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Benish-Weisman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Journal of Personality",
+            "volume": "87",
+            "issn": "",
+            "pages": "62--632",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Young children's online learning during COVID-19 pandemic: Chinese parents' beliefs and attitudes",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Children and Youth Services Review",
+            "volume": "118",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "More is more? Evaluation of interventions to foster self-regulated learning in college",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Dorrenbacher",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Perels",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "International Journal of Educational Research",
+            "volume": "78",
+            "issn": "",
+            "pages": "50--65",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ijer.2016.05.010"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "The relationship of self-regulated learning and academic risk factors to academic performance in community college online mathematics courses",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Dunnigan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Homework and students' achievement in math and science: A 30-year meta-analysis",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Educational Research Review",
+            "volume": "20",
+            "issn": "",
+            "pages": "35--54",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.edurev.2016.11.003"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Still procrastinating? The no-regrets guide to getting it done",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Ferrari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Using SPSS for Windows and Macintosh: Analyzing and understanding data",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Salkind",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Exploring different types of academic delayers: A latent profile analysis",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Grunschel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Patrzek",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Fries",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Learning and Individual Differences",
+            "volume": "23",
+            "issn": "",
+            "pages": "225--233",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Multivariate data analysis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Hair",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Black",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Babin",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "PLS-SEM: Indeed a silver bullet",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Hair",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ringle",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sarstedt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Journal of Marketing Theory and Practice",
+            "volume": "19",
+            "issn": "2",
+            "pages": "139--152",
+            "other_ids": {
+                "DOI": [
+                    "10.2753/MTP1069-6679190202"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Disrupted classes, undisrupted learning during COVID-19 outbreak in China: Application of open educational practices and resources",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tlili",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Chang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Nascimbeni",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Burgos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Smart Learning Environments",
+            "volume": "7",
+            "issn": "1",
+            "pages": "1--15",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Analysis of procrastination among university students",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Hussain",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sultan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Procedia Social and Behavioral Sciences",
+            "volume": "5",
+            "issn": "",
+            "pages": "1897--1904",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Self-regulated learning instructional support for students enrolled in an accelerated nursing program",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Irvine",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Brooks",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mckenna",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.colegn.2019.11.007"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Supporting learners' self-regulated learning in Massive Open Online Courses",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Jansen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Van Leeuwen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Janssen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Conijn",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kester",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Computers & Education",
+            "volume": "146",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Whole Trait Theory: An integrative approach to examining personality structure and process",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Jayawickreme",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Zachry",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Fleeson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Personality and Individual Differences",
+            "volume": "136",
+            "issn": "",
+            "pages": "2--11",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Principles and practice of structural equation modeling",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Kline",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Minimum sample size estimation in PLS-SEM: The inverse square root and gamma-exponential methods",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kock",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Hadaya",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Information Systems Journal",
+            "volume": "28",
+            "issn": "1",
+            "pages": "227--261",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Trait procrastination and the perception of person-task characteristics",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lay",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Journal of Social Behavior and Personality",
+            "volume": "7",
+            "issn": "3",
+            "pages": "483--494",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Cognitive, metacognitive and motivational perspectives on preflection in self-regulated online learning",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Lehmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Hahnlein",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ifenthaler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Computers in Human Behavior",
+            "volume": "32",
+            "issn": "",
+            "pages": "313--323",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Longitudinal clustering of students' self-regulated learning behaviors in engineering design",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Xing",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Computers & Education",
+            "volume": "153",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Fostering self-regulation to overcome academic procrastination using interactive ambulatory assessment",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Loeffler",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Stumpp",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Grund",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Limberger",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Ebner-Priemer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Learning and Individual Differences",
+            "volume": "75",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Online vs traditional homework: A systematic review on the benefits to students' performance",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Magalhaes",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Ferreira",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cunha",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Rosario",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Computers & Education",
+            "volume": "152",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Online Self-Regulated Learning Questionnaire in a Russian MOOC",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Martinez-Lopez",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Yot",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Tuovila",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Perera-Rodr\u00edguez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Computers in Human Behavior",
+            "volume": "75",
+            "issn": "",
+            "pages": "966--974",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Procrastination, participation, and performance in online learning environments",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Michinov",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Brunot",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Le Bohec",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Juhel",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Delaval",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Computers & Education",
+            "volume": "56",
+            "issn": "",
+            "pages": "243--252",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Online learning: Adoption, continuance, and learning outcome: A review of literature",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Panigrahi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Srivastava",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Sharma",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "International Journal of Information Management",
+            "volume": "43",
+            "issn": "",
+            "pages": "1--14",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Combining university student self-regulated learning indicators and engagement with online learning events to predict academic performance",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pardo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Ellis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "IEEE Transactions on Learning Technologies",
+            "volume": "10",
+            "issn": "1",
+            "pages": "82--92",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "A conceptual framework for assessing motivation and selfregulated learning in college students",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Pintrich",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Educational Psychology Review",
+            "volume": "16",
+            "issn": "4",
+            "pages": "385--407",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Online technologies self-efficacy and self-regulated learning as predictors of final grade and satisfaction in college-level online courses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Puzziferro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "The American Journal of Distance Education",
+            "volume": "22",
+            "issn": "2",
+            "pages": "72--89",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Active procrastination: Thoughts on oxymorons",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Pychyl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Engaging diverse student audiences in contemporary blended learning environments in Australian higher business education: Implications for design and practice",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Pye",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Holt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Salzman",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Bellucci",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lombardi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Australasian Journal of Information Systems",
+            "volume": "19",
+            "issn": "",
+            "pages": "1--20",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Towards self-regulated learning in school curriculum",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Rajabi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Procedia-Social and Behavioral Sciences",
+            "volume": "47",
+            "issn": "",
+            "pages": "344--350",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Challenges in the online component of blended learning: A systematic review",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Rasheed",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kamsin",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Abdu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Computers & Education",
+            "volume": "144",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Psychological correlates of university students' academic performance: A systematic review and meta-analysis",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Richardson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Abraham",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bond",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Psychological Bulletin",
+            "volume": "138",
+            "issn": "2",
+            "pages": "353--387",
+            "other_ids": {
+                "DOI": [
+                    "10.1037/a0026838"
+                ]
+            }
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Implementing an assessment plan to document student learning in a two-year technical college",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Ruhland",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Brewer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Journal of Vocational Education Research",
+            "volume": "26",
+            "issn": "",
+            "pages": "141--171",
+            "other_ids": {}
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "The N2 component in a gonogo learning task: Motivation, behavioral activation, and reasoning",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Scheuble",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nieden",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Leue",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Beauducel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "International Journal of Psychophysiology",
+            "volume": "137",
+            "issn": "",
+            "pages": "1--11",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Exploring causes of the self-serving bias. Social and Personality Psychology Compass",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Shepperd",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Malone",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sweeny",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "",
+            "volume": "2",
+            "issn": "",
+            "pages": "895--908",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "To explain or to predict?",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Shmueli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Statistical Science",
+            "volume": "25",
+            "issn": "3",
+            "pages": "289--310",
+            "other_ids": {}
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Procrastination and the priority of short-term mood regulation: Consequences for future self",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Sirois",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Pychyl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Social and Personality Psychology Compass",
+            "volume": "7",
+            "issn": "2",
+            "pages": "115--127",
+            "other_ids": {}
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Less adaptive or more maladaptive? A meta-analytic investigation of procrastination and coping",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Sirois",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kitner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "European Journal of Personality",
+            "volume": "29",
+            "issn": "",
+            "pages": "433--444",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Procrastination",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Sirois",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Pychyl",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Encyclopedia of mental health",
+            "volume": "",
+            "issn": "",
+            "pages": "330--338",
+            "other_ids": {}
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Developmental dynamics of engagement, coping, and everyday resilience",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Skinner",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pitzer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Handbook of research on student engagement",
+            "volume": "",
+            "issn": "",
+            "pages": "21--45",
+            "other_ids": {}
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Steel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Psychological Bulletin",
+            "volume": "133",
+            "issn": "",
+            "pages": "65--94",
+            "other_ids": {
+                "DOI": [
+                    "10.1037/0033-2909.133.1.65"
+                ]
+            }
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "Why advice on task selection may hamper learning in on-demand education",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "M C"
+                    ],
+                    "last": "Taminiau",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Kester",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Corbalan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Alessi",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Moxnes",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gijselaers",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Computers in Human Behavior",
+            "volume": "29",
+            "issn": "1",
+            "pages": "145--154",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.chb.2012.07.028"
+                ]
+            }
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "Situation trait relevance, trait expression, and cross-situational consistency: Testing a principle of trait activation",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Tett",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Guterman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Journal of Research in Personality",
+            "volume": "34",
+            "issn": "4",
+            "pages": "397--423",
+            "other_ids": {}
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Trait activation theory",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Tett",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Simonet",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Walser",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Handbook of personality at work",
+            "volume": "",
+            "issn": "",
+            "pages": "71--100",
+            "other_ids": {}
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Longitudinal study of procrastination, performance, stress, and health: The costs and benefits of dawdling",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Tice",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Baumeister",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Psychological Science",
+            "volume": "8",
+            "issn": "6",
+            "pages": "454--458",
+            "other_ids": {}
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "A meta-analytically derived nomological network of procrastination",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Van Eerde",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Personality and Individual Differences",
+            "volume": "35",
+            "issn": "6",
+            "pages": "358--364",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0191-8869(02)00358-6"
+                ]
+            }
+        },
+        "BIBREF64": {
+            "ref_id": "b64",
+            "title": "Response styles in rating scales: Evidence of method bias in data from six EU countries",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Van Herk",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Poortinga",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M M"
+                    ],
+                    "last": "Verhallen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Journal of Cross-Cultural Psychology",
+            "volume": "35",
+            "issn": "",
+            "pages": "346--360",
+            "other_ids": {}
+        },
+        "BIBREF65": {
+            "ref_id": "b65",
+            "title": "Exploring sequences of learner activities in relation to self-regulated learning in a massive open online course",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Khalil",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Baars",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "De Koning",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Paas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Computers & Education",
+            "volume": "140",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF66": {
+            "ref_id": "b66",
+            "title": "The role of academic emotions in the relationship between perceived academic control and self-regulated learning in online learning",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "You",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Computers & Education",
+            "volume": "77",
+            "issn": "",
+            "pages": "125--133",
+            "other_ids": {}
+        },
+        "BIBREF67": {
+            "ref_id": "b67",
+            "title": "Evaluating pharmacy student perceptions and effectiveness of procrastination prevention events",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Elder",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Currents in Pharmacy Teaching and Learning",
+            "volume": "12",
+            "issn": "",
+            "pages": "570--576",
+            "other_ids": {}
+        },
+        "BIBREF68": {
+            "ref_id": "b68",
+            "title": "The impact of learner-, instructor-, and course-level factors on online learning",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Kwon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Computers & Education",
+            "volume": "150",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF69": {
+            "ref_id": "b69",
+            "title": "The development of academic procrastination in first-year secondary education students: The link with metacognitive selfregulation, self-efficacy, and effort regulation",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Ziegler",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Opdenakker",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Learning and Individual Differences",
+            "volume": "64",
+            "issn": "",
+            "pages": "71--82",
+            "other_ids": {}
+        },
+        "BIBREF70": {
+            "ref_id": "b70",
+            "title": "Attaining self-regulation: a social cognitive perspective",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zimmerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "13--40",
+            "other_ids": {}
+        },
+        "BIBREF71": {
+            "ref_id": "b71",
+            "title": "Investigating self-regulation and motivation: Historical background, methodological developments, and future prospects",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zimmerman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "American Educational Research Journal",
+            "volume": "45",
+            "issn": "1",
+            "pages": "166--183",
+            "other_ids": {}
+        },
+        "BIBREF72": {
+            "ref_id": "b72",
+            "title": "The educational psychology series. Handbook of metacognition in education",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zimmerman",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Moylan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "299--315",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Research model.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Reliability and validity analysis.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Construct discriminate analysis.Fig. 2. Verification of the research model. framework of the Higher Education Sprout Project by the Ministry of Education (MOE) in Taiwan.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

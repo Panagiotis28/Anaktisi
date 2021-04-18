@@ -1,0 +1,939 @@
+{
+    "paper_id": "0a5183f225808e47df302ec38ad7d36bf6dca3d6",
+    "metadata": {
+        "title": "Non-steroidal anti-inflammatory agent use may not be associated with mortality of coronavirus disease 19",
+        "authors": [
+            {
+                "first": "Jungchan",
+                "middle": [],
+                "last": "Park",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Sungkyunkwan University School of Medicine",
+                    "location": {
+                        "settlement": "Seoul",
+                        "country": "South Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Seung-Hwa",
+                "middle": [],
+                "last": "Lee",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Sungkyunkwan University School of Medicine",
+                    "location": {
+                        "addrLine": "81 Irwon-ro, Gangnam-gu",
+                        "postCode": "06351",
+                        "settlement": "Seoul",
+                        "country": "South Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Seng",
+                "middle": [],
+                "last": "Chan You",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ajou University Graduate School of Medicine",
+                    "location": {
+                        "settlement": "Suwon",
+                        "country": "South Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jinseob",
+                "middle": [],
+                "last": "Kim",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Seoul National University",
+                    "location": {
+                        "settlement": "Seoul",
+                        "country": "South Korea"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kwangmo",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Sungkyunkwan University School of Medicine",
+                    "location": {
+                        "addrLine": "81 Irwon-ro, Gangnam-gu",
+                        "postCode": "06351",
+                        "settlement": "Seoul",
+                        "country": "South Korea"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "We evaluated an association between NSAID use and outcomes of Covid-19. This study was a retrospective observational cohort study based on insurance benefit claims sent to the Health Insurance Review and Assessment Service of Korea by May 15, 2020. These claims comprised all Covid-19-tested cases and history of medical service use for the past 3 years in these patients. The primary outcome was all-cause mortality, and the secondary outcome was need for ventilator care. Among 7590 patients diagnosed with Covid-19, two distinct cohorts were generated based on NSAID or acetaminophen prescription within 2 weeks before Covid-19 diagnosis. A total of 398 patients was prescribed NSAIDs, and 2365 patients were prescribed acetaminophen. After propensity score matching, 397 pairs of data set were generated, and all-cause mortality of the NSAIDs group showed no significant difference compared with the acetaminophen group (4.0% vs. 3.0%; hazard ratio [HR], 1.33; 95% confidence interval [CI], 0.63-2.88; P = 0.46). The rate of ventilator care also did not show significantly different results between the two groups (2.0% vs. 1.3%; HR, 1.60; 95% CI 0.53-5.30; P = 0.42). Use of NSAIDs was not associated with mortality or ventilator care in Covid-19 patients. NSAIDs may be safely used to relieve symptoms in patients with suspicion of Covid-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "According to the data from the insurance benefit claims sent to HIRA until May 15, 2020, a total of 7590 patients was diagnosed with Covid-19. From these patients, 4069 patients with both of NSAIDs and acetaminophen prescriptions were excluded for cohorts generation. The target cohort consisted of 398 patients who were prescribed NSAIDs within 2 weeks before diagnosis, and the comparator cohort was generated by selecting 2365 patients who were prescribed acetaminophen in the same time frame (Fig. 1) . The incidences of baseline characteristics are shown in Table 1 . The median follow-up duration was 69 days (interquartile range 63-78) in the NSAID group and 71 days (interquartile range 58-80) in the acetaminophen group, and the maximum durations of follow-up were 113 days in the NSAID group and 111 days in the acetaminophen group. A total of 397 pairs of well-balanced groups was generated after propensity score matching (Table 1 and Fig. 2 ). In the propensityscore matched analysis, all-cause mortality of the NSAID group showed no significant difference from that of the acetaminophen group (4.0% vs. 3.0%; hazard ratio [HR], 1.33; 95% confidence interval [CI], 0.63-2.88; P = 0.69) ( Table 2 and Fig. 3 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 496,
+                    "end": 504,
+                    "text": "(Fig. 1)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 563,
+                    "end": 570,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 934,
+                    "end": 942,
+                    "text": "(Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 947,
+                    "end": 953,
+                    "text": "Fig. 2",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1201,
+                    "end": 1212,
+                    "text": "Table 2 and",
+                    "ref_id": null
+                },
+                {
+                    "start": 1213,
+                    "end": 1219,
+                    "text": "Fig. 3",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "For ventilator care comparison, 12 patients that needed ventilator care before Covid-19 diagnosis were excluded ( Supplementary Fig. 1 ). The target cohort consisted of 396 patients on NSAID treatment, and the comparator cohort consisted of 2355 patients with acetaminophen treatment (Supplementary Table 1 ). After propensity score matching, a total of 395 pairs was generated, and we found no significant imbalance between the groups (Supplementary Table 1 and Supplementary Fig. 2 ). The incidence of ventilator care also showed no significant difference (2.0% vs. 1.3%; HR, 1.60; 95% CI, 0.53-5.30; P = 0.42) ( Table 2 and Supplementary Fig. 3 ). In the sensitivity analysis, the use of NSAID was not associated with mortality and ventilator care during 30-day follow-up (Supplementary Table 2 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 114,
+                    "end": 134,
+                    "text": "Supplementary Fig. 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 299,
+                    "end": 306,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 436,
+                    "end": 458,
+                    "text": "(Supplementary Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 463,
+                    "end": 483,
+                    "text": "Supplementary Fig. 2",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 615,
+                    "end": 622,
+                    "text": "Table 2",
+                    "ref_id": null
+                },
+                {
+                    "start": 627,
+                    "end": 647,
+                    "text": "Supplementary Fig. 3",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 775,
+                    "end": 797,
+                    "text": "(Supplementary Table 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "The present study showed that NSAID treatment in Covid-19 patients before diagnosis was not associated with increased mortality compared with acetaminophen treatment. The results of our study are in agreement with recently reported results and current recommendations 7, 8, 10 , suggesting that NSAIDs may be safely used in patients with symptoms suspicious for Covid-19.",
+            "cite_spans": [
+                {
+                    "start": 268,
+                    "end": 270,
+                    "text": "7,",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 271,
+                    "end": 273,
+                    "text": "8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 274,
+                    "end": 276,
+                    "text": "10",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "NSAIDs are used globally to relieve pain and fever despite remaining concerns on cardiovascular safety, renal impairment, and upper gastrointestinal bleeding. Owing to these adverse effects, NSAIDs have been recommended to be avoided in patients with treatment-resistant hypertension, high risk for cardiovascular disease, and severe chronic kidney disease 11 . In addition, NSAID use in respiratory infection appeared to be associated with increased myocardial infarction and pleuropulmonary complications 5, 6, 12, 13 . In this regard, use of acetaminophen, instead of NSAIDs, has been recommended by experts for symptomatic relief of Covid-19 patients.",
+            "cite_spans": [
+                {
+                    "start": 357,
+                    "end": 359,
+                    "text": "11",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 507,
+                    "end": 509,
+                    "text": "5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 510,
+                    "end": 512,
+                    "text": "6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 513,
+                    "end": 516,
+                    "text": "12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 517,
+                    "end": 519,
+                    "text": "13",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In Covid-19 patients, cardiac comorbidities have consistently been reported to be a strong factor of disease severity. Reportedly, myocardial injury associated with SARS-CoV-2 occurred in 5 of the first 41 COVID-19 patients in Wuhan 14 , suggesting that cardiovascular protection should be considered during treatment of Covid-19 15 . Moreover, NSAID treatment in community-acquired pneumonia was shown to be associated with increased risk of pleuropulmonary complications 6 . However, there are limited data on the safety of NSAID treatment in Covid-19. A recent meta-analysis revealed only indirect evidence, and there is no direct evidence on severe adverse events, acute health care utilization, long-term survival, or quality of life as a result of use of NSAIDs in patients with Covid-19 7 . A small, single-center study reported that use of ibuprofen in Covid-19 patients led to no higher mortality or need for respiratory support compared with acetaminophen or no antipyretic agent 10 . www.nature.com/scientificreports/ In the present study, we compared NSAID with acetaminophen use within 2 weeks before Covid-19 diagnosis and showed no significant difference in mortality or need for ventilator support. Our results suggest that NSAIDs could be a safe option for symptomatic relief even when Covid-19 is suspected, and further studies are needed to determine NSAID safety after diagnosis of Covid-19.",
+            "cite_spans": [
+                {
+                    "start": 233,
+                    "end": 235,
+                    "text": "14",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 330,
+                    "end": 332,
+                    "text": "15",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 473,
+                    "end": 474,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 990,
+                    "end": 992,
+                    "text": "10",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The results of this study should be interpreted considering the following limitations. First, this was a retrospective study, and despite our efforts to adjust all confounding factors by propensity score matching analysis, unmeasured factors might have affected the results. Second, the database used in this study retrieved information from insurance issued claims, so clinical presentation, symptoms, and hospital course could not be curated. Third, total amount of NSAIDs or acetaminophen was not considered in the analysis. In addition, a difference between types of NSAIDs or the use of NSAIDS without prescription were not considered. Lastly, the results of the current study are derived from a cohort of Koreans, and the results might be different in other countries. Despite these limitations, this study provides real-world data based evidence on the safety of NSAID use before diagnosis of Covid-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Use of NSAIDs before Covid-19 diagnosis was not associated with increased mortality or need for ventilator care. Therefore, NSAIDs may safely be prescribed in patients with Covid-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "Data curation. This is a retrospective observational cohort study conducted according to the principles of the Declaration of Helsinki and reported following the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement. The Institutional Review Board of Samsung Medical Center waived the need for approval and informed consent for this study (SMC 2020-04-135) since we used de-identified data of insurance benefit claims sent to the Health Insurance Review and Assessment Service of Korea (HIRA). This data set consists of all patients who were tested for Covid-19 using RT-PCR regardless of symptom in Korea until May 15, 2020. Our data set also includes the history of medical service used by these patients for the 3 years prior to the Covid-19 test. The data are shared as the Observational Medical Outcome Partnership Common Data Model (OMOP-CDM) 16 Balance between variables before and after propensity score adjustment. Each dot represents the standardized difference of means for a single covariate before and after propensity score adjustment on the propensity score. Table 2 . Clinical outcomes. Data are presented as %. RAAS renin-angiotensin-aldosterone system, HR hazard ratio, CI confidence interval.",
+            "cite_spans": [
+                {
+                    "start": 883,
+                    "end": 885,
+                    "text": "16",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1108,
+                    "end": 1115,
+                    "text": "Table 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Methods"
+        },
+        {
+            "text": "After propensity-score stratification",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Before propensity-score stratification"
+        },
+        {
+            "text": "All-cause mortality 16 www.nature.com/scientificreports/ Cohort definition and outcomes. All patients in study cohorts were diagnosed with Covid-19 using RT-PCR. The target cohort was generated by selecting patients who were prescribed NSAIDs within 2 weeks before Covid-19 diagnosis using RT-PCR. NSAID types was entered into the OHDSI repository (http://atlas -covid 19.ohdsi .org/#/conce ptset /454/conce ptset -expre ssion ). For the comparator cohort, we selected patients with acetaminophen prescription within 2 weeks before Covid-19 diagnosis. Patients with both of NSAIDs and acetaminophen prescriptions were excluded from the analysis. The medical history of the cohorts were curated for the past 1 year, and the extracted incidence of baseline characteristics did not contain an exact number of www.nature.com/scientificreports/ patients to protect sensitive personal information and maintain de-identified data. The primary outcome was all-cause mortality. To compare the incidence of ventilator care as the secondary outcome, the cohorts were regenerated in the same manner but after excluding patients on ventilator care before Covid-19 diagnosis.",
+            "cite_spans": [
+                {
+                    "start": 20,
+                    "end": 22,
+                    "text": "16",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "P-value (N = 398) (N = 2365) HR (95% CI) (N = 397) (N = 397) HR (95% CI)"
+        },
+        {
+            "text": "OHDSI's open-source software is publicly available on the GitHub repository (https ://githu b.com/OHDSI /), and concept sets used to define baseline characteristics and study outcomes are also available (https ://githu b.com/OHDSI /Covid -19/). The analysis was conducted under requests of investigators at https ://hira-covid 19.net. OHDSI analysis tools were built into the ATLAS interactive analysis platform and the OHDSI Methods Library R packages. ATLAS ver. 2.7.2 was used herein. As OHDSI CDM does not reveal exact numbers of patients for each covariate, we presented only incidences of baseline characteristics and used Cox regression analysis to compare outcomes. To minimize the effects of potential confounding factors and selection bias, we used large-scale propensity score matching with caliper 0.2 and generated a matched population to the cohorts without sample replacement. For the propensity score matching, we used Cyclops package in R programming to fit a large-scale regularized logistic regression 18 , and variables retained in the matching included age, female sex, and diagnosis codes with non-zero coefficients during 1 year prior to the diagnosis of Covid-19. The propensity score was stratified into 5 strata, and the Cox regression analysis retained strata. For sensitivity analysis, we conducted the same analysis for 30-day follow-up. Kaplan-Meier estimates were used to construct survival curves and compared using the log-rank test. All tests were two-tailed, and P < 0.05 was considered statistically significant.",
+            "cite_spans": [
+                {
+                    "start": 1021,
+                    "end": 1023,
+                    "text": "18",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical analysis."
+        },
+        {
+            "text": "Received: 1 September 2020; Accepted: 16 February 2021",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analysis."
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "World Health Organization. Rolling updates on coronavirus disease",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "The Novel Coronavirus Pneumonia Emergency Response Epidemiology Team. Vital Surveillances: The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19)-China",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Clinical characteristics of coronavirus disease 2019 in China",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Guan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N. Engl. J. Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "1708--1720",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2002032"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: A retrospective cohort study",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "20",
+            "pages": "30566--30569",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30566-3"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Collaboration et al. Vascular and upper gastrointestinal effects of non-steroidal anti-inflammatory drugs: Meta-analyses of individual participant data from randomised trials",
+            "authors": [
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Coxib",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Trialists",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Lancet",
+            "volume": "382",
+            "issn": "13",
+            "pages": "60900--60909",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(13)60900-9"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Nonsteroidal antiinflammatory drug use and clinical outcomes of community-acquired pneumonia",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Basille",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Am. J. Respir. Crit. Care Med",
+            "volume": "198",
+            "issn": "",
+            "pages": "128--131",
+            "other_ids": {
+                "DOI": [
+                    "10.1164/rccm.201802-0229LE"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "COVID-19 and treatment with NSAIDs and corticosteroids: Should we be limiting their use in the clinical setting",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Moss",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Rigg",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Van Hemelrijck",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Ecancermedicalscience 14, 1023",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3332/ecancer.2020.1023"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Non-steroidal anti-inflammatory drugs and covid-19",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Little",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMJ",
+            "volume": "368",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/bmj.m1185"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Italian Society of Pharmacology. NSAIDs in patients with viral infections, including Covid-19: Victims or perpetrators?",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Capuano",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Scavone",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Racagni",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Scaglione",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Pharmacol. Res",
+            "volume": "157",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.phrs.2020.104849"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Bar-Haim, A. & Youngster, I. Ibuprofen use and clinical outcomes in COVID-19 patients",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Rinott",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kozer",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shapira",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin. Microbiol. Infect",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cmi.2020.06.003"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Non-steroidal anti-inflammatory drug (NSAID) therapy in patients with hypertension, cardiovascular, renal or gastrointestinal comorbidities: Joint APAGE/APLAR/APSDE/APSH/APSN/PoA recommendations",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Szeto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Gut",
+            "volume": "69",
+            "issn": "",
+            "pages": "617--629",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/gutjnl-2019-319300"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Acute respiratory infection and use of nonsteroidal anti-inflammatory drugs on risk of acute myocardial infarction: A nationwide case-crossover study",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Wen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J. Infect. Dis",
+            "volume": "215",
+            "issn": "",
+            "pages": "503--509",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/infdis/jiw603"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Cardiovascular effects and safety of (non-aspirin) NSAIDs",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Schjerning",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Mcgettigan",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Gislason",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat. Rev. Cardiol",
+            "volume": "17",
+            "issn": "",
+            "pages": "574--584",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41569-020-0366-z"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Lancet",
+            "volume": "395",
+            "issn": "20",
+            "pages": "30183--30188",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30183-5"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "COVID-19 and the cardiovascular system",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat. Rev. Cardiol",
+            "volume": "17",
+            "issn": "",
+            "pages": "259--260",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41569-020-0360-5"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "MEDINFO 2017: Precision Healthcare Through Informatics",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "You",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "467--470",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Validation of a common data model for active safety surveillance research",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Overhage",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Ryan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Reich",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Hartzema",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Stang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J. Am. Med. Inform. Assoc",
+            "volume": "19",
+            "issn": "",
+            "pages": "54--60",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/amiajnl-2011-000376"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Massive parallelization of serial inference algorithms for a complex generalized linear model",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Suchard",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Simpson",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Zorych",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Ryan",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Madigan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "ACM Trans. Model. Comput. Simul",
+            "volume": "23",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1145/2414416.2414791"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "The",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": ",17 .",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "(a) Distributions of propensity score in each cohort before the propensity score matching. (b)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Kaplan-Meier curves for mortality in the (a) entire population and (b) propensity score matched population. Scientific Reports | (2021) 11:5087 | https://doi.org/10.1038/s41598-021-84539-5",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Table 1. Baseline characteristics. Data are presented as %. RAAS renin-angiotensin-aldosterone system, SMD standardized mean difference.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors appreciate healthcare professionals dedicated to treating Covid-19 patients in Korea, the Ministry of Health and Welfare, and the Health Insurance Review and Assessment Service of Korea for sharing valuable national health insurance claims data in a prompt manner.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "This research was funded by the Ministry of Health and Welfare, Korea (Grant number: HI19C0811).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "The authors declare no competing interests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        },
+        {
+            "text": "Supplementary Information The online version contains supplementary material available at https ://doi. org/10.1038/s4159 8-021-84539 -5.Correspondence and requests for materials should be addressed to S.-H.L. or K.Y.Reprints and permissions information is available at www.nature.com/reprints.Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creat iveco mmons .org/licen ses/by/4.0/.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Additional information"
+        }
+    ]
+}

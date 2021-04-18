@@ -1,0 +1,1627 @@
+{
+    "paper_id": "0cd2cad717a8e8d0dff547735baa0d04e4406a05",
+    "metadata": {
+        "title": "Journal Pre-proof Evaluation of four commercial severe acute respiratory coronavirus 2 antibody tests Evaluation of four commercial severe acute respiratory coronavirus 2 antibody tests",
+        "authors": [
+            {
+                "first": "Nobuyuki",
+                "middle": [],
+                "last": "Ashizawa",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagasaki University Hospital",
+                    "location": {
+                        "settlement": "Nagasaki",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Takahiro",
+                "middle": [],
+                "last": "Takazono",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagasaki University Hospital",
+                    "location": {
+                        "settlement": "Nagasaki",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kaname",
+                "middle": [],
+                "last": "Ohyama",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagasaki University",
+                    "location": {
+                        "settlement": "Nagasaki",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yoji",
+                "middle": [],
+                "last": "Nagasaki",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Hospitalization Organization",
+                    "location": {
+                        "settlement": "Fukuoka",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Masaki",
+                "middle": [],
+                "last": "Okamoto",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National Hospitalization Organization",
+                    "location": {
+                        "settlement": "Fukuoka",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Tatsuro",
+                "middle": [],
+                "last": "Hirayama",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagasaki University Hospital",
+                    "location": {
+                        "settlement": "Nagasaki",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kensuke",
+                "middle": [],
+                "last": "Takahashi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagasaki University",
+                    "location": {}
+                },
+                "email": ""
+            },
+            {
+                "first": "Hirotomo",
+                "middle": [],
+                "last": "Yamanashi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagasaki University",
+                    "location": {}
+                },
+                "email": ""
+            },
+            {
+                "first": "Masato",
+                "middle": [],
+                "last": "Tashiro",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagasaki University",
+                    "location": {
+                        "settlement": "Nagasaki",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Naoki",
+                "middle": [],
+                "last": "Hosogaya",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagasaki University Hospital",
+                    "location": {
+                        "settlement": "Nagasaki",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Takeshi",
+                "middle": [],
+                "last": "Tanaka",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagasaki University Hospital",
+                    "location": {
+                        "settlement": "Nagasaki",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kazuko",
+                "middle": [],
+                "last": "Yamamoto",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagasaki University Hospital",
+                    "location": {
+                        "settlement": "Nagasaki",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yuichi",
+                "middle": [],
+                "last": "Fukuda",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Sasebo City General Hospital",
+                    "location": {
+                        "settlement": "Sasebo",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yoshifumi",
+                "middle": [],
+                "last": "Imamura",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagasaki University Hospital",
+                    "location": {
+                        "settlement": "Nagasaki",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Toshinori",
+                "middle": [],
+                "last": "Kawanami",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Occupational and Environment Health",
+                    "location": {
+                        "settlement": "Kitakyushu",
+                        "country": "Japan, Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Taiga",
+                "middle": [],
+                "last": "Miyazaki",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagasaki University Hospital",
+                    "location": {
+                        "settlement": "Nagasaki",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Toyomitsu",
+                "middle": [],
+                "last": "Sawai",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagasaki Harbor Medical Center",
+                    "location": {
+                        "settlement": "Nagasaki",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kiyoyasu",
+                "middle": [],
+                "last": "Fukushima",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kazuhiro",
+                "middle": [],
+                "last": "Yatera",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Occupational and Environment Health",
+                    "location": {
+                        "settlement": "Kitakyushu",
+                        "country": "Japan, Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Katsunori",
+                "middle": [],
+                "last": "Yanagihara",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagasaki University",
+                    "location": {
+                        "settlement": "Nagasaki",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Koichi",
+                "middle": [],
+                "last": "Izumikawa",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagasaki University",
+                    "location": {
+                        "settlement": "Nagasaki",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hiroshi",
+                "middle": [],
+                "last": "Mukae",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nagasaki University Hospital",
+                    "location": {
+                        "settlement": "Nagasaki",
+                        "country": "Japan"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Introduction: Numerous severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) serological tests exists commercially; however, their performance using clinical samples is limited. Although insufficient to detect SARS-CoV-2 in the early phase of infection, antibody assays can be of great use for surveillance studies or for some coronavirus disease 2019 (COVID-19) patients presenting late to the hospital. Methods: This study evaluated the sensitivity and specificity of four commercial SARS-CoV-2 lateral flow antibody tests using 213 serum specimens from 90 PCR-positive confirmed COVID-19 patients. Of 59 negative control sera, 50 were obtained from patients with other respiratory infectious diseases before COVID-19 pandemic began while nine were from patients infected with other respiratory viruses, including two seasonal coronaviruses. Results: The varied sensitivities for the four commercial kits were 70.9%, 65.3%, 45.1%, and 65.7% for BioMedomics, Autobio Diagnostics, Genbody, and KURABO, respectively, between sick days 1 and 155 in COVID-19 patients. The sensitivities of the four tests gradually increased over time after infection before sick day 5 (15.0%, 12.5%, J o u r n a l P r e -p r o o f 4 15.0%, and 20.0%); from sick day 11 to 15 (95.7%, 87.2%, 53.2%, and 89.4%); and after sick day 20 (100%, 100%, 68.6%, and 96.1%), respectively. For severe illness, the sensitivities were quite high in the late phase after sick day 15. The specificities were over 96% for all four tests. No cross-reaction due to other pathogens, including seasonal coronaviruses, was observed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Conclusions: Our results demonstrated the large differences in the antibody test performances. This ought to be considered when performing surveillance analysis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Coronavirus disease 2019 (COVID-19) is caused by a new coronavirus named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which was first identified in Wuhan, China, in December 2019. The infection has spread rapidly worldwide and the number of deaths is still increasing. Thus, there is an urgent need for early and reliable diagnosis, followed by appropriate medical care. Assays for viral testing, which detect SARS-CoV-2 nucleic acids or antigens, are recommended to diagnose the current COVID-19 infection. However, real-time reverse transcription-PCR (RT-PCR) tests, which detect SARS-CoV-2 RNA, require nasopharyngeal or oropharyngeal swabs in many cases. This can put health care workers, who collect the samples and who transport them or perform the tests, at risk of infection, compared to when blood samples are used.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "It is considered that the risk of infection transmission with blood samples obtained from COVID-19 patients is low, as there are no documented cases of bloodborne transmissions (1) . Serological lateral-flow assays may be beneficial from an infection transmission perspective and they are convenient, without complexity or need of a specialist. Only about 50% of COVID-19 cases were positive for molecular testing using oral swabs, J o u r n a l P r e -p r o o f 6 while all cases were positive for serological tests (IgG or IgM) on day 5 of the admission in a previous study, although the number of cases was small (16 cases) (2) . Serological diagnosis is important for patients with a low viral load, which is below the detection limit of RT-PCR. This suggests that serological testing can improve the positive detection of SARS-CoV-2 when combined with PCR-based testing (3, 4) . In addition, serological antibody testing is considered useful for patients who present late in their illness and for surveillance studies (5, 6) . However, all serological assays were developed rapidly under the urgent pandemic situation, and therefore, there is limited data on their use with clinical samples. Therefore, SARS-CoV-2 antibody assay kit produced by many manufacturers are yet to be approved in Japan, though many tests are commercially available. We conducted this study to evaluate the diagnostic performance of four commercial immunochromatographic SARS-CoV-2 antibody tests.",
+            "cite_spans": [
+                {
+                    "start": 177,
+                    "end": 180,
+                    "text": "(1)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 627,
+                    "end": 630,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 875,
+                    "end": 878,
+                    "text": "(3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 879,
+                    "end": 881,
+                    "text": "4)",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1023,
+                    "end": 1026,
+                    "text": "(5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1027,
+                    "end": 1029,
+                    "text": "6)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "J o u r n a l P r e -p r o o f",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Serum Samples"
+        },
+        {
+            "text": "The samples consisted of 213 serum specimens from 90 patients with PCR-diagnosed SARS-CoV-2 infections in five different medical facilities (Nagasaki University Hospital, Kyushu Medical Center, Sasebo City General Hospital, Nagasaki Harbor Medical Center, and Japanese Red Cross Nagasaki Genbaku Isahaya Hospital). We also used 59 serum samples from 59 individuals as negative controls. A total of 50 of these 59 samples were obtained from patients with other chronic respiratory infectious diseases between January 1, 2016 and December 31, 2018, which is the period before the transmission of SARS-CoV-2 in Japan. The other nine samples consisted of serum specimens obtained from two coronaviruses (229E and OC43), four human metapneumovirus, and three rhinovirus-infected patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Serum Samples"
+        },
+        {
+            "text": "We defined the severity according to the COVID-19 treatment guidelines proposed by the National Institutes of Health (NIH) (7). We applied the highest severity to the clinical course of cases, for this analysis.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Definition of Severity"
+        },
+        {
+            "text": "J o u r n a l P r e -p r o o f",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Definition of Severity"
+        },
+        {
+            "text": "We performed the lateral flow antibody tests using the following four assays:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Antibody Tests"
+        },
+        {
+            "text": "BioMedomics COVID-19 IgM/IgG Rapid Test (USA), Autobio Diagnostics Anti-SARS-CoV-2 Rapid Test (China), Genbody COVID-19 IgM/IgG test (Korea), and KURABO SARS-CoV-2 antibody detection kit (IgM/IgG) (China). All four assays performed in this study were immunochromatographic assays using a lateral flow format.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Antibody Tests"
+        },
+        {
+            "text": "They measured SARS-CoV-2 antibodies for both IgG and IgM separately. The tests were performed, according to the manufacturers' s protocol, inside a safety cabinet with personal protective equipment using gowns, surgical masks, goggles, and gloves. We ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Antibody Tests"
+        },
+        {
+            "text": "The differences in categorical variables were analyzed by Fisher's exact test. A p-value <0.05 was considered as statistically significant.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "The study was approved by the institutional review boards of all participating sites (approval number 20081729) and conducted according to the principles expressed in the Declaration of Helsinki. Table 1 shows the number of patients categorized by severity: 61 were asymptomatic/mild/moderate (asymptomatic, mild, or moderate) while 29 were severe/critical (severe or critical). The data of sample numbers of PCR-confirmed J o u r n a l P r e -p r o o f COVID-19 sera for each onset day by severity is summarized in supplementary file. Table 2 shows the data of each of the four kits compared between five groups of onset days: \u2264 5 days (40 samples), 6-10 days (43 samples), 11-15 days (47 samples), [16] [17] [18] [19] [20] days (32 samples), and > 20 days (51 samples). We found no significant increase in IgM positivity compared with IgG positivity, even in the early period after symptom onset for all four kits. The later the collection of serum samples after onset, the higher the positivity rate. However, we found larger differences in the sensitivity of the four kits. It was highest for BioMedomics and lowest for Genbody with 70.9% and 45.1%, respectively.",
+            "cite_spans": [
+                {
+                    "start": 700,
+                    "end": 704,
+                    "text": "[16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 705,
+                    "end": 709,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 710,
+                    "end": 714,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 715,
+                    "end": 719,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 720,
+                    "end": 724,
+                    "text": "[20]",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 196,
+                    "end": 203,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 536,
+                    "end": 543,
+                    "text": "Table 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Ethics"
+        },
+        {
+            "text": "Positivity rates decreased from the 16-20-day to > 20-day periods, even for IgG with Genbody in the present study. We compared the cumulative positivity rates of the four kits for either IgM or IgG of PCR-confirmed COVID-19 sera on each onset day, as shown in Figure 1 . We found that the sensitivity was high in the following order: BioMedomics, KURABO, Autobio diagnostics, and Genbody. Figure 2 shows the sensitivity of each of the four kits for the five groups of onset days according to severity levels. As for IgM in the early phase, BioMedomics showed a relatively higher positivity rate of 50.0% compared to the other three kits with severe/critical cases in 6-10 days, which was higher J o u r n a l P r e -p r o o f than for asymptomatic/mild/moderate severity cases. The positivity rate of IgM for Genbody decreased over the 20 days. The discrepancies in the positivity rates for Genbody between asymptomatic/mild/moderate and severe/critical cases after 11 days might be explained by its low detection sensitivity compared with that of the other kits.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 260,
+                    "end": 268,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 389,
+                    "end": 397,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "All tests showed high sensitivity, especially after 16 days in the severe/critical cases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "Positivity was significantly higher in severe/critical cases than in asymptomatic/mild/moderate cases in all samples (p < 0.0001). Table 3 shows the specificity of each of the four tests for the control patients. The specificities obtained from tests conducted on the patients with other chronic respiratory infectious diseases before 2018 were higher than 96% for all the four tests for both IgM and IgG. They were also all negative for coronaviruses 229E, OC43, human metapneumovirus, and rhinovirus with 1, 1, 4, and 3 samples, respectively. The samples from coronavirus 229E and OC43 infected patients were obtained on 88 and 111 days after symptom onsets, respectively. We found no cross-reactions with seasonal coronaviruses, which are non-SARS-CoV or non-SARS-CoV-2 in the present study. However, the sensitivities of LFIA-based tests for SARS-CoV-2 antibodies are reported to be lower than those of ELISA-and CLIA-based tests in a meta-analysis (9) . Several studies have already reported the evaluation of serological SARS-CoV-2 antibody tests, including LFIA (10-13). However, antibody tests used in the present study have not been well evaluated using clinical samples; therefore, the results of this study are expected to be useful.",
+            "cite_spans": [
+                {
+                    "start": 953,
+                    "end": 956,
+                    "text": "(9)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 131,
+                    "end": 138,
+                    "text": "Table 3",
+                    "ref_id": null
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "We found no high sensitivity of IgM compared to IgG even in the early phase of infection, whereas the IgM generally peaks prior to IgG in most viral infections (14, 15) . (17), antibody tests could be useful for COVID-19 cases with false-negative PCR results (2) . Our data showed significantly higher sensitivity rates of SARS-CoV-2 antibodies in severe/critical patients.",
+            "cite_spans": [
+                {
+                    "start": 160,
+                    "end": 164,
+                    "text": "(14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 165,
+                    "end": 168,
+                    "text": "15)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 259,
+                    "end": 262,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "This result implies that IgG antibodies are less likely to be produced in patients with milder diseases (8) . It is also reported that IgG levels of asymptomatic patients were significantly lower compared to those of the symptomatic (18) . We should keep in mind that the absence of IgG antibodies cannot completely rule out SARS-CoV-2 infection in asymptomatic or mild cases.",
+            "cite_spans": [
+                {
+                    "start": 104,
+                    "end": 107,
+                    "text": "(8)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 233,
+                    "end": 237,
+                    "text": "(18)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "The specificity of all the four kits in the present study was considered to be comparably high, as reported in a meta-analysis of lateral flow immunoassays, which ranged from 0.914 to 0.994 (9) . All the four patients whose serum samples showed false-positive results for SARS-CoV-2 antibody tests in the present study had underlying autoimmune diseases or collagen diseases (rheumatoid arthritis, microscopic polyangiitis, ulcerative colitis, and suspected Sjogren's syndrome), as reported previously (13, 19) .",
+            "cite_spans": [
+                {
+                    "start": 190,
+                    "end": 193,
+                    "text": "(9)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 502,
+                    "end": 506,
+                    "text": "(13,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 507,
+                    "end": 510,
+                    "text": "19)",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "Cross-reaction of the assay with the samples obtained from patients infected with other J o u r n a l P r e -p r o o f respiratory pathogens, including two seasonal coronaviruses, was not observed in the present study, compared to that reported previously, including eight seasonal coronaviruses (20) . However, we should consider the possibility of cross-reaction because a report also indicated a high incidence of false-positive results in human common cold coronaviruses with SARS-CoV-2 LFIA (21) and enzyme immunoassays (12) .",
+            "cite_spans": [
+                {
+                    "start": 296,
+                    "end": 300,
+                    "text": "(20)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 525,
+                    "end": 529,
+                    "text": "(12)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "A few limitations need to be acknowledged in the present study. First, this study was retrospective in design and the available clinical information was limited. There is bias in the distribution of sample collection days and the number of sample collection times for each patient. We had used samples that were preserved by freezing and thawing before the assays. Secondly, we could not assess the relationship between antibody tests and infected viral loads. Further study will be required to provide further understanding of the interactions between the immune system and SARS-CoV-2 infection. Third, we could not evaluate the samples from COVID-19 patients, which were obtained after a long period of time had passed since the symptom onset. Only five samples were obtained over 90 days. We could not evaluate the long-term usefulness of the antibody tests. Follow-up J o u r n a l P r e -p r o o f testing will be useful for evaluating antibody persistence. Lastly, we evaluated a limited number of samples infected with other pathogens, including seasonal coronaviruses.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "More work is needed to further evaluate the cross-reactions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "In summary, we found a large difference in sensitivity among the four lateral flow antibody tests. Serological antibody tests may be inappropriate for early diagnosis of COVID-19 because of the low sensitivity result soon after symptom onset. Specificity was relatively high, as previously reported, with no cross-reaction with other pathogens in the present study. It is considered that the difference in the long-term sensitivity detection after symptom onset could affect surveillance results. We ought to understand the characteristics and limitations of antibody assays and use them in the appropriate clinical settings. Further prospective studies with larger numbers of patients and long-term observations are required.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "Contributors TT and HM were responsible for the organization and coordination of the ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ICMJE Statement"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Transmission of SARS-CoV-2: A Review of Viral, Host, and Environmental Factors. Annals of internal medicine",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Meyerowitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Richterman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Gandhi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Sax",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Molecular and serological investigation of 2019-nCoV infected patients: implication of multiple shedding routes. Emerging microbes & infections",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "9",
+            "issn": "",
+            "pages": "386--395",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Su",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "",
+            "volume": "71",
+            "issn": "",
+            "pages": "2027--2061",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Recent progress on the diagnosis of 2019 Novel Coronavirus. Transboundary and emerging diseases",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "67",
+            "issn": "",
+            "pages": "1485--91",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Laboratory Diagnosis of COVID-19: Current Issues and Challenges",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Schmitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Persing",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Stratton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of clinical microbiology",
+            "volume": "58",
+            "issn": "6",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Infectious Diseases Society of America Guidelines on the Diagnosis of COVID-19:Serologic Testing. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Hanson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Caliendo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Arias",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Englund",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Hayden",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Petersen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sami",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Vuong",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Pathela",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Weiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Morgenthau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Antibody Tests in Detecting SARS-CoV-2 Infection: A Meta-Analysis. Diagnostics (Basel)",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Kontou",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Braliou",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Dimou",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Nikolopoulos",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Bagos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Validation and performance comparison of three SARS-CoV-2 antibody assays",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Paiva",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Grisson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Huard",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Caliendo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Lonks",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of medical virology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Performance of six SARS-CoV-2 immunoassays in comparison with microneutralisation",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Jaaskelainen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kuivanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kekalainen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ahava",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Loginov",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kallio-Kokko",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology",
+            "volume": "129",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Evaluation of Six Commercial Mid-to High-Volume Antibody and Six Point-of-Care Lateral Flow Assays for Detection of SARS-CoV-2 Antibodies",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Charlton",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Kanji",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Johal",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bailey",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Plitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Macdonald",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Journal of clinical microbiology",
+            "volume": "58",
+            "issn": "10",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Evaluating Ten Commercially-Available SARS-CoV-2 Rapid Serological Tests Using the STARD (Standards for Reporting of Diagnostic Accuracy Studies)",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Dortet",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Ronat",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Vauloup-Fellous",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Langendorf",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Mendels",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Emeraud",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Stapleton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Patterns of IgG and IgM antibody response in COVID-19 patients. Emerging microbes & infections",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "9",
+            "issn": "",
+            "pages": "1269--74",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study. The Lancet Infectious diseases",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "To",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Tsang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Leung",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Tam",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Lung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "20",
+            "issn": "",
+            "pages": "565--74",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Diagnostic Performance of CT and Reverse Transcriptase Polymerase Chain Reaction for Coronavirus Disease 2019: A Meta-Analysis",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hong",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Yoon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Radiology",
+            "volume": "296",
+            "issn": "3",
+            "pages": "145--55",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Clinical and immunological assessment of asymptomatic SARS-CoV-2 infections",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature medicine",
+            "volume": "26",
+            "issn": "8",
+            "pages": "1200--1204",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "False Positive COVID-19 Antibody Test in a Case of Granulomatosis With Polyangiitis. Frontiers in medicine",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tzouvelekis",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Karampitsakos",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Krompa",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Markozannes",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bouros",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Longitudinal Monitoring of SARS-CoV-2 IgM and IgG Seropositivity to Detect COVID-19. The journal of applied laboratory medicine",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Suhandynata",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hoffman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kelner",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Mclawhon",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Reed",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Fitzgerald",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "5",
+            "issn": "",
+            "pages": "908--928",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "applied 10 \u00b5L of serum to the sample well on the cartridge, followed by two drops of buffer in the buffer well and assessed the results after 15 min using BioMedomics kits.Similarly, the tests were performed with the other three kits as follows: 5 \u00b5L of serum, 60 \u00b5L of buffer, over 15 min with Autobio Diagnostics, 10 \u00b5L of serum, 3 drops of buffer, over 10 min with Genbody, and 10 \u00b5L of serum, 2 drops of buffer, over 15 min with KURABO. A positive result was indicated by visible test bands on the membranes in the presence of the control lines. Two interpreters read the test results without knowing the to eliminate bias. When the two readings did not match, the third interpreter, blinded to the clinical information, determined the results.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "the performance of four commercial immunochromatographic SARS-CoV-2 antibody tests in 213 serum samples from 90 patients. In the present study, we confirmed that the most and least sensitive tests were BioMedomics and Genbody, with 70.9% and 45.1%, respectively. We were unable to determine the performance superiority of IgM testing compared to IgG testing throughout the time points after symptom onset, including the early phase. Additionally, sensitivity rates gradually increased until the 11 -15 days of symptom onset and maintained a high positive percentage after day 20, especially with IgG (except for Genbody). Regarding the severity of COVID-19, samples obtained from patients with higher severity levels tended to show higher sensitivity rates, as previously reported(8). All the four kits showed good specificity (> 96%) and were considered adequate for clinical use. No cross-reactions with other respiratory pathogens, including seasonal coronaviruses, were confirmed.The immunoassay methods for detecting SARS-CoV-2 antibodies include the enzyme-linked immunosorbent assays (ELISA), chemiluminescence immunoassays (CLIA), fluorescence immunoassays, and lateral flow immunoassays (LFIA). LFIA is J o u r n a l P r e -p r o o f useful because of its rapidity, simplicity, and low cost, and it can be used in clinics(5).",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": ", serum IgG levels increased at the same time as or earlier than those of IgM against SARS-CoV-2 in a previous study using ELISA kit(16). In only 4 and 2 out of 63 samples in Autobio Diagnostics and KURABO, IgM preceded IgG within 7 days of symptom onset, respectively. Conversely, IgG preceded IgM in 3 for BioMedomics, 1 for Autobio Diagnostics, 3 for Genbody, and 4 for KURABO out of 63 samples. This finding could be due to a possible lower production of IgM in SARS-CoV-2 infected patients or the lower detection capacity (sensitivity) of the IgM test. This result suggests the need to J o u r n a l P r e -p r o o f evaluate both IgM and IgG, and not either alone. Moreover, although the sensitivity of SARS-CoV-2 PCR tests is as high as 89% in a meta-analysis",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "trial. TT was the chief investigator. NA performed all experiments. NA and TT were J o u r n a l P r e -p r o o f incidence of false-positive results of IgG antibody against SARS-CoV-2 with rapid immunochromatographic antibody test due to human common cold coronavirus infection. Respiratory medicine case reports. 2020;31:101180. Epub 2020/08/09. Cumulative positivity rate of each of the four tests in COVID-19 patients. Cumulative positivity rate is plotted for each of the four tests as follows; BioMedomics (open circles), KURABO (filled circles), Autobio Diagnostics (open triangles), and Genbody (filled triangles). Area under the curves of BioMedomics, Autobio Diagnostics, Genbody, and KURABO were 100.3, 91.27, 62.52, and 93.48, respectively.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Sensitivities of the four kits categorized by the levels of severity and timing of sample collection in COVID-19 patients. Positivity rates are shown by severity; asymptomatic, mild, or moderate (open bars); severe or critical (filled bars); all (gray bars) for the 5 groups of onset days; \u2264 5, 6-10, 11-15, 16-20, and > 20 days.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "Figure 1",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF7": {
+            "text": "Figure 1",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Number of patients. Specificities of four SARS-CoV-2 antibody tests.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "responsible for the data analysis. NA, TT, and HM developed the trial design. All authors contributed to the writing of the final manuscript. All members of the Study Team contributed to the management or administration of the trial.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "acknowledgement"
+        },
+        {
+            "text": "None.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FUNDING"
+        },
+        {
+            "text": "The authors declare no conflicts of interest associated with this manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONFLICTS OF INTEREST"
+        },
+        {
+            "text": "None.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ACKNOWLEDGMENTS"
+        }
+    ]
+}

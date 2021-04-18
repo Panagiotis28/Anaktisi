@@ -1,0 +1,993 @@
+{
+    "paper_id": "0f79a3c16439a4049709e5d3f546c6d1014e911b",
+    "metadata": {
+        "title": "The impact of the COVID-19 coronavirus pandemic on the surgical management of gynecological cancers : Analysis of the multicenter database of the French SCGP and the FRANCOGYN group",
+        "authors": [
+            {
+                "first": "Th\u00e9o",
+                "middle": [],
+                "last": "Jouen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Angers University Hospital",
+                    "location": {
+                        "settlement": "Angers, Angers",
+                        "country": "France, France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Tristan",
+                "middle": [],
+                "last": "Gauthier",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Limoges University Hospital",
+                    "location": {
+                        "settlement": "Limoges",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Henri",
+                "middle": [],
+                "last": "Azais",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Georges-Pompidou European Hospital AP-HP",
+                    "location": {
+                        "settlement": "Paris",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sofiane",
+                "middle": [],
+                "last": "Bendifallah",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tenon Hospital AP-HP",
+                    "location": {
+                        "settlement": "Paris",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Pauline",
+                "middle": [],
+                "last": "Chauvet",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Clermont-Ferrand University Hospital",
+                    "location": {
+                        "settlement": "Clermont-Ferrand",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Herve",
+                "middle": [],
+                "last": "Fernandez",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Bic\u00eatre Hospital AP-HP",
+                    "location": {
+                        "settlement": "Paris",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yohan",
+                "middle": [],
+                "last": "Kerbage",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Lille University Hospital",
+                    "location": {
+                        "settlement": "Lille",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Vincent",
+                "middle": [],
+                "last": "Lavoue",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Rennes University Hospital",
+                    "location": {
+                        "settlement": "Rennes",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lise",
+                "middle": [],
+                "last": "Lecointre",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Strasbourg University Hospital",
+                    "location": {
+                        "settlement": "Strasbourg",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Camille",
+                "middle": [],
+                "last": "Mimoun",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Lariboisi\u00e8re Hospital AP-HP",
+                    "location": {
+                        "settlement": "Paris",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lobna",
+                "middle": [],
+                "last": "Ouldamer",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Tours University Hospital",
+                    "location": {
+                        "settlement": "Tours",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "St\u00e9phanie",
+                "middle": [],
+                "last": "Seidler",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Georges-Pompidou European Hospital AP-HP",
+                    "location": {
+                        "settlement": "Paris",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Marc",
+                "middle": [],
+                "last": "Siffert",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Bichat Hospital AP-HP",
+                    "location": {
+                        "settlement": "Paris",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Anne-Lyse",
+                "middle": [],
+                "last": "Vallin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Creteil University Hospital",
+                    "location": {
+                        "settlement": "Cr\u00e9teil",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Andrew",
+                "middle": [],
+                "last": "Spiers",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Angers University Hospital",
+                    "location": {
+                        "settlement": "Angers, Angers",
+                        "country": "France, France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Philippe",
+                "middle": [],
+                "last": "Descamps",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Angers University Hospital",
+                    "location": {
+                        "settlement": "Angers, Angers",
+                        "country": "France, France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Aymeline",
+                "middle": [],
+                "last": "Lacorre",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Limoges University Hospital",
+                    "location": {
+                        "settlement": "Limoges",
+                        "country": "France"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Legendre",
+                "middle": [],
+                "last": "Guillaume",
+                "suffix": "",
+                "affiliation": {},
+                "email": ":guillaume.legendre@chu-angers.fr"
+            },
+            {
+                "first": "",
+                "middle": [
+                    "Guillaume"
+                ],
+                "last": "Legendre",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The coronavirus SARS-CoV-2 (COVID-19) pandemic has put tremendous pressure on the French healthcare system. Almost all hospital departments have had to profoundly modify their activity to cope with the crisis. In this context, the surgical management of cancers has been a topic of debate as care strategies were tailored to avoid any delay in treatment that could be detrimental to patient wellbeing while being careful not to overload intensive care units.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The primary objective of this study was to observe changes in the surgical management of pelvic cancers during the COVID-19 pandemic in France.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "This study analyzed data from the prospective multi-center cohort study conducted by the French Society for Pelvic and Gynecological Surgery (SCGP) with methodological support from the French (FRANCOGYN) Group. All members of the SCGP received by e-mail a link allowing them to include patients who were scheduled to undergo gynecological carcinologic surgery between March 16th 2020 and May 11th 2020. Demographic data, the characteristics of cancers and the impact of the crisis in terms of changes to the usual recommended coarse of care were collected.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Material and Methods:"
+        },
+        {
+            "text": "A total of 181 patients with a median age 63 years were included in the cohort. In total, 31 patients had cervical cancer, 76 patients had endometrial cancer, 52 patients had ovarian or tubal cancer, 5 patients had a borderline tumor of the ovary, and 17 patients had vulvar cancer. During the study period, the care strategy was changed for 49 (27%) patients with postponed for 35 (19.3%) patients, and cancelled for 7 (3.9%) patients. Surgical treatment was maintained for 139 (76.8%) patients. Management with neo-adjuvant chemotherapy was offered to 19 (10,5%) patients and a change in surgical choice was made for 5 (2,8%) patients.",
+            "cite_spans": [
+                {
+                    "start": 621,
+                    "end": 627,
+                    "text": "(2,8%)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Results:"
+        },
+        {
+            "text": "In total, 8 (4,4%) patients tested positive for COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results:"
+        },
+        {
+            "text": "Data also shows a greater number of therapeutic changes in cases of ovarian cancer as well as a cancellation of a lumbo-aortic lymphadenectomy in one patient with cervical cancer.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results:"
+        },
+        {
+            "text": "Hospital consultants estimated a direct detrimental impact of the COVID-19 pandemic for 39 patients, representing 22% of gynecological cancers.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results:"
+        },
+        {
+            "text": "This study provided observational data of the impact of the COVID-19 health crisis on the surgical management of gynecological cancers.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion:"
+        },
+        {
+            "text": "The COVID-19 pandemic has caused an unprecedented global health crisis. Initially affecting China at the end of 2019, the COVID-19 virus spread rapidly. The WHO declared, on March 13, 2020 (1), Europe as the new epicenter of the disease. With a dramatic rise in critical cases of COVID-19, numerous countries were forced to take major steps on a medico-socioeconomic level.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Between March 16 th and May 11 th 2020 (2) the French government enforced a strict lockdown policy, requiring the major part of the population to stay at home in isolation. On March 24 th 2020, a national state of health care emergency was declared. The objective of this measure was to allow for an in-depth reorganization of the public healthcare services. In particular, all non-essential medical and surgical activity was suspended in order to increase capacity to manage COVID-19 patients, to limit the risk of overwhelming intensive care units and to provide care in the safest possible manner to patients with other pathologies, especially cancer patients who in case of COVID-19 infection have a five-fold risk of developing a severe illness and a four-fold risk of death.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Medical societies quickly addressed the issue of patient care and on March 23 th 2020, the French Society of Obstetrics and Gynecology (CNGOF) issued, via the intermediary of the FRANCOGYN group, guidelines for gynecological cancer treatment. The guidelines aimed to favor alternatives that limit human contact, to consider alternatives to surgery, to prioritize patients most at risk of malignancy and thus to limit the detrimental impact on patient care and risk of infection with COVID-19 during management (5) .",
+            "cite_spans": [
+                {
+                    "start": 510,
+                    "end": 513,
+                    "text": "(5)",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "The primary outcome of this study was to observe the impact of the COVID-19 pandemic on the surgical management of gynecological cancers during the study period. The secondary endpoint was to evaluate the changes in surgical management of gynecological cancers according to the type of cancer and to zones in France of low or high virial circulation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "This is a prospective, multi-center, non-interventional study conducted during the lockdown period in France from March 16 th 2020 to May 11 th 2020.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MATERIAL AND METHODS"
+        },
+        {
+            "text": "Patients with a diagnosis of gynecological cancer (cervical cancer, endometrial cancer, ovarian cancer, ovarian borderline tumor and vulvar cancer) for whom staging or therapeutic surgery was scheduled during the study period were included.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MATERIAL AND METHODS"
+        },
+        {
+            "text": "Exclusion criteria were patients with other types of gynecological cancer (trophoblastic tumor, breast cancer...) and patients that did not have a treatment plan of active surgical management of their cancer.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MATERIAL AND METHODS"
+        },
+        {
+            "text": "Data was collected via a comprehensive online questionnaire with 45 multiple-answer questions for each gynecological cancer. The questions pertained to the histological type and FIGO classification of the cancers, the type of surgery performed or scheduled, the postponement or cancellation of procedures and the reasons why. Surgical complications were also collected and graded according to the Clavien-Dindo classification (6) . An estimate of the detrimental effect of the COVID-19 pandemic was also collected from each consultant. With the support of the FRANCOGYN working group, an internet link was sent by email at the start of the study period, corresponding to lockdown in France, to hospital consultants in gynecological oncology surgery. Twenty-two healthcare centers, the vast majority of which are University Hospitals, responded to the questionnaire.",
+            "cite_spans": [
+                {
+                    "start": 426,
+                    "end": 429,
+                    "text": "(6)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "MATERIAL AND METHODS"
+        },
+        {
+            "text": "Data is in a percentage, mean, standard deviation or median and range (min-max) format.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MATERIAL AND METHODS"
+        },
+        {
+            "text": "The statistics were done using Excel (Version 16.35, MicrosoftR2020, USA). This study obtained the authorization from the CEROG 2020-GYN-1106 (Committee for Research Ethics in Obstetrics and Gynecology).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MATERIAL AND METHODS"
+        },
+        {
+            "text": "The primary endpoint of the study is presented as the percentage of changes to treatment strategy, during the study period, among patients for whom surgery was initially planned.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "MATERIAL AND METHODS"
+        },
+        {
+            "text": "March 16th and May 11th, 2020.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A total of 181 patients were included across the 22 centers during the study period between"
+        },
+        {
+            "text": "Eleven of these centers (50%) were in a zone where the virus was actively circulating (or red zone) and included 84 patients (46% of patients). The remaining 11 health centers (50%) were in zones with low viral circulation (or green zone) and included 97 patients (54% of patients).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A total of 181 patients were included across the 22 centers during the study period between"
+        },
+        {
+            "text": "Of the 181 patients, 31 (17%) had cervical cancer, 76 (42%) had endometrial cancer, 52 (29%) had ovarian cancer, 5 (3%) had an ovarian borderline tumor, and 17 (9%) had vulvar cancer.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "A total of 181 patients were included across the 22 centers during the study period between"
+        },
+        {
+            "text": "The general characteristics of the patients are presented in Table 1 . There were 8 patients (4.5% of patients) who tested positive for the COVID-19 infection.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 61,
+                    "end": 68,
+                    "text": "Table 1",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "A total of 181 patients were included across the 22 centers during the study period between"
+        },
+        {
+            "text": "During the study period, treatment strategies were changed for 49 (27%) patients as a direct result of the COVID-19 pandemic, including 42 (23.2%) patients for whom surgery was either postponed or cancelled. Among these modifications, 55% of patients were managed in red zones, and 45% were managed in green zones.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "1) Therapeutic modifications (Figure 1 and Figure 2)"
+        },
+        {
+            "text": "In total, 134 (74%) patients received surgical management as scheduled, surgery was postponed for 35 (19.3%) patients, and cancelled for 7 (3.9%) patients. Surgery was brought forward for 5 (2.8%) patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "1) Therapeutic modifications (Figure 1 and Figure 2)"
+        },
+        {
+            "text": "Also, in the case of 5 (2,8%) patients, a different surgical procedure was finally chosen.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "1) Therapeutic modifications (Figure 1 and Figure 2)"
+        },
+        {
+            "text": "Medical treatment changes included the recourse to neo-adjuvant chemotherapy for 19 (10,5%) patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "1) Therapeutic modifications (Figure 1 and Figure 2)"
+        },
+        {
+            "text": "In term of surgical technique, the operations done during the study period were primarily performed using minimally invasive surgery techniques (74%). Eight patients (4,4%) required hospitalization in the intensive care unit (ICU), 3 (1,7%) of these hospitalizations were unplanned and none were linked to COVID-19. Six (3,4%) of the patients hospitalized in the ICU where so in red zones. Ten (5.5%) patients presented surgical complications of a grade higher than 3 according to the Clavien Dindo classification (6).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "1) Therapeutic modifications (Figure 1 and Figure 2)"
+        },
+        {
+            "text": "Among the 42 patients whose surgery was postponed or cancelled, the median age and the FIGO stage of the cancer were higher than those of the operated patients. There was also a higher proportion of postponements for ovarian cancer (35% postponement) compared to other gynecological cancers. (Table 2 )",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 292,
+                    "end": 300,
+                    "text": "(Table 2",
+                    "ref_id": "TABREF3"
+                }
+            ],
+            "section": "1) Therapeutic modifications (Figure 1 and Figure 2)"
+        },
+        {
+            "text": "The histological characteristics of cervical cancers are presented in Table 3 . Of the 31 patients with cervical cancer, 27 (84%) patients were treated surgically during the study period, 12 of them with lumbo-aortic lymphadenopathy for staging. Although 16% of surgeries were postponed or cancelled, the impact of the COVID-19 pandemic on the management of cervical cancer is estimated at 22.5%. In fact, a therapeutic modification was made for 7 patients; 4 surgeries were cancelled, including 1 lumbo-aortic lymphadenectomy, 1 surgery was postponed and on 2 occasions a change in surgical choice was made due to the difficulty of access to the robot and to brachytherapy.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 70,
+                    "end": 77,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "a) Cervical Cancer"
+        },
+        {
+            "text": "Consultants resorted to radio-chemotherapy in 3 situations for cancers classified as FIGO IB1 and IIA stage.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "a) Cervical Cancer"
+        },
+        {
+            "text": "There were no surgical complications of a grade higher than 3 according to the Clavien Dindo classification (6) .",
+            "cite_spans": [
+                {
+                    "start": 108,
+                    "end": 111,
+                    "text": "(6)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "a) Cervical Cancer"
+        },
+        {
+            "text": "Overall consultants estimated that 5 patients suffered detrimental effects on the management of their cervical cancer during the study period.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "a) Cervical Cancer"
+        },
+        {
+            "text": "The histological characteristics of endometrial cancers are presented in Table 3 . Of the 76 patients with endometrial cancers, 64 (84%) patients were treated surgically during the study period, including 11 with lumbo-aortic lymphadenectomy and 33 with sentinel lymph node biopsy.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 73,
+                    "end": 80,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "b) Endometrial Cancer"
+        },
+        {
+            "text": "Minimally invasive surgery was used in 41 (64%) of the procedures. The median waiting time to surgery was 37 (0-148) days. The median waiting time to access magnetic resonance imaging (MRI) was 17 days.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "b) Endometrial Cancer"
+        },
+        {
+            "text": "Four patients were hospitalized in intensive care, 2 of these hospitalizations were initially planned.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "b) Endometrial Cancer"
+        },
+        {
+            "text": "The COVID-19 pandemic impacted 15 (19,7%) patients with cervical cancer. Eleven (14,4%) surgeries were postponed, including 4 patients who tested positive for COVID-19 infection and 7 others which were postponed following to a multidisciplinary meeting. Two surgeries were cancelled and on 2 occasions operative strategy was changed for a scheduled surgery.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "b) Endometrial Cancer"
+        },
+        {
+            "text": "All in all surgery was postponed or cancelled in 17% of cases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "b) Endometrial Cancer"
+        },
+        {
+            "text": "Consultants resorted to neo-adjuvant treatment for 5 (6,6%) patients with endometrial cancers.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "b) Endometrial Cancer"
+        },
+        {
+            "text": "Four (5.3%) patients presented surgical complications of a grade higher than 3 according to the Clavien Dindo classification (6) .",
+            "cite_spans": [
+                {
+                    "start": 125,
+                    "end": 128,
+                    "text": "(6)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "b) Endometrial Cancer"
+        },
+        {
+            "text": "Overall consultants estimated that 15 (19,7%) patients suffered detrimental effects on the management of their endometrial cancer during the study period.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "b) Endometrial Cancer"
+        },
+        {
+            "text": "The histological characteristics of ovarian cancers are presented in Table 3 . Of the 52 patients with ovarian cancer, 36 (69%) patients were treated surgically during the study period, of which 18 (34,6%) patients had cytoreductive surgery. No intraperitoneal hyperthermic chemotherapy was done. Three patients were hospitalized in the ICU, of these hospitalizations, 2 had been scheduled.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 69,
+                    "end": 76,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "c) Ovarian Cancer"
+        },
+        {
+            "text": "The COVID-19 pandemic impacted the treatment of 18 (34,6%) patients with ovarian cancer.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "c) Ovarian Cancer"
+        },
+        {
+            "text": "In total, 17 (32,7%) surgeries were postponed, and 1 surgical procedure was cancelled. Two patients fell ill with COVID-19 of which one died. Also, 1 patient refused to be operated on during the study period due to concerns around COVID-19. Neo-adjuvant chemotherapy treatment was prolonged for 12 (23%) patients. Four (7.7%) patients presented surgical complications of a grade higher than 3 according to the Clavien Dindo classification (6) .",
+            "cite_spans": [
+                {
+                    "start": 439,
+                    "end": 442,
+                    "text": "(6)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "c) Ovarian Cancer"
+        },
+        {
+            "text": "Overall consultants estimated that 16 (30,8%) patients suffered detrimental effects on the management of their ovarian cancer during the study period.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "c) Ovarian Cancer"
+        },
+        {
+            "text": "For the 5 patients included for a borderline ovarian tumor, 3 patients were diagnosed with a serous tumor and 2 patients with a mucinous tumor. Surgery was postponed in 4 (80%) of the 5 cases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "c) Ovarian Cancer"
+        },
+        {
+            "text": "The histological characteristics of vulvar cancers are presented in Table 3 . Among the 17 vulvar cancer cases, 16 (94%) were treated surgically during the study period. The COVID-19 pandemic impacted the treatment of 5 (29,4%) patients with vulvar cancer. In sum, 3 (17,6%) surgeries were postponed due to suspicion of COVID-19 infection, 1 surgery was cancelled and in 1 case the surgical strategy was modified.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 68,
+                    "end": 75,
+                    "text": "Table 3",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "d) Vulvar Cancer"
+        },
+        {
+            "text": "No patients required care in the ICU, although 1 patient presented a surgical complication of a grade higher than 3 according to the Clavien Dindo classification (6) .",
+            "cite_spans": [
+                {
+                    "start": 162,
+                    "end": 165,
+                    "text": "(6)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "d) Vulvar Cancer"
+        },
+        {
+            "text": "Overall consultants estimated that 3 (17,6%) patients suffered detrimental effects on the management of their vulvar cancer during the study period.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "d) Vulvar Cancer"
+        },
+        {
+            "text": "In total, of the 181 patients in the cohort, the care strategy was changed for 49 (27%) patients with postponed for 35 (19.3%) patients, and cancelled for 7 (3.9%) patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Surgical treatment was maintained for 139 (76.8%) patients. In this study, neo-adjuvant chemotherapy was given to 19 (10.5%) patients and a change in surgical choice was observed for 5 (2.8%) patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In total, 8 (4,4%) patients tested positive for COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Data also shows a greater number of therapeutic changes in cases of ovarian cancer as well as a cancellation of a lumbo-aortic lymphadenectomy in one patient with cervical cancer.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Overall consultants estimated that 39 (22%) patients suffered detrimental effects on the management of their gynecological cancer during the study period. For cervical cancer, the choice between radiochemotherapy versus surgery was assessed on a case-by-case basis. In our study, 3 (10%) patients were treated with radiochemotherapy for cancers classified as FIGO stages IB1 and IIA.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The practice of lymphadenectomy and in particular lumbo-aortic lymphadenectomy remained controversial due to the risks of immunosuppression with regard to its prognostic and therapeutic benefits, and one lumbo-aortic lymphadenectomy was cancelled.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "In the case of endometrial cancer, guidelines varied according to the risk profile of the cancer and patient comorbidities. Interventions for low-risk endometrial cancers were postponed, especially if the patient had comorbidities. For high-risk endometrial cancers requiring staging, the use of an algorithm associating sentinel node examination and a PET scan was recommended in order to limit post-operative risks associated with lymphadenectomy. In our study, surgery was postponed for 11 (14.4%) patients including 7 (9%) patients who had stage I cancer associated with co-morbidities.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Among the 64 (84%) patients who received surgery, 11 patients underwent a lumbo-aortic lymphadenectomy in spite of guidelines to use the MSKCC algorithm (combining PET scan and sentinel node examination) in order to reduce the risk of post-operative complications associated with lymphadenectomy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "With respect to ovarian cancer, the majority of patients received neo-adjuvant chemotherapy, that was prolonged for 12 patients (23%). Treatment with chemotherapy in advanced stage cancer was recommended instead of surgery at regular intervals. Hyperthermic intraperitoneal chemotherapy was not recommended and in our study this guideline was followed without exception.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Little data is currently available concerning the impact of the COVID-19 pandemic, and the resulting guidelines, on the survival of patients with gynecological cancers. The detrimental effects on patient health can only be observed with sufficient hindsight from the pandemic in a new study. Thus, our study only provides an estimation by consultants of the effects of the pandemic. Although a major disruption to the healthcare system, with detrimental effects reported for 41 (23%) patients in our study, no algorithm has to this day been designed to evaluate the impact on survival of Covid-19 among patients with gynecological cancers.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The study by F. MARTINELLI, A. GARBI. (7) , carried out on social networks in 49 countries and questioning 187 consultants on the changes in management of gynecological cancers, found similar results to our study. In their study, a change in treatment strategy with respect to chemotherapy was found in 30 to 40% of cases, a halt in laparoscopic surgery in 30% of cases and an increase in treatment with radiotherapy in 24% of cases. The management of endometrial cancers was also found to have been impacted and, in low-risk cases, an alternative treatment with neo-adjuvant hormonotherapy was offered among 31% of patients. In cases of high-risk endometrial cancer, a sentinel node examination was done in 69% of cases. In cases of ovarian cancer, surgery was postponed in 27% of cases and neoadjuvant chemotherapy offered in over 30% of cases. For Cervical cancers, although surgery remained the principal treatment option, it was postponed for early-stage cancers in 15% of cases. These figures all support the findings of our study and show the considerable impact of the COVID-19 pandemic on the care strategy of gynecological cancer patients.",
+            "cite_spans": [
+                {
+                    "start": 38,
+                    "end": 41,
+                    "text": "(7)",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "A study by G. LAMBLIN, F. GOLFIER, J. PERON et al. (8) , with a protocol similar to ours and a cohort of 205 patients, was done in the French Rhone region. The findings with respect to surgery and radiochemotherapy, on a population with a majority of breast cancer patients (70%), showed that among the 115 surgical procedures scheduled, 40 (34,8%) were postponed, 7 (6,1%) were cancelled and in 9 (7,8%) cases the surgical procedure was changed. The postponement rate was significantly higher in this study, although the rate of cancellation and changes to procedure were similar to those of our study.",
+            "cite_spans": [
+                {
+                    "start": 51,
+                    "end": 54,
+                    "text": "(8)",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The strength of our study lies in its prospective, multi-center design with an inclusion across a relatively long timeframe. The number of centers in areas of France with a high and a low viral circulation was equivalent. Our study successfully allows for the observation of the impact of the COVID-19 pandemic on the management of gynecological cancers among patients for whom surgical treatment was scheduled. We were able to calculate the proportion of patients who experience a change in their treatment strategy due to the rapid reorganization of the healthcare system.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Our study also provides data on the different strategies adopted during the first lockdown, this will certainly be a useful resource to future studies on the management of cancers during a crises.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The pandemic plunged France into an exceptional health care crisis that required the medical profession to adapt quickly. The swift response of scientific societies allowed for guidelines to be drawn up to assist physicians. However, as our study shows, this period had a significant impact on the treatment strategies of gynecological cancers. Changes in therapy were reported in 27% of cases and a suspension of interventions in 23.2% of cases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONCLUSION"
+        },
+        {
+            "text": "It would be worthwhile complementing this work with a follow-up study of the impact on patient survival of the COVID-19 pandemic. This could also shed more light on the efficacy of the guidelines implemented during the lockdown period and on the extent of the effects of diagnostic delays due to the cancellation of many specialist consultations. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CONCLUSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Chronologie de l'action de l'OMS face \u00e0 la COVID-19",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "D\u00e9cret n\u00b02020-260 du 16 mars 2020 portant r\u00e9glementation des d\u00e9placements dans le cadre de la lutte contre la propagation du virus COVID-19",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Case Fatality Rate of Cancer Patients with COVID-19 in a New York Hospital System. Cancer discov",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Mehta",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Goel",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kabarriti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "935--941",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Recommandations pour la prise en charge chirurgicale des cancers gyn\u00e9cologiques en p\u00e9riode de pand\u00e9mie COVID-19",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "The official French guidelines to protect patients with cancer against SARS-CoV-2 infection",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "You",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ravaud",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Canivet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "THE LANCET",
+            "volume": "21",
+            "issn": "",
+            "pages": "619--621",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Applicability of the Clavien-Dindo classification in the evaluation of postoperative complications at th Surgery Departement of the National Hospital Center of Nouakchott: observational study of 834 cases",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Idriss",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tfeil",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sidi",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Baba",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "PAN AFR MED J",
+            "volume": "33",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "GARBI Change in practice in gynecologic oncology during the COVID-19 pandemic: a social media survey",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Martinelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "INTERNATIONAL JOURNAL OF GYNECOLOGIC CANCER. PUBLISHED ONLINE FIRST",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Impact of the COVID-19 Outbreak of the management of patients with gynecological cancers",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lamblin",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Golfier",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Peron",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "GYNECOL OBSTET FERTIL SENOL",
+            "volume": "48",
+            "issn": "11",
+            "pages": "777--783",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "The worldwide spread of the SARS-CoV-2 virus since the beginning of 2020 has forced global health authorities and individual states to adapt. On the 11th of March 2020, the outbreak of COVID-19 was declared a pandemic by the WHO. In parallel, a call forprotective measures was issued by the WHO in an effort to avoid the saturation of intensive care units. The French State responded by imposing a strict lockdown from the 16th of March to the 11th of May 2020 and by declaring a state of health emergency on the 24th of March 2020. This situation led scientific societies to adapt care strategies during the lockdown period. Guidelines for gynecological cancer treatment during the state of emergency were published by the French Society of Obstetrics and Gynecology (CNGOF) issued, via the intermediary of the FRANCOGYN group on the 23 rd of March 2020.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Figure 1Changes in management strategy during the study period",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Characteristic of the population Patient with or suspected of Covid-19 -Patient from zones with high circulation of the COVID 19 virus -Patient from zones with low circulation of the COVID 19 virus -Median age (unknown for 18 patients) -BMI average (unknowm for 49 patients) -Care in a University Hospital -Care in a CH* -Care in a private establishment PSPH ** -Care in a private establishment non PSPH*** -Centers where surgeries were postponed * French State Hospital ** Non profit private Hospital *** Private Hospital *Stage > 1 refers to a score greater than 1 on the FIGO classification for each cancer type",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Staging of pelvic cancers(n=181)",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Risk factors for postponement of surgery management during the study period Patients n=181 Median age",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

@@ -1,0 +1,3519 @@
+{
+    "paper_id": "0f2974d824909ac7f2104c482570fcb70a873532",
+    "metadata": {
+        "title": "Humoral immunological kinetics of severe acute respiratory syndrome coronavirus 2 infection and diagnostic performance of serological assays for coronavirus disease 2019: an analysis of global reports",
+        "authors": [
+            {
+                "first": "Anthony",
+                "middle": [],
+                "last": "Uchenna Emeribe",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Calabar",
+                    "location": {
+                        "postBox": "P.M.B 1115",
+                        "settlement": "Calabar"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Idris",
+                "middle": [],
+                "last": "Nasir Abdullahi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ahmadu Bello University",
+                    "location": {
+                        "settlement": "Zaria",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Halima",
+                "middle": [
+                    "Ali"
+                ],
+                "last": "Shuwa",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Federal University",
+                    "location": {
+                        "settlement": "Dutse",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Leonard",
+                "middle": [],
+                "last": "Uzairue",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Federal University of Agriculture Abeokuta",
+                    "location": {
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sanusi",
+                "middle": [],
+                "last": "Musa",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ahmadu Bello University",
+                    "location": {
+                        "settlement": "Zaria",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Abubakar",
+                "middle": [],
+                "last": "Umar Anka",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ahmadu Bello University",
+                    "location": {
+                        "settlement": "Zaria",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hafeez",
+                "middle": [],
+                "last": "Aderinsayo Adekola",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Olabisi Onabanjo University",
+                    "location": {
+                        "addrLine": "Ago-Iwoye",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Zakariyya",
+                "middle": [
+                    "Muhammad"
+                ],
+                "last": "Bello",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ahmadu Bello University",
+                    "location": {
+                        "settlement": "Zaria",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Dahiru",
+                "middle": [],
+                "last": "Lawal",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Rogo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Bayero University",
+                    "location": {
+                        "settlement": "Kano",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Dorcas",
+                "middle": [],
+                "last": "Aliyu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Calabar",
+                    "location": {
+                        "postBox": "P.M.B 1115",
+                        "settlement": "Calabar"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Shamsuddeen",
+                "middle": [],
+                "last": "Haruna",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ahmadu Bello University",
+                    "location": {
+                        "settlement": "Zaria",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yahaya",
+                "middle": [],
+                "last": "Usman",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ahmadu Bello University",
+                    "location": {
+                        "settlement": "Zaria",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yahaya",
+                "middle": [],
+                "last": "Muhammad",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Bayero University",
+                    "location": {
+                        "settlement": "Kano",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Abubakar",
+                "middle": [
+                    "Muhammad"
+                ],
+                "last": "Gwarzo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Federal University",
+                    "location": {
+                        "settlement": "Dutse",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Justin",
+                "middle": [
+                    "Onyebuchi"
+                ],
+                "last": "Nwofe",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Nigeria",
+                    "location": {
+                        "settlement": "Enugu",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hassan",
+                "middle": [],
+                "last": "Musa Chiwar",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Maiduguri Maiduguri",
+                    "location": {
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Chukwudi",
+                "middle": [],
+                "last": "Crescent Okwume",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Nigeria Teaching Hospital",
+                    "location": {
+                        "settlement": "Enugu",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Olawale",
+                "middle": [
+                    "Sunday"
+                ],
+                "last": "Animasaun",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Nigeria Field Epidemiology and Laboratory Training Programme",
+                    "institution": "",
+                    "location": {
+                        "addrLine": "African Field Epidemiology Network",
+                        "settlement": "Abuja",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Samuel",
+                "middle": [
+                    "Ayobami"
+                ],
+                "last": "Fasogbon",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Public Health In-vitro Diagnostic Control Laboratory",
+                    "institution": "Medical Laboratory Science Council of Nigeria",
+                    "location": {
+                        "settlement": "Lagos",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lawal",
+                "middle": [],
+                "last": "Olayemi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "National University of Samoa",
+                    "location": {
+                        "settlement": "Apia",
+                        "country": "Samoa"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Christopher",
+                "middle": [],
+                "last": "Ogar",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Calabar",
+                    "location": {
+                        "postBox": "P.M.B 1115",
+                        "settlement": "Calabar"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Helen",
+                "middle": [],
+                "last": "Emeribe",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Calabar Teaching Hospital",
+                    "location": {
+                        "addrLine": "Cross River",
+                        "postCode": "PMB 1278",
+                        "settlement": "Calabar",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Peter",
+                "middle": [
+                    "Elisha"
+                ],
+                "last": "Ghamba",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "WHO National Polio Reference Laboratory",
+                    "institution": "University of Maiduguri Teaching Hospital",
+                    "location": {
+                        "settlement": "Maiduguri",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Luqman",
+                "middle": [
+                    "O"
+                ],
+                "last": "Awoniyi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "MediCity Research Laboratories",
+                    "institution": "University of Turku",
+                    "location": {
+                        "postCode": "20014",
+                        "settlement": "Turku",
+                        "country": "Finland"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Bolanle",
+                "middle": [
+                    "O P"
+                ],
+                "last": "Musa",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ahmadu Bello University",
+                    "location": {
+                        "settlement": "Zaria",
+                        "country": "Nigeria"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "The coronavirus disease 2019 (COVID-19) pandemic has caused an unprecedented global health emergency and economic uncertainty. As the incidence of COVID-19 continues to rise, many countries have sought to develop or procure serological test kits and strips with the plan of scaling up laboratory investigations into the COVID-19 pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the etiological agent of COVID-19. It is one of the three highly pathogenic members of the family of coronaviridae. 1 Infection with SARS-CoV-2 has been associated with a range of hallmarks that progress from mild to severe clinical presentations before terminating in death in less than 10% of cases. 2 The WHO has recommended RT-PCR as the gold standard protocol for screening individuals with typical symptoms who are suspected of having COVID-19. Although appropriate use of RT-PCR provides very accurate results, test reagents and consumables are mostly in short supply. Besides, this protocol is laborious, expensive to operate, requiring technical expertise and it has a long test turnaround time. Also, one of the major technical drawbacks in using RT-PCR is the significant number of cases of false-negative results, despite patients having clinical features and radiologic findings that are highly suspicious of SARS-CoV-2 infection. The false-negative results could be due to wrong sampling, where SARS-CoV-2 might have been present in the lower respiratory tract rather than upper respiratory tract samples often collected for laboratory diagnosis. This poses a challenge in the proper evaluation of some SARS-CoV-2-infected people. 3 It has been observed that the transmission dynamics of COVID-19 have made it an arduous task and challenge in the control of the pandemic, despite WHO-proposed measures having already been introduced. 4 Consequently, the COVID-19 pandemic has seriously challenged the operation of the entire healthcare system, including hospitals, laboratory diagnosis, the management of patients and every other aspect of human endeavor. 5, 6 In the quest to augment several lapses in the use of RT-PCR testing for COVID-19, serological assays that detect and /or measure antibodies (immunoglobulins) against SARS-CoV-2 have been developed and evaluated for performance by many institutions and private biotechnology firms. Global efforts to scale up the testing and diagnosis of COVID-19 has led to the commercial production of serological kits and devices. Some of these products have gained executive approval in some countries. For instance, the US Food and Drug Administration (FDA) gave expedient approval for some COVID-19 serological kits based on their accuracy and reliability. 7 Instances have arisen where massive production and the use of finger-prick assays and in vitro testing have been encouraged in the UK and the USA to scale up COVID-19 surveillance through rapid testing and measurement of either antigens or antibodies to SARS-CoV-2. These rapid testing protocols adopted in these countries are point-of-care testing (POCT), which are designed as lateral flow devices (colloid gold-based immunochromatographic cassettes or test strips) with a diverse range of performance characteristics. These devices require a small sample volume (in microliters), are conducted within a short period (a few seconds to minutes), and are easier to perform as their use requires less technical expertise and equipment compared with protocols that detect nucleic acid. 8 The transmission dynamics of the COVID-19 pandemic make it very challenging to control despite measures put in place in various countries of Africa and elsewhere outside the continent. Adequate laboratory diagnosis of COVID-19 plays a highly significant role in the control and prevention of the pandemic. However, some of the emerging challenges of testing for SARS-CoV-2 generally include sourcing personal protective equipment, low human capacity, scaling up testing, overwhelming contact tracing and inadequate hospital capacity to accommodate COVID-19 patients, resulting in increased morbidity and mortality. Hence, improved testing capacity, adequate provision of human and material resources, combined with innovative ways of scaling up contact tracing and improved testing capacity, are essential in the control of the COVID-19 pandemic.",
+            "cite_spans": [
+                {
+                    "start": 180,
+                    "end": 181,
+                    "text": "1",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 366,
+                    "end": 367,
+                    "text": "2",
+                    "ref_id": null
+                },
+                {
+                    "start": 1309,
+                    "end": 1310,
+                    "text": "3",
+                    "ref_id": null
+                },
+                {
+                    "start": 1512,
+                    "end": 1513,
+                    "text": "4",
+                    "ref_id": null
+                },
+                {
+                    "start": 1737,
+                    "end": 1738,
+                    "text": "6",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 2384,
+                    "end": 2385,
+                    "text": "7",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 3170,
+                    "end": 3171,
+                    "text": "8",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "This study sought to provide an update on the kinetics of humoral immune response to SARS-CoV-2 infection and performance characteristics of serological protocols (lateral flow assay [LFA] , chemiluminescence immunoassay [CLIA] and ELISA) used for evaluations of recent and past SARS-CoV-2 infection. Data from original research articles on SARS-CoV-2 antibody detection \u2265second day postinfection were included in this study. Furthermore, this study examined whether these tests could be possible solutions that can ameliorate the constraints of underdiagnosis in resource-limited settings.",
+            "cite_spans": [
+                {
+                    "start": 183,
+                    "end": 188,
+                    "text": "[LFA]",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "This review is conducted under the following sections:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "In total, there were 7938 published articles on humoral immune response and laboratory diagnosis of COVID-19. Of these, 74 were included in this study based on selection criteria.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Search outcome"
+        },
+        {
+            "text": "SARS-CoV-2 is a single-stranded RNA virus with positive polarity. 9, 10 The SARS-CoV-2 genome consists of 14 open reading frames (ORFs) that code for 27 viral proteins, where the longest ORF coding for the 15 non-structural proteins plays an important role in viral propagation and immune evasion; the ORF codings for structural and accessory proteins are located on the 5\u00b4end and 3\u00b4end, respectively. 11 The first ORF code encompasses two-thirds of the viral genome and translates the polyproteins pp1a and pp1ab, which are implicated in the encoding of the 16 non-structural proteins. However, the remaining ORFs code for the viral structural and accessory proteins. The structural protein nucleocapsid (N) proteins, spike (S) glycoprotein, matrix (M) protein and small envelope (E) complete the remaining one third of the viral genome. 12 These proteins and RNA-dependent RNA polymerase have been substantially harnessed for primers and antigens in the molecular and serological assays used for COVID-19, respectively. 13",
+            "cite_spans": [
+                {
+                    "start": 66,
+                    "end": 68,
+                    "text": "9,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 69,
+                    "end": 71,
+                    "text": "10",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 402,
+                    "end": 404,
+                    "text": "11",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 839,
+                    "end": 841,
+                    "text": "12",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Main findings Structural organization of SARS-COV-2 useful in serological diagnosis"
+        },
+        {
+            "text": "There is ongoing research into better understanding the viral genome assembly, replication and mutation of SARS-CoV-2. These viral attributes drastically influence the diagnostic performance of both molecular and serological assays as well as the transmissibility of SARS-CoV-2 and its immune responses. 14 Prior to SARS-CoV-2 infection, an unexposed individual was expected to have a negative test for either anti-SARS-CoV-2 IgM or IgG (Figure 1 ). However, following exposure to the infection, SARS-CoV-2 now induces a humoral immune response, which commences with the development of IgM, indicating an acute or ongoing infection from the third day of the first week of infection, as reflected by a positive outcome in either the IgM or IgM/IgG serological test. 15 The level of IgM in an individual with the activated humoral immune response against SARS-CoV-2 continues to rise until it peaks during the third week following infection. 15 By the end of the third week, IgM levels decrease with a concomitant elevation in the level of IgG from the third to the seventh week post symptom onset (PSO), which is revealed by a positive outcome in either the IgG or IgM/IgG serological test ( Figure 2 ). 15 The median period for the development of all the classes of immunoglobulins following the activation of humoral immune response is 13 d. 16 Individually, IgM, IgG and total immunoglobulins have an average duration of 11, 12 and 14 d, respectively. 16 These immunoglobulins can be measured and monitored by a diverse range of antibody-based serological testing techniques, which include rapid diagnostic assay (e.g. lateral flow immunoassay [LFIA] with colloidal gold], CLIA, ELISA and neutralization assay with various diagnostic performance ratings (e.g. sensitivity, specificity, accuracy, PPV and NPV), sampling methods (e.g. finger prick, venipuncture), turnaround time and setting. 16 Previous studies have demonstrated the diagnostic roles of these antibody-based serological testing techniques based on their performance. Zhao et al. 17 demonstrated that within the first 7 d PSO of COVID-19 infection, the sensitivity of total antibody, IgM and IgG were 38.3%, 28.7% and 19.1%, respectively, which was lower compared with the RNA-based test of 66.7% sensitivity. As the duration of PSO increased, the sensitivity of the RNA-based test decreased by 21.2%, while those of the total antibody, IgM and IgG increased by 61.7%, 65.6% and 60.78%, respectively, within the 15th to 39th day PSO. When the RNA-and antibodybased tests were combined, sensitivity significantly improved to 78.7%, 97.0% and 100% within 1-7, 8-14 and 15-39 d PSO, respectively. The implication of this study indicates the unreliability and unsuitability of serology within the window period of infection, but also reveals an impressive sensitivity for total antibodybased assay in detection of SARS-CoV-2 as the PSO period progresses.",
+            "cite_spans": [
+                {
+                    "start": 304,
+                    "end": 306,
+                    "text": "14",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 765,
+                    "end": 767,
+                    "text": "15",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 940,
+                    "end": 942,
+                    "text": "15",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1203,
+                    "end": 1205,
+                    "text": "15",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1343,
+                    "end": 1345,
+                    "text": "16",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1454,
+                    "end": 1456,
+                    "text": "16",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1893,
+                    "end": 1895,
+                    "text": "16",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 2035,
+                    "end": 2049,
+                    "text": "Zhao et al. 17",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 437,
+                    "end": 446,
+                    "text": "(Figure 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 1191,
+                    "end": 1199,
+                    "text": "Figure 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Humoral immune response to SARS-COV-2 infection"
+        },
+        {
+            "text": "The study further revealed that the percentage of patients with undetectable RNA but with detectable immunoglobulin increased from 28.7% within the first 3 d to 100% within 15-39 d of PSO. This is where the total Ab (which is better than testing IgM and IgG individually) comes in, to rule out people with undetectable RNA. 17 The same study recommended the combination of both RNA-and antibody-based tests to scale up the sensitivity of RNA during the course of the infection. This combined approach was observed to attain timely diagnosis of SARS-CoV-2 infection, prevent multiple sampling several days Figure 1 . Kinetics of antibody response in SARS-CoV-2 infection. The entry of the SARS-CoV-2 virus into the host cell through interaction and binding between the host's angiotensin-converting enzyme 2 (ACE2) proteins (receptor) and the viral spike (S) protein (ligand) (1). Following replication and release from the host cells (2), antigen-presenting cells (APCs) like macrophages and dendritic cells engulf some of the viruses, digest and present the digested antigen fragments on their class II MHC molecules to the helper T (Th) cells (3). Th cells, in turn, activate B cells (4), activated B cells proliferate and differentiate into memory B cells or plasma cells with high affinity to the SARS-CoV-2 antigens (5). Plasma cells release SARS-CoV-2-specific antibodies (IgM, IgG or IgA) that bind and neutralize the viruses, thus preventing the viral entry into the host cell (6) .",
+            "cite_spans": [
+                {
+                    "start": 324,
+                    "end": 326,
+                    "text": "17",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1485,
+                    "end": 1488,
+                    "text": "(6)",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 605,
+                    "end": 613,
+                    "text": "Figure 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Humoral immune response to SARS-COV-2 infection"
+        },
+        {
+            "text": "for infection status confirmation, and enhance the ability to prioritize relevant treatments and isolation management. [18] [19] [20] The changes of the antibody response against SARS-CoV-2 are presently under study, as antibodies may be regarded as potent diagnostic tools to complement RT-PCR-based findings. The SARS-CoV-triggered humoral S-and N-specific IgM response reached a climax within 4 wk and was no more detectable at 3 mo PSO; the switch to IgG often occurred about day 14 and IgG were demonstrated up to 36 mo. 21, 22 In another study, the authors demonstrated that in 34 SARS-CoV-2 laboratories established, the cases studied were positive for IgM and IgG at week 3 PSO. 15 Therefore, in the majority of those patients, the acute phase of infection persisted for >30 d. In an inverse relation, as IgM levels decrease, IgG levels rise gradually from the third to the seventh week, signifying the activation of the humoral immune response against the virus. 15 Thus, the humoral response activated by SARS-CoV-2 may be similar to that elicited by SARS-CoV. 15, 16 In an immunodynamics study reported by Zhao et al., 17 it was observed that the antibody profile in COVID-19 patients showed that seroconversion sequentially appeared for total antibodies, IgM and IgG with a median time of 11, 12 and 14 d, respectively. Full concentrations of SARS-CoV-2 antibodies were detected by double recombinant antigen sandwich immunoassay, which utilized the receptor-binding domain (RBD) of S1 protein and the horse raddish peroxidase-conjugated antigen; IgM \u03bc-chain International Health Figure 2 . Timeline of IgM, IgG and total antibody kinetics during SARS-CoV-2 infection. The level of IgM in an individual with the activated humoral immune response against SARS-CoV-2 continues to rise until it peaks at the third week following infection. By the end of the third week, IgM levels decrease with a concomitant elevation in the level of IgG from the third to the seventh week postonset symptom (POS). For the total antibody, it peaks at the middle of the second week and reaches a plateau in the middle of the third week. The blood concentration persists for several weeks and months postinfection (image made with Biorender.com). capture immunoassay was used for anti-SARS-CoV-2 IgM detection. On the other hand, an indirect ELISA kit based on recombinant NP antigen was used for anti-SARS-CoV-2 IgG detection. 17 The seroconversion rates recorded were 93.1%, 82.7% and 64.7% for total antibodies, IgM and IgG, respectively, and no significant difference was observed between severely and mildly affected COVID-19 patients.",
+            "cite_spans": [
+                {
+                    "start": 119,
+                    "end": 123,
+                    "text": "[18]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 124,
+                    "end": 128,
+                    "text": "[19]",
+                    "ref_id": null
+                },
+                {
+                    "start": 129,
+                    "end": 133,
+                    "text": "[20]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 526,
+                    "end": 529,
+                    "text": "21,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 530,
+                    "end": 532,
+                    "text": "22",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 687,
+                    "end": 689,
+                    "text": "15",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 972,
+                    "end": 974,
+                    "text": "15",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1071,
+                    "end": 1074,
+                    "text": "15,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1075,
+                    "end": 1077,
+                    "text": "16",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1130,
+                    "end": 1132,
+                    "text": "17",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 2419,
+                    "end": 2421,
+                    "text": "17",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1592,
+                    "end": 1600,
+                    "text": "Figure 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Humoral immune response to SARS-COV-2 infection"
+        },
+        {
+            "text": "The sensitivity of serum anti-SARS-CoV-2 detection was lower than the RT-PCR RNA assay within 7 d from the onset of illness (38.3% vs 66.7% for serological vs RT-PCR). However, the sensitivity increased steadily from the eighth to the 39th day PSO and overtook that of the RT-PCR test. 17 More significantly, detectable and measurable levels of total anti-SARS-CoV-2 in the sera were found in COVID-19 patients with undetectable SARS-CoV-2 RNA in their respiratory tract samples. 17 These results highlighted the importance of combining molecular and serological tests for the correct diagnosis of COVID-19 patients at different stages of the disease. In agreement with these reports, Jin et al. recorded the specificity of serum anti-SARS-CoV IgM and IgG as 90% compared with that of the RT-PCR test. 23 In a study by Guo et al., which was carried out on two cohorts of SARS-CoV-2-infected patients, the early antibody response to NP protein was evaluated. Of 208 patients, 90.4% and 93.3% harbored plasma IgM and IgA, respectively. Also, 77.9% of plasma samples were IgG positive, and the median time for both IgM and IgA detection was on day 5 PSO (IQR 3-6) and day 14 PSO (IQR 10-18) for IgG. 24 The authors observed that swift and unanticipated IgA seroconversion might be an upshot of the cytokine storm promoting the germline transcription of \u03b1 and \u03bc genes of the heavy chain constant.",
+            "cite_spans": [
+                {
+                    "start": 286,
+                    "end": 288,
+                    "text": "17",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 480,
+                    "end": 482,
+                    "text": "17",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 802,
+                    "end": 804,
+                    "text": "23",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 1197,
+                    "end": 1199,
+                    "text": "24",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Humoral immune response to SARS-COV-2 infection"
+        },
+        {
+            "text": "Furthermore, it has been reported and established that Tcell-independent antibody responses can cause excitation of a specialized B cell subset to produce both IgA and IgM throughout the infection of some pathogens. 25 Although T-cell-independent antibody response against viruses is still controversial, some viruses can act in vivo as T-cell-independent antigens and therefore cause eliciting protective isotype-switched antibodies in the non-appearance of conventional T-cell help. Inactivated virus or virus-like particles can also elicit IgM response, but factors induced when an active virus infection is ongoing seem very important and are required before there can be induction of the isotype switch and then IgG or IgA responses. 26 In another study of 214 COVID-19 patients, 68.2% and 70.1% were positive for rN-specific IgM and IgG, respectively; and 77.1% and 74.3% were positive for rS-specific IgM and IgG, respectively. 27 These findings indicated that the detection of rS-specific IgM was more sensitive compared with that of rN-specific IgM, which may be because of the lower immunogenicity of the N protein compared with that of the S protein. A bioinformatics study reported a lower number of B cell epitopes in the NP protein of SARS-CoV-2 than in the S protein, especially as the positive rates of IgM and IgG were low during the early stages of the disease (0-10 days post-disease onset (DPO)). On the other hand, IgM and/or IgG specific for rN and rS reached a climax at 11-15 DPO. 27 The sensitivity of the tests and the epitope on which the test is based are significant factors for the well-organized detection of specific SARS-CoV-2 antibodies and timing of the humoral A. U. Emeribe et al.",
+            "cite_spans": [
+                {
+                    "start": 216,
+                    "end": 218,
+                    "text": "25",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 739,
+                    "end": 741,
+                    "text": "26",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 935,
+                    "end": 937,
+                    "text": "27",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1505,
+                    "end": 1507,
+                    "text": "27",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Humoral immune response to SARS-COV-2 infection"
+        },
+        {
+            "text": "response. Consequently, several tests are rapidly being developed in many laboratories. For example, Li et al. developed a point-ofcare LFIA test based on the RBD antigen of the SARS-CoV-2 S1 protein that can help in the concomitant detection of IgM and IgG in human blood within 15 min, with higher sensitivity than the individual IgG and IgM tests; however, the detection limit of the test was not determined. 19 Also, Amanat et al. developed sensitive and specific ELISA assays based on the recombinant fulllength S protein and RBD epitope, permitting the screening and detection of seroconversion upon SARS-CoV-2 infection 3 d PSO. 28 Of note, no cross-reactivity from other human coronaviruses was noted, in agreement with another study highlighting that S1 is a specific antigen for SARS-CoV-2 diagnosis, as cross-reactive antibodies against the S protein of Middle East respiratory syndrome-related coronavirus (MERS-CoV) were not detected in a COVID-19 patient. 29 Additionally, strong IgA and IgM responses were discovered and the IgG3 response was stronger than that of IgG1. 28 The sensitivity of the test may create challenges for the early detection of IgM. Several patients were more positive for IgG than IgM during the time of hospital stay and 5 d later; likewise, they had an earlier IgG than IgM seroconversion. 30 Furthermore, SARS-CoV-2-specific antibodies were detected in the sera of six infants born to mothers with COVID-19. Five of the six infants and their mothers had elevated levels of IgG and two of them also had elevated levels of anti-SARS-CoV-2 IgM. Three of the six infants who had elevated levels of IgG also had normal levels of IgM. However, two of their mothers displayed elevated levels of IgM. How the newborns that developed IgM require additional investigation. Undeniably, due to its large magnitude, IgM is not typically transferred through the placenta; however, it is affected by some pathology that compromises its configuration. The newborn might be in contact with the virus if the latter crosses the placenta, although no virus was detected from RT-PCR analysis. 31 Currently, several studies are investigating the connection between antigen-specific antibodies and the clinical characteristics of COVID-19 patients, but interestingly, among people with comorbidities, lesser anti-RBD IgG, but not anti-NP IgM or IgG, have been reported, although the difference was not significant when compared with people without comorbidities.",
+            "cite_spans": [
+                {
+                    "start": 412,
+                    "end": 414,
+                    "text": "19",
+                    "ref_id": null
+                },
+                {
+                    "start": 636,
+                    "end": 638,
+                    "text": "28",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 970,
+                    "end": 972,
+                    "text": "29",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1086,
+                    "end": 1088,
+                    "text": "28",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1331,
+                    "end": 1333,
+                    "text": "30",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 2114,
+                    "end": 2116,
+                    "text": "31",
+                    "ref_id": "BIBREF29"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Humoral immune response to SARS-COV-2 infection"
+        },
+        {
+            "text": "The recent pandemic outbreak of the SARS-CoV-2 virus and its rapid spread poses an urgent need for both diagnostic and therapeutic interventions to manage the infection and the outcome of the disease. The diminishment or absence of IgG and persistence of IgM are considered biomarkers for recent infection. As the epidemic progresses more individuals could get infected. The measurement of these antibodies is a good differential that helps to distinguish between recent and older infections. 17 The detection of IgM (from days 1 to 7) in the absence of IgG represent an acute/recent infection, whereas the simultaneous detection of IgM and IgG could represent acute reinfection. 18 On the other hand, the detection of IgG in the absence of IgM denotes a past infection. 18 The increasing number of confirmed COVID-19 cases has resulted in an unprecedented rise in demand for antibody-based tests from researchers and healthcare policymakers. Recently, a list of >200 serological products was released by the Foundation for Innovative New Diagnostics (FIND); these products, which are predominately from China, are currently either available for use or are in industrial development and evaluation. However, only 12 have received emergency use authorization from the FDA. Serological products from a host of other countries, including South Korea, Germany, the USA and the UK, were also present on the FIND list.",
+            "cite_spans": [
+                {
+                    "start": 493,
+                    "end": 495,
+                    "text": "17",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 680,
+                    "end": 682,
+                    "text": "18",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 771,
+                    "end": 773,
+                    "text": "18",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "COVID-19 serological assays"
+        },
+        {
+            "text": "Some commercially available serology-based tests have been considered to be inadequate for COVID-19 diagnosis if used alone, due to their low degrees of sensitivity and specificity. For instance, anti-SARS-CoV-2 IgG takes a relatively long period (not yet reported) for quantification. 18 More details regarding the limitations of COVD-19 serological assay follow later in this article.",
+            "cite_spans": [
+                {
+                    "start": 286,
+                    "end": 288,
+                    "text": "18",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "COVID-19 serological assays"
+        },
+        {
+            "text": "Cases of poor performance characteristics of some serological kits/devices underscore the need for re-evaluation and validation before being made available to end-users. This is to prevent clinicians and healthcare professionals from using these serological kits/strips off the shelf for clinical purposes. Furthermore, despite kits' satisfactory diagnostic performance, it is important to include internal quality control and external quality assurance measures in all tests run on human samples to ensure accuracy, precision and reproducibility of test results.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "COVID-19 serological assays"
+        },
+        {
+            "text": "Serological tests rely on the detection of specific anti-viral antibodies (IgM, IgA, IgG or total antibody) in patient sera, plasma or whole blood. 32 Determining the optimal antigenic epitopes to maximize sensitivity, but minimize cross-reactivity, particularly against other human coronaviruses, has meant that the development of high-quality serological testing has been slower than molecular-based diagnostics. 17, 32 Initial candidate epitopes have largely focused on the immunogenic viral structural proteins which include nucleocapsid (N) and spike (S) protein, particularly the S1 subunit and the RBD. 32 To date, a range of serological tests for COVID-19 have been developed, each with particular test characteristics. Broadly, these serological tests can be divided into tests that (1) can be performed at the point of care; (2) can be performed in routine diagnostic laboratories; and (3) can only be performed in specialized reference laboratories.",
+            "cite_spans": [
+                {
+                    "start": 148,
+                    "end": 150,
+                    "text": "32",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 415,
+                    "end": 418,
+                    "text": "17,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 419,
+                    "end": 421,
+                    "text": "32",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 610,
+                    "end": 612,
+                    "text": "32",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 792,
+                    "end": 795,
+                    "text": "(1)",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Challenges of SARS-CoV-2 serological testing"
+        },
+        {
+            "text": "Initial studies have reported that most patients with COVID-19 seroconvert by day 10-14 (approximately 80%), with almost 100% seroconversion by day 20. 6,7 However, comparisons across published studies are challenging due to (1) different antigens used in assays; (2) differences in the complexity of patient populations; and (3) variations in the RT-PCR assays used as the gold standard for determining the sensitivity of serological assays. Further, it is not clear whether the type and number of antibodies correlate with the severity of COVID-19, or more importantly, with immune protection from reinfection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Challenges of SARS-CoV-2 serological testing"
+        },
+        {
+            "text": "At present, the most widely available (and most publicized) serological tests are POCT, which involves the detection of anti-SARS-CoV-2 antibodies through binding to immobilized antigen, generally bound to colloidal gold on a test strip. The relatively cheap and simple nature of lateral flow assays means that production is suited to scaling up for increased testing capacity. However, there are limited published data on the performance characteristics of serological POCT, and high-quality data are urgently Table 3 . International Health needed to guide laboratories, public health agencies and governments in the appropriate and responsible deployment of POCT, and serological assays more broadly. Currently, the WHO recommends the use of POCT immunodiagnostic assays in research settings only, and not for clinical decision-making until further evidence is available. 13 Ideally, validation of serological assays, including POCT, should be performed against a serum panel that includes samples from (1) patients at acute and convalescent stages of infection (to assess sensitivity) and (2) patients with other human coronavirus infections (to assess specificity). Also, serological tests are relevant to fully characterize the SARS-CoV-2-specific antibody response. Differences in the profile of the antibody response across patients might reveal important aspects of the pathogenesis of COVID-19, explaining the great differences observed in the general population. Indeed, the correlation with disease severity and clinical characteristics is poorly understood. Old age and comorbidities seem to increase the risk for a poor outcome of the disease; however, increasing cases of young people who experience severe illness, requiring hospitalization for assistance by mechanical ventilation, may pose questions about the leading factors of disease progression. 32 Some challenges are posed by the potential cross-reactivity with other human coronaviruses, due to their high homology at the genetic level. The evidence related to this aspect are still controversial; however, SARS-CoV-specific antibodies are undetectable in the sera of patients 6 y after infection. This observation excludes the presence of cross-reactivity in the sera of COVID-19 patients and might make researchers confident about the specificity of these antibodies. 32 Moreover, it would be interesting to understand whether the differences in the progression of the disease might be related to the level of the immune response.",
+            "cite_spans": [
+                {
+                    "start": 874,
+                    "end": 876,
+                    "text": "13",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1867,
+                    "end": 1869,
+                    "text": "32",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 2344,
+                    "end": 2346,
+                    "text": "32",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 511,
+                    "end": 518,
+                    "text": "Table 3",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Challenges of SARS-CoV-2 serological testing"
+        },
+        {
+            "text": "Although various reports of reputable serology assays are incredibly encouraging, product end-users must be pragmatic regarding their accuracy and applicability for COVID-19 clinical and epidemiological use. The unsustainability of RT-PCR tests for the COVID-19 laboratory response in some countries has necessitated a search for alternative assays with high sensitivity and specificity with a short turnaround time from preanalytical (sample collection) to postanalytical phases (availability of test results), 32 thus enabling prompt and large-scale testing for COVID-19. While none of the antibody-based serological assays have been approved by the WHO, a number of them have been approved for clinical and epidemiological use in some countries. 32 Antibody testing might have a useful role in clinically diagnosing COVID-19 patients with late presentations, prolonged symptoms and those with negative results from RT-PCR tests. Furthermore, these tests could be used to monitor the quality and duration of humoral immune response in COVID-19 patients and vaccination. Epidemiologically, SARS-CoV-2 antibody tests can be used for seroprevalence studies in public health research and to inform decisions about returning to work following asymptomatic SARS-CoV-2 infection.",
+            "cite_spans": [
+                {
+                    "start": 749,
+                    "end": 751,
+                    "text": "32",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accuracy and applications of COVID-19 serological assays"
+        },
+        {
+            "text": "This could offer an opportunity for clinical diagnosis and interruption of transmission through targeted isolation of the most infectious cases and their close contacts. 32 SARS-CoV-2 an-tibody testing has been shown to have good clinical applications, given the varied symptoms of COVID-19 and reported cases of false-negative results of RT-PCR tests when respiratory swabs are collected \u22655 d PSO as their sensitivity begins to decline. 32 Considering this, many researchers are now conducting an independent performance evaluation of these antibody-based assays. For instance, a study referred to as the 'COVID-19 Testing Project' was conducted by the University of California, Massachusetts General Hospital, the Chan Zuckerberg Biohub and the University of California. 33 This study evaluated 10 lateral flow assays and 2 ELISAs to assess performance characteristics for anti-SARS-CoV-2 33 on plasma/serum of 80 symptomatic COVID-19 patients with RT-PCR positive results, 52 non-SARS-COV-2 patients' respiratory viral infections (SARS-CoV-2 RT-PCR negative) and 108 archived sera of blood donors collected in 2018 or earlier. 33 The assessment found that the assays of the products had varying sensitivities that increased over time, increasing from about 81% to 100% at \u02c320 d PSO. 33 Based on this, it was inferred that anti-SARS-CoV-2 tests were important for longitudinal studies because a negative result may indicate an actively infected person who has not developed a detectable level of antibodies to the virus. Conversely, the proportion of false-positive samples reported from the non-COVID-19 group ranged from 0% to 16%. The detection agreement indices of the lateral flow assays and ELISAs ranged from 75% to 94%. 33 In another evaluation study of SARS-CoV-2 antibody-based tests by the Chinese company Innovita, anti-SARS-CoV-2 antibodies were found in 83% of COVID-19-confirmed patients with an assay specificity of 96%. 34 After FDA authorization, these tests were anticipated for at-home use. 34 Despite the merits of serological devices, limitations abound due to issues of misdiagnosis following indications of significant false-negative and false-positive results observed during the evaluation of these kits and devices during quality checks.",
+            "cite_spans": [
+                {
+                    "start": 438,
+                    "end": 440,
+                    "text": "32",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 773,
+                    "end": 775,
+                    "text": "33",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1130,
+                    "end": 1132,
+                    "text": "33",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1286,
+                    "end": 1288,
+                    "text": "33",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1730,
+                    "end": 1732,
+                    "text": "33",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1939,
+                    "end": 1941,
+                    "text": "34",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 2013,
+                    "end": 2015,
+                    "text": "34",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accuracy and applications of COVID-19 serological assays"
+        },
+        {
+            "text": "These rapid test kits have been observed to be unsuitable for testing patients with \u226414 d PSO. To augment these lapses, several studies recommend combining both the serological and RT-PCR-based protocols to provide a more accurate diagnosis of COVID-19 instead of only using the molecular testing approach, which introduces a myriad of strenuous demands on diagnostic and healthcare delivery establishments and regulatory bodies, as well as material, financial and human resources meant to sustain testing capacity. 17, 19, 20, 35 Also, there are several studies that have been conducted by diagnostic industries and independent researchers aiming to evaluate the performance characteristics of various anti-SARS-CoV-2 test protocols, some of which have reported promising results. [35] [36] [37] [38] [39] [40] [41] [42] It is worth noting that the clinical use of SARS-CoV-2 antibody tests should be on products that evaluated and reported the performance characteristics (especially sensitivity and specificity) during the acute phase of COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 516,
+                    "end": 519,
+                    "text": "17,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 520,
+                    "end": 523,
+                    "text": "19,",
+                    "ref_id": null
+                },
+                {
+                    "start": 524,
+                    "end": 527,
+                    "text": "20,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 528,
+                    "end": 530,
+                    "text": "35",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 782,
+                    "end": 786,
+                    "text": "[35]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 787,
+                    "end": 791,
+                    "text": "[36]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 792,
+                    "end": 796,
+                    "text": "[37]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 797,
+                    "end": 801,
+                    "text": "[38]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 802,
+                    "end": 806,
+                    "text": "[39]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 807,
+                    "end": 811,
+                    "text": "[40]",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 812,
+                    "end": 816,
+                    "text": "[41]",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 817,
+                    "end": 821,
+                    "text": "[42]",
+                    "ref_id": "BIBREF41"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Accuracy and applications of COVID-19 serological assays"
+        },
+        {
+            "text": "The most promising (best) LFA on total SARS-CoV-2 antibody test had a sensitivity, specificity, PPV and NPV of 100%, 100%, 100% and 100% at days 4, 5, 4 and 5, respectively, while the worst had a International Health Table 6 . Note:",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 217,
+                    "end": 224,
+                    "text": "Table 6",
+                    "ref_id": "TABREF7"
+                }
+            ],
+            "section": "Performance characteristics of COVID-19 serological assays"
+        },
+        {
+            "text": "1. All computed values were POS.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Performance characteristics of COVID-19 serological assays"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "The most promising (best) ELISA on total SARS-CoV-2 antibody test had a sensitivity, specificity, PPV and NPV of 93.9%, 100%, 100% and 100% at days 3, 5, 4 and 3, respectively, while the least had a sensitivity, specificity, PPV and NPV of 46.1%, 86.6%, 76.6% and 55.3% at days 1, 3, 2 and 1, respectively. The most promising ELISA with best anti-SARS-CoV-2 IgM test had a sensitivity, specificity, PPV and NPV of 89.5%, 100%, 100% and 95.7% at days 4, 6, 4 and 5, respectively, while the least had a sensitivity, specificity, PPV and NPV of 64.9%, 88.1%, 70.6% and 80.0% at days 1, 3, 2 and 3, respectively. The most promising (best) ELISA on anti-SARS-CoV-2 IgG test had a sensitivity, specificity, PPV and NPV of 100%, 100%, 100% and 100% at days 8, 10, 8 and 9, respectively, while the least had a sensitivity, specificity, PPV and NPV of 46.1%, 86.6%, 72.5% and 56.2% at days 5, 7, 6 and 7, respectively. The most promising (best) ELISA on anti-SARS-CoV-2 IgA test had a sensitivity, specificity, PPV and NPV of 97.4%, 100%, 100% and 98.0% at days 4, 5, 6 and 5, respectively, while the least had a sensitivity, specificity, PPV and NPV of 46.1%, 68.3%, 58.1% and 53.3% at days 14, 13, 14 and 13, respectively (Table 2). The most promising (best) CLIA on total SARS-CoV-2 antibody test had a sensitivity, specificity, PPV and NPV of 100%, 100%, 100% and 100% at days 2, 3, 2 and 3, respectively, while the least had a sensitivity, specificity, PPV and NPV of 58.7%, 92.3%, 81.6% and 61.5% at days 1, 2, 1 and 1, respectively. The most promising (best) CLIA on anti-SARS-CoV-2 IgM test had a sensitivity, specificity, PPV and NPV of 96.8%, 100%, 100% and 98.5% at days 1, 3, 3 and 2, respectively, while the least had a sensitivity, specificity",
+            "authors": [],
+            "year": null,
+            "venue": "The most promising LFA with the best anti-SARS-CoV-2 IgM test had a sensitivity, specificity, PPV and NPV of 95.8%, 100%, 100% and 98.4% at days 5, 6, 6 and 5, respectively, while the least had a sensitivity, specificity, PPV and NPV of 15.7%, 36.4%, 43.2% and 17.4% at days 1, 3, 1 and 3, respectively. The most promising (best) LFA on anti-SARS-CoV-2 IgG test had a sensitivity, specificity, PPV and NPV of 100%, 100%, 100% and 100% at days 8, 9",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "1% (n=38) 71 of COVID-19 patients. The most promising CLIA product detected anti-SARS-CoV-2 IgM and IgG at days 1 and 4 in 33.3% (n=6) 23 and 60.0% (n=35), 63 respectively, and peaked on the",
+            "authors": [],
+            "year": null,
+            "venue": "COVID-19 patients",
+            "volume": "92",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Novel human coronavirus (SARS-CoV-2): A lesson from animal coronaviruses",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Decaro",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Lorusso",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Vet Microbiol",
+            "volume": "244",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.vetmic.2020.108693"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Critical supply shortages -the need for ventilators and personal protective equipment during the Covid-19 pandemic",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ranney",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Griffeth",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Jha",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "18",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "FDA issuances on evaluation, approval and use of COVID-19 test kits",
+            "authors": [
+                {
+                    "first": "Angangco",
+                    "middle": [],
+                    "last": "Villaraza",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Diagnostic performance of COVID-19 serology assays",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Rashid",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Othman",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mna",
+                    "middle": [],
+                    "last": "Samat",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Malaysian J Pathol",
+            "volume": "42",
+            "issn": "1",
+            "pages": "13--21",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Origin and evolution of pathogenic coronaviruses",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cui",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z-L",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Nat Rev Microbiol",
+            "volume": "17",
+            "issn": "3",
+            "pages": "181--92",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan",
+            "authors": [
+                {
+                    "first": "Jf-W",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K-H",
+                    "middle": [],
+                    "last": "Kok",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Microbes Infect",
+            "volume": "9",
+            "issn": "1",
+            "pages": "221--257",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Genome composition and divergence of the novel coronavirus (2019-nCoV) originating in China",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell Host Microbe",
+            "volume": "27",
+            "issn": "3",
+            "pages": "325--333",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Cross-species transmission of the newly identified coronavirus 2019-nCoV",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Ji",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zai",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "92",
+            "issn": "4",
+            "pages": "433--473",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Global Surveillance for human infection with coronavirus disease (COVID-2019), interim guidance",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "SARS-CoV-2 genomes from Nigeria reveal community transmission, multiple virus lineages and spike protein mutation associated with higher transmission and pathogenicity",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Happi",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ihekweazu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Oluniyi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Profile of specific antibodies to SARS-CoV-2: The first report",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Infect",
+            "volume": "81",
+            "issn": "1",
+            "pages": "147--78",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Serological tests for COVID-19. Ottawa: CADTH; 2020 ( CADTH Horizon Scan",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Morrison",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Loshak",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "188",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Antibody Responses to SARS-CoV-2 in Patients With Novel Coronavirus Disease",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Clin Infect Dis",
+            "volume": "71",
+            "issn": "16",
+            "pages": "2027--2061",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/ciaa344"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Antibody responses to SARS-CoV-2 in patients with COVID-19",
+            "authors": [
+                {
+                    "first": "Q",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Deng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat Med",
+            "volume": "26",
+            "issn": "6",
+            "pages": "845--853",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Development and clinical application of a rapid IgM-IgG combined antibody test for SARS-CoV-2 infection diagnosis",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yi",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "92",
+            "issn": "9",
+            "pages": "1518--1542",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Evaluation of a COVID-19 IgM and IgG rapid test; an efficient tool for assessment of past exposure to SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hoffman",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Nissen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Krambrich",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Infect Ecol Epidemiol",
+            "volume": "10",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Evaluation by indirect immunofluorescent assay and enzyme linked immunosorbent assay of the dynamic changes of serum antibody responses against severe acute respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Mo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Ren",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Chin Med J",
+            "volume": "118",
+            "issn": "6",
+            "pages": "446--50",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Disappearance of antibodies to SARS-associated coronavirus after recovery",
+            "authors": [
+                {
+                    "first": "W-C",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P-H",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Richardus",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "N Engl J Med",
+            "volume": "357",
+            "issn": "11",
+            "pages": "1162--1165",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Diagnostic value and dynamic variance of serum antibody in coronavirus disease 2019",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Jin",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zuo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Infect Dis",
+            "volume": "94",
+            "issn": "",
+            "pages": "49--52",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Profiling early humoral response to diagnose novel coronavirus disease (COVID-19)",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Infect Dis",
+            "volume": "71",
+            "issn": "15",
+            "pages": "778--85",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/ciaa310"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "The regulation of IgA class switching",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Cerutti",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Nat Rev Immunol",
+            "volume": "8",
+            "issn": "6",
+            "pages": "421--455",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "T-cell-independent antiviral antibody responses",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Szomolanyi-Tsuda",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Welsh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Curr Opin Immunol",
+            "volume": "10",
+            "issn": "4",
+            "pages": "431--436",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Evaluation of nucleocapsid and spike protein-based enzyme-linked immunosorbent assays for detecting antibodies against SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Kou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Clin Microbiol",
+            "volume": "58",
+            "issn": "6",
+            "pages": "461--481",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "A serological assay to detect SARS-CoV-2 seroconversion in humans",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Amanat",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Stadlbauer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Strohmeier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat Med",
+            "volume": "26",
+            "issn": "7",
+            "pages": "1033--1039",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Severe acute respiratory syndrome coronavirus 2-specific antibody responses in coronavirus disease patients",
+            "authors": [
+                {
+                    "first": "Nma",
+                    "middle": [],
+                    "last": "Okba",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Infect Dis",
+            "volume": "26",
+            "issn": "7",
+            "pages": "1478--88",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Molecular and serological investigation of 2019-nCoV infected patients: implication of multiple shedding routes",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R-H",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Microb Infect",
+            "volume": "9",
+            "issn": "",
+            "pages": "386--395",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Antibodies in Infants Born to Mothers With COVID-19 Pneumonia",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "323",
+            "issn": "18",
+            "pages": "1848--1857",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2020.4861"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Waiting for certainty on Covid-19 antibody tests -at what cost?",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Weinstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Freedberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Hyle",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Paltiel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "383",
+            "issn": "6",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Test performance evaluation of SARS-CoV-2 serological assays. medRxiv",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Whitman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hiatt",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Mowery",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.04.25"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Coronavirus Antibody Tests: Can You Trust the Results? The New York Times",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mandavilli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Evaluation of nine commercial SARS-CoV-2 immunoassays",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Lassauni\u00e8re",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Frische",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Harboe",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.04.09.20056325"
+                ]
+            }
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Assessment of SARS-CoV-2 serological tests for the diagnosis of COVID-19 through the evaluation of three immunoassays: Two automated immunoassays (Euroimmun and Abbott) and one rapid lateral flow immunoassay",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Nicol",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lefeuvre",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Serri",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Evaluations of the serological test in the diagnosis of 2019 novel coronavirus (SARS-CoV-2) infections during the COVID-19 outbreak",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Eur J Clin Microbiol Infect Dis",
+            "volume": "39",
+            "issn": "12",
+            "pages": "2271--2278",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s10096-020-03978-6"
+                ]
+            }
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Clinical evaluation of serological IgG antibody response on the Abbott Architect for established SARS-CoV-2 infection",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Chew",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Saw",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Microbiol Infect",
+            "volume": "26",
+            "issn": "9",
+            "pages": "1256--1265",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "SARS-CoV-2 antibody characterization in emergency department, hospitalized and convalescent patients by two semi-quantitative immunoassays",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Racine-Brzostek",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Chim Acta",
+            "volume": "509",
+            "issn": "",
+            "pages": "117--142",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Clinical Evaluation of Self-Collected Saliva by Quantitative Reverse Transcription-PCR (RT-qPCR), Direct RT-qPCR, Reverse Transcription-Loop-Mediated Isothermal Amplification, and a Rapid Antigen Test To Diagnose COVID-19",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nagura-Ikeda",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Imai",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tabata",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Clin Microbiol",
+            "volume": "58",
+            "issn": "9",
+            "pages": "1438--1458",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.01438-20"
+                ]
+            }
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Performance characteristics of five immunoassays for SARS-CoV-2: a head-to-head benchmark comparison",
+            "authors": [],
+            "year": 2020,
+            "venue": "Lancet Infect Dis",
+            "volume": "20",
+            "issn": "12",
+            "pages": "1390--1400",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(20)30634-4"
+                ]
+            }
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Performance characteristics of four high-throughput immunoassays for detection of IgG antibodies against SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Theel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Harring",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hilgart",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Granger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Clin Microb",
+            "volume": "58",
+            "issn": "",
+            "pages": "1243--1263",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JCM.01243-20"
+                ]
+            }
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Towards the next phase: evaluation of serological assays for diagnostics and exposure assessment",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Geurtsvankessel",
+                    "suffix": ""
+                },
+                {
+                    "first": "Okba",
+                    "middle": [],
+                    "last": "Nma",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Igloi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.04.23.20077156"
+                ]
+            }
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Members of the San Matteo Pavia COVID-19 Task Force",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Cassaniti",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Novazzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Giardina",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Performance of VivaDiag COVID",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Rapid Test is inadequate for diagnosis of COVID-19 in acute patients referring to emergency room department",
+            "authors": [
+                {
+                    "first": "/",
+                    "middle": [],
+                    "last": "Igm",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Igg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "92",
+            "issn": "10",
+            "pages": "1724--1731",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.25800"
+                ]
+            }
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Evaluation of novel antigenbased rapid detection test for the diagnosis of SARS-CoV-2 in respiratory samples",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Porte",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Legarraga",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Vollrath",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Infect Dis",
+            "volume": "99",
+            "issn": "",
+            "pages": "328--361",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Serological immunochromatographic approach in diagnosis with SARS-CoV-2 infected COVID-19 patients",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Infect",
+            "volume": "81",
+            "issn": "1",
+            "pages": "28--32",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.jinf.2020.03.051"
+                ]
+            }
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Point-of-care serological assays for SARS-CoV-2 in a UK hospital population: potential for enhanced case",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Pallett",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Denny",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Patel",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.21203/rs.3.rs-28006/v1"
+                ]
+            }
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Reliability and usefulness of a rapid IgM-IgG antibody test for the diagnosis of SARS-CoV-2 infection: A preliminary report",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Spicuzza",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Montineri",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Manuele",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Infect",
+            "volume": "81",
+            "issn": "",
+            "pages": "53--57",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Four point-of-care lateral flow immunoassays for diagnosis of COVID-19 and for assessing dynamics of antibody responses to SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "J-L",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W-P",
+                    "middle": [],
+                    "last": "Tseng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C-H",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Infect",
+            "volume": "81",
+            "issn": "",
+            "pages": "435--477",
+            "other_ids": {}
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Molecular and antibody point-of-care tests to support the screening, diagnosis and monitoring of COVID-19. The Centre for Evidence-based Medicine",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Graziadio",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Turner",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Combined point of care SARS-CoV-2 nucleic acid and antibody testing in suspected moderate to severe COVID-19 disease",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Mlcochova",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Collier",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Ritchie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell Reports Medicine",
+            "volume": "1",
+            "issn": "6",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Diagnostic performance of seven rapid IgG/IgM antibody tests and the Euroimmun IgA/IgG ELISA in COVID-19 patients",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Van Elslande",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Houben",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Depypere",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Microbiol Infect",
+            "volume": "26",
+            "issn": "",
+            "pages": "1082--1089",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Performance of six SARS-CoV-2 immunoassays in comparison with microneutralisation",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "J\u00e4\u00e4skel\u00e4inen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kuivanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kek\u00e4l\u00e4inen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Clin Virol",
+            "volume": "129",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Clinical performance of different SARS-CoV-2 IgG antibody tests",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kohmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Westhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "R\u00fchl",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ciesek",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Rabenau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "92",
+            "issn": "10",
+            "pages": "2243--2250",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/jmv.26145"
+                ]
+            }
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Evaluation of two automated and three rapid lateral flow immunoassays for the detection of anti-SARS-CoV-2 antibodies",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Montesinos",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gruson",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Kabamba",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Clin Virol",
+            "volume": "128",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Antibody testing for COVID-19: a report from the national COVID scientific advisory panel",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Adams",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ainsworth",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Anand",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "medRxiv.2020.04.15.20066407.doi:https:/doi.org/10.1101/2020.04.15.20066407"
+                ]
+            }
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "SARS-CoV-2 infection serology: a useful tool to overcome lockdown?",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nuccetelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Pieri",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Grelli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell Death Discov",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "Alltest rapid lateral flow immunoassays is reliable in diagnosing SARS-CoV-2 infection from 14 days after symptom onset: A prospective single-center study",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "P\u00e9rez-Garc\u00eda",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "P\u00e9rez-Tanoira",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Romanyk",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Arroyo",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "G\u00f3mez-Herruz",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cuadros-Gonz\u00e0lez",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Clin Virol",
+            "volume": "129",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "Antibody detection and dynamic characteristics in patients with coronavirus disease 2019",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clini Infect Dis",
+            "volume": "71",
+            "issn": "",
+            "pages": "1930--1934",
+            "other_ids": {}
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "Evaluation of commercial and automated SARS-CoV-2 IgG and IgA ELISAs using coronavirus disease (COVID-19) patient samples",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "J\u00e4\u00e4skel\u00e4inen",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Kek\u00e4l\u00e4inen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kallio-Kokko",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Eurosurveillance",
+            "volume": "25",
+            "issn": "18",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2807/1560-7917.ES.2020.25.18"
+                ]
+            }
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Sensitivity of commercial Anti-SARS-CoV-2 serological assays in a highprevalence setting",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Ostermann",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Walker",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "medRxiv.2020.06.11.20128686.doi:https:/doi.org/10.1101/2020.06.11.20128686"
+                ]
+            }
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Brief clinical evaluation of six high-throughput SARS-CoV-2 IgG antibody assays",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Kohmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Westhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "R\u00fchl",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ciesek",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Rabenau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Clin Virol",
+            "volume": "129",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "Monitoring antibody response following SARS-CoV-2 infection: Diagnostic efficiency of four automated immunoassays",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Wolff",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Dahma",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Duterme",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Diagn Microbiol Infect Dis",
+            "volume": "98",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF64": {
+            "ref_id": "b64",
+            "title": "Evaluation of ELISA tests for the qualitative determination of IgG, IgM and IgA to SARSCoV-2. medRxiv preprint",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Francesca",
+                    "suffix": ""
+                },
+                {
+                    "first": "Alessandra",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Daniele",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.05.24.20111682"
+                ]
+            }
+        },
+        "BIBREF65": {
+            "ref_id": "b65",
+            "title": "Evaluation of the EUROIM-MUN Anti-SARS-CoV-2 ELISA Assay for detection of IgA and IgG antibodies",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Beavis",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Matushek",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Abeleda",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Clin Virol",
+            "volume": "129",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF66": {
+            "ref_id": "b66",
+            "title": "Diagnostic accuracy of an automated chemiluminescent immunoassay for anti-SARS-CoV-2 IgM and IgG antibodies: an Italian experience",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Infantino",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Grossi",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Lari",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Med Virol",
+            "volume": "92",
+            "issn": "",
+            "pages": "1671--1676",
+            "other_ids": {}
+        },
+        "BIBREF67": {
+            "ref_id": "b67",
+            "title": "COVID-19 diagnosis and study of serum SARS-CoV-2 specific IgA, IgM and IgG 2 by a quantitative and sensitive immunoassay. medRxiv preprint",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.04.17.20064907"
+                ]
+            }
+        },
+        "BIBREF68": {
+            "ref_id": "b68",
+            "title": "Development and multicenter performance evaluation of fully automated SARS-CoV-2 IgM and IgG immunoassays",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Qian",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Chem Lab Med",
+            "volume": "58",
+            "issn": "9",
+            "pages": "1601--1608",
+            "other_ids": {
+                "DOI": [
+                    "10.1515/cclm-2020-0548"
+                ]
+            }
+        },
+        "BIBREF69": {
+            "ref_id": "b69",
+            "title": "Longitudinal monitoring of SARS-CoV-2 IgM and IgG seropositivity to detect COVID-19",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Suhandynata",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Hoffman",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Keiner",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Mclawhon",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Reed",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Fitzgerald",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J App Lab Med",
+            "volume": "5",
+            "issn": "",
+            "pages": "908--928",
+            "other_ids": {}
+        },
+        "BIBREF70": {
+            "ref_id": "b70",
+            "title": "IgA-Ab response to spike glycoprotein of SARS-CoV-2 in patients with COVID-19: A longitudinal study",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Padoan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sciacovelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Basso",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clinica Chimica Acta",
+            "volume": "507",
+            "issn": "",
+            "pages": "164--170",
+            "other_ids": {}
+        },
+        "BIBREF71": {
+            "ref_id": "b71",
+            "title": "Kinetics of SARS-CoV-2 specific IgM and IgG responses in COVID-19 patients",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Mo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Microb Infect",
+            "volume": "9",
+            "issn": "1",
+            "pages": "940--948",
+            "other_ids": {}
+        },
+        "BIBREF72": {
+            "ref_id": "b72",
+            "title": "Antibody responses to SARS-CoV-2 in patients with COVID-19",
+            "authors": [
+                {
+                    "first": "Q-X",
+                    "middle": [],
+                    "last": "Long",
+                    "suffix": ""
+                },
+                {
+                    "first": "B-Z",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H-J",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nat Med",
+            "volume": "26",
+            "issn": "6",
+            "pages": "845--853",
+            "other_ids": {}
+        },
+        "BIBREF73": {
+            "ref_id": "b73",
+            "title": "Analytical performances of a chemiluminescence immunoassay for",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Padoan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cosma",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sciacovelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Faggian",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Plebani",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF75": {
+            "ref_id": "b75",
+            "title": "Detection of IgM and IgG antibodies in patients with coronavirus disease 2019",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hou",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Transl Immunol",
+            "volume": "9",
+            "issn": "5",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "on the small sample size nature of this study, it is not conclusive as to which antibodies are the most abundant and to which viral proteins (N and S) are most targeted based on the observed dissimilarities in the time frame and viral protein target of the immune response against SARS-",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Abbreviations: NA b , not available; POS, postonset of symptoms. Note: All computed days were POS.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "All computed values were POS.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "al. 69 Diazyme DZ-LITE 2019-nCoV IgG (CLIA) assay kit (cat. # 130219015M)/IgM (CLIA) assay kit (cat. CLIA, chemiluminescence immunoassay; NA b , not available; POS, postonset of symptoms; RBD, receptor-binding domain.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Diagnostic performance of point-of-care test serological protocol from published data NA b b. All kits were not tested uniformly with the same number of control sera reported from acute COVID-19 samples could be considered for clinical use (in conjunction with clinical presentations of patients).",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Diagnostic monitoring of immunoglobulins by point-of-care test serological protocol from published data Clungene COVID-19 IgG/IgM rapid test",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF5": {
+            "text": "Diagnostic monitoring of immunoglobulins by ELISA test serological protocol from published data Citation Product name/source Zhao et al. 17 COVID-19 ELISA kit (Beijing Wantai Biological Pharmacy Enterprise Co. Ltd) Xiang et al. 59 Sandwich ELISA kit (Livzon Inc., Zhuhai, China, lot numbers 20200308 [IgM] and 20200308 [IgG])",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "Sun et al.71 In-house ELISA produced using N protein (residue1-419) from baculovirus insect cells (cat. # 40588-V08B, Sino biological, Beijing, China) and S protein (residue 16-685) from HEK293 cells (cat. #40591-V08H, Sino biological, Beijing, China)",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF7": {
+            "text": "Continued.Qian et al.68 CLIA test kit Shenzhen YHLO Biotech Co., Ltd (China)",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors greatly appreciate Gabriel Ilerioluwa Oke for proofreading and copyediting parts of the manuscript.Funding: None received.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements:"
+        },
+        {
+            "text": "Ethical approval: Not applicable (this is a review article).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests: None."
+        },
+        {
+            "text": "This study being a review article, the data presented in the results section and in discussing our main findings are well referenced. However, raw data will be made available on request through the corresponding author (I.N. Abdullahi).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data availability:"
+        },
+        {
+            "text": "Given the varied performance characteristics of all the serological assays, there is a need to continuously improve their detection thresholds, as well as to monitor and re-evaluate their performances to ensure their significance and applicability for COVID-19 clinical and epidemiological purposes. When found satisfactory, their use will be imperative for scaling up COVID-19 testing in the face of the economic downturn in resource-limited countries. It is recommended that public institutions, private firms, researchers and healthcare policymakers consider the development and evaluation of alternative means of reducing the current PCR test turnaround time and improving the test capacity of serological tests to secure improved epidemiological data for SARS-CoV-2. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        }
+    ]
+}

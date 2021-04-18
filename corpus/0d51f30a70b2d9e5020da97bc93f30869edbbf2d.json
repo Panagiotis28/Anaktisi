@@ -1,0 +1,1759 @@
+{
+    "paper_id": "0d51f30a70b2d9e5020da97bc93f30869edbbf2d",
+    "metadata": {
+        "title": "Heart failure with preserved ejection fraction in coronavirus disease 2019 patients: the promising role of diuretic therapy in critically ill patients",
+        "authors": [
+            {
+                "first": "Mitra",
+                "middle": [],
+                "last": "Chitsazan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Iran University of Medical Sciences",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ahmad",
+                "middle": [],
+                "last": "Amin",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Iran University of Medical Sciences",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mandana",
+                "middle": [],
+                "last": "Chitsazan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard Medical School",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Naghmeh",
+                "middle": [],
+                "last": "Ziaie",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Babol University of Medical Sciences",
+                    "location": {
+                        "settlement": "Babol",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Parviz",
+                "middle": [
+                    "Amri"
+                ],
+                "last": "Maleh",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Babol University of Medical Sciences",
+                    "location": {
+                        "settlement": "Babol",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Hamidreza",
+                "middle": [],
+                "last": "Pouraliakbar",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Iran University of Medical Sciences",
+                    "location": {
+                        "settlement": "Tehran",
+                        "country": "Iran"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Stephan",
+                "middle": [
+                    "Von"
+                ],
+                "last": "Haehling",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of G\u00f6ttingen Medical Center",
+                    "location": {
+                        "settlement": "G\u00f6ttingen",
+                        "country": "Germany, Iran"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The impact of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) on diastolic function is less known. We describe a 46-year-old man with a history of mild hypertension who presented to the emergency department with fever, cough, and myalgia for 2 days. The patient was tested positive for SARS-CoV-2. He was admitted and started on a combination of antiviral and antimicrobial therapy. He developed respiratory distress 2 days later, and O 2 saturation declined. Blood tests showed an increased N-terminal pro-B type natriuretic peptide (NT-proBNP) level, and echocardiography showed normal left ventricular ejection fraction and E/e\u2032 ratio of 16. Computed tomography scan showed interstitial pulmonary oedema and prominent peripheral pulmonary vascular markings. Given these findings, heart failure with preserved ejection fraction (HFpEF) was considered. Low-dose diuretic was started, and fluid administration was restricted, resulting in a decrease in NT-proBNP level, clinical and haemodynamic stabilization, and improved oxygenation. This case highlights the occurrence of HFpEF in coronavirus disease 2019.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "In late December 2019, a novel coronavirus, referred to as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), emerged in Wuhan, China 1 and rapidly spread worldwide. The coronavirus disease 2019 (COVID-19) outbreak was declared by the World Health Organization (WHO) a Public Health Emergency of International Concern on 30 January 2020 and a pandemic on 11 March 2020. 2, 3 In most cases, SARS-CoV-2 infection causes mild upper respiratory infection, and even in some cases, it may be asymptomatic. However, in a subset of patients, it causes a severe pneumonia, which may rapidly progress to acute respiratory distress syndrome (ARDS) causing respiratory failure, septic shock, multi-organ failure, and eventually death. 4 Herein, we describe a 46-year-old man with a previous history of mild hypertension who presented with progressive respiratory compromise disproportionate to the direct pulmonary involvement by the SARS-CoV-2 infection. In further evaluation, the patient was found to have heart failure with preserved ejection fraction (HFpEF), which was successfully managed with fluid restriction and diuretics.",
+            "cite_spans": [
+                {
+                    "start": 381,
+                    "end": 383,
+                    "text": "2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 384,
+                    "end": 385,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 734,
+                    "end": 735,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "This case highlights the contribution of diastolic dysfunction in respiratory compromise of critically ill patients with COVID-19 and describes the promising role of diuretics in successful management of hypoxia in these patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "A 46-year-old man with a 4-year history of mild hypertension presented to the emergency department with fever, cough, and myalgia that had started 2 days ago. Past medial history was otherwise unremarkable. On arrival, physical examination showed a blood pressure of 110/70 mmHg, heart rate of 80 b.p.m., respiratory rate of 15 respiration per minute, oxygen saturation of 98% while breathing ambient air, and a temperature of 38\u00b0C. Electrocardiography was unremarkable. On initial chest X-ray, bilateral and peripheral opacities were seen (most prominent in lower lobes). No sign of pulmonary oedema was evident, and cardiothoracic ratio was normal. Blood tests revealed white blood cell count of 7200/nL (lymphocyte 14% and polymorphonuclear cells 80%), haemoglobin 11 g/dL, platelet 192 000/nL, erythrocyte sedimentation rate (ESR) of 70 mm/h, high-sensitivity C-reactive protein (hs-CRP) of 14 mg/L, and N-terminal pro-B type natriuretic peptide (NT-proBNP) of <20 pg/mL (reference range < 125 pg/mL). A nasopharyngeal swab was performed with a positive result for SARS-CoV-2 on real-time reverse transcriptase-polymerase chain reaction assay. The patient was admitted, and according to our local clinical standards, a combination of antivirals [oseltamivir (75 mg oral every 12 h) and lopinavir/ritonavir (400/100 mg oral every 12 h)] and antibiotics [ceftriaxone (1 g intravenous daily) and linezolid (600 mg oral every 12 h)] was started. Considering the patient's loss of appetite and nausea, leading to poor oral intake, as well as insensible water loss due to fever, fluid therapy with crystalloids was also initiated and the patient had a net positive fluid balance of 500-600 mL in the first 2 days. During this time period, his haemodynamic status was stable, and no significant changes were seen in his vital signs.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Case report"
+        },
+        {
+            "text": "Two days later, the patient developed respiratory distress (respiratory rate of 25 respirations per minute), and O 2 saturation declined to 85%. The patient was started on high-dose oxygen (8-10 L/min) delivered through a face mask with reservoir bag, which did not improve oxygen saturation. After 2 h, the patient was started on non-invasive ventilation, that is, bilevel positive airway pressure (BiPAP). His blood pressure was 140/90 mmHg, and the temperature remained at 38\u00b0C. Blood tests showed white blood cell count of 12 660/nL (polymorphonuclear cells 88.5%, lymphocytes 5.8%, and monocytes 5.5%), haemoglobin of 12.2 g/dL, platelet of 311 000/nL, ESR of 100 mm/h, hs-CRP of 70 mg/L, troponin I of 0.08 ng/mL (reference range < 0.4 ng/mL), NT-proBNP level of 1262 pg/mL (reference range < 125 pg/mL), interleukin-6 (IL-6) of 5.8 pg/mL (reference range: 0-16.4 pg/mL), and D-dimer of 1080 ng/mL (reference range <500 ng/mL). Measurement of troponin I level was repeated after 1 and 6 h, which was both negative. Given the rise in NT-proBNP, a focus cardiac ultrasound examination was performed for detecting gross abnormalities in cardiac function, which was notable for left ventricular ejection fraction of 50%, normal left atrial size, septal wall thickness of 14 mm, a grade II diastolic dysfunction, and E/e\u2032 ratio of 16. No regional wall motion abnormality was noted on echocardiography. Echocardiographic examination was otherwise normal. In addition to peripheral ground-glass opacities and consolidations in lower lobes (common X-ray findings in COVID-19 infection), chest computed tomography (CT) scan showed increased interlobular septal thickening, some centrally located ground-glass opacities, and prominent peripheral pulmonary vascular markings, which were suggestive of interstitial pulmonary oedema ( Figure 1) . Given the CT scan findings, and disproportionate extent of pulmonary involvement with inflammatory markers including IL-6 level, as well as the rise in NT-proBNP level, HFpEF was considered in the differential diagnosis for respiratory deterioration. Therefore, low-dose furosemide (intravenous 40 mg every 12 h) and spironolactone (25 mg oral daily) was started for him, and fluid administration was restricted with the aim of creating a negative fluid balance of 300-500 mL per day. Upon starting diuretics (within a few hours), O 2 saturation rose to above 90%, and non-invasive ventilation (i.e. BiPAP) was then used intermittently. After 4 days of treatment, the NT-proBNP level declined to 451 pg/mL; the patient's clinical and haemodynamic status improved dramatically, and non-invasive ventilation was discontinued, despite continuing previous antivirals and other supportive measures.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1828,
+                    "end": 1837,
+                    "text": "Figure 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Case report"
+        },
+        {
+            "text": "We describe a patient with a 4-year history of mild hypertension admitted to the hospital with COVID-19 and deteriorating respiratory status. Our case highlights the possibility of impaired myocardial relaxation as a predominant form of cardiac involvement in critically ill COVID-19 patients, and the importance of fluid restriction and/or diuretic therapy in the management of hypoxia in these patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The most common symptoms reported among patients with COVID-19 are fever, fatigue, and dry cough, followed by myalgia and shortness of breath. 4,5 Less common symptoms include headache and gastrointestinal complains such as nausea, vomiting, and diarrhoea. 4,5 Among hospitalized patients, approximately 50% develop hypoxemia by Day 8, and ARDS develops in 17-29% of patients. 6 In a recent analysis of the experience in China, the case fatality rate in COVID-19 has been reported as 1.38% (0.66% if asymptomatic cases are included). 6 Older people and those with co-morbidities such as diabetes, chronic kidney disease, hypertension, and cardiovascular diseases appear to develop more severe forms of the disease and seem to be at higher risk of death. 5 As SARS-CoV-2 viruses use membrane-bound angiotensin-converting enzyme HFpEF in COVID-19 2 (ACE2) as entrance portal into lung alveolar epithelial cells, much of the high fatality rate may be due to an increase in angiotensin II levels. Indeed, the cardioprotective ACE2 normally converts part of the angiotensin II present in plasma into angiotensin (1-7), which has vasodilating properties, but is lost with the binding to SARS-CoV-2 as shuttle into the cell. [7] [8] [9] [10] In critically ill patients, leukocytosis, lymphopenia, and increases in D-dimer, lactate dehydrogenase, creatine phosphokinase, C-reactive protein, troponin, and ferritin levels are suggestive of poor prognosis. 5 Although the lower respiratory tract is the major site of involvement in patients with COVID-19, a range of cardiac complications, from myocarditis to arrhythmia and acute cardiac injury, have also been reported. 4, 5, [11] [12] [13] [14] A few possible mechanisms may play a role in cardiac involvement in COVID-19 patients, including the following:",
+            "cite_spans": [
+                {
+                    "start": 377,
+                    "end": 378,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 534,
+                    "end": 535,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1218,
+                    "end": 1221,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1222,
+                    "end": 1225,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1226,
+                    "end": 1229,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1230,
+                    "end": 1234,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1447,
+                    "end": 1448,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1662,
+                    "end": 1664,
+                    "text": "4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1665,
+                    "end": 1667,
+                    "text": "5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1668,
+                    "end": 1672,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1673,
+                    "end": 1677,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 1678,
+                    "end": 1682,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1683,
+                    "end": 1687,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "1 Direct invasion of the myocardium by the virus, causing myocarditis. Although this has not been proven in SARS-CoV-2 infection, this potential mechanism has been suggested based on a murine model that has demonstrated that respiratory infection with SARS-CoV could precipitate ACE2-dependent myocardial infection. 15 2 Myocardial injury due to inflammation caused by high levels of circulating cytokines yielding a cytokine storm. 16 3 Type II myocardial ischemia/infarction due to increased oxygen demand in critically ill patients. 4 Microthrombi in the coronary microcirculation may develop as a consequence of hypercoagulability that is described in COVID-19 patients. 17",
+            "cite_spans": [
+                {
+                    "start": 433,
+                    "end": 435,
+                    "text": "16",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In addition to the above mechanisms, and in accordance with a recent article by Mehra and Ruschitzka, 18 we believe that the possibility of abnormal myocardial relaxation has been overlooked in patients with COVID-19. A range of chronic diastolic impairment is expectable in the elderly, as well as in patients with diabetes, coronary artery disease, structural heart disease, and, in particular, patients with chronic hypertension. The myocardial relaxation abnormalities in these patients may range from asymptomatic elevations in cardiac filling pressures to fully manifested HFpEF. Figure 1 Chest computed tomography scan performed on Day 3 of admission when patient developed respiratory distress (A-C: multiple sections on axial lung window). Multifocal ground-glass pulmonary opacities are seen in bilateral lungs in which some of them change to consolidation in both lower lobes. These features are highly suggestive for coronavirus disease 2019 pneumonia. Increased interlobular septal thickening and some of the central ground-glass pulmonary opacities are suggestive of interstitial pulmonary oedema due to heart failure. Minimal bilateral pleural effusion is also seen.",
+            "cite_spans": [
+                {
+                    "start": 102,
+                    "end": 104,
+                    "text": "18",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 586,
+                    "end": 594,
+                    "text": "Figure 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "In the setting of COVID-19, myocardial injury and/or cytokineinduced inflammation may further impair myocardial relaxation in these patients with chronic diastolic dysfunction, particularly if patients are receiving large volumes of intravenous fluids. Of note, in any acute illness such as COVID-19, severe diastolic dysfunction may also develop acutely in previously normal-functioning hearts, known as de novo acute heart failure. Whatever the underlying pathophysiology, impaired relaxation would, in turn, raise intracardiac filling pressures and add a cardiogenic contribution to the existing pulmonary oedema, aggravating the pre-existing hypoxia. Rigorous fluid administration and/or concomitant medications such as non-steroidal anti-inflammatory drugs might also alter sodium and fluid balance in these patents, further deteriorating pulmonary oedema. This hypothesis might, at least to some extent, explain the severity and the higher mortality rate of COVID-19 among the elderly and among patients with hypertension, and might provide insights into the rationale behind the prognostic significance of high NT-proBNP despite normal systolic function. In addition, diastolic dysfunction has been reported with SARS and could be expected to occur with SARS-CoV-2, considering the similar pathogenicity. 19 Our case report suggests that the presence of elevated NT-pro-BNP should provoke a search for diastolic dysfunction, and diuretic therapy may dramatically improve hypoxia in critically ill patients, in particular in those in whom the severity of pneumonia and the serum levels of inflammatory markers do not explain the severity of hypoxia.",
+            "cite_spans": [
+                {
+                    "start": 1312,
+                    "end": 1314,
+                    "text": "19",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "However, it is worth noting that neither cardiac magnetic resonance imaging nor endomyocardial biopsy had been performed for our patient owing to limited personnel resources and equipment. For this reason, we might not be able to definitely exclude the possibility of myocarditis and to thoroughly investigate the pathophysiologic mechanism for diastolic dysfunction in this patient.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In conclusion, in the critical phase of COVID-19, diastolic dysfunction might ensue leading to pulmonary oedema that might be obscured by the concomitant pulmonary involvement and ARDS. Therefore, a superimposed cardiogenic component of the ARDS should be considered based on clinical grounds, in particular in patients with disproportionate severity of pneumonia and inflammatory markers with haemodynamic status and hypoxia, along with elevated natriuretic peptides. Intravenous fluid restriction and diuretic therapy are convenient and life-saving strategies, which might help in improving clinical and haemodynamic status of these patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "World Health Organization. Pneumonia of unknown cause-China",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "detail/30-01-2020-statement-on-the-second-meeting-of-theinternational-health-regulations",
+            "authors": [],
+            "year": 2005,
+            "venue": "Statement on the second meeting of the International Health Regulations",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "WHO Director-General's opening remarks at the media briefing on COVID-19-11",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jin",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan, China",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xiong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA",
+            "volume": "323",
+            "issn": "",
+            "pages": "1061--1069",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Coronavirus COVID-19 (SARS-CoV-2)",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Auwaerter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Structure, function, and antigenicity of the SARS-CoV-2 spike glycoprotein",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Walls",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Park",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Tortorici",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wall",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Mcguire",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Veesler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cell",
+            "volume": "181",
+            "issn": "",
+            "pages": "281--292",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Renin-angiotensin-aldosterone system inhibitors in patients with Covid-19",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vaduganathan",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Vardeny",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Michel",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jjv",
+                    "middle": [],
+                    "last": "Mcmurray",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Pfeffer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Solomon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "1653--1659",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Interactions of coronaviruses with ACE2, angiotensin II, and RAS inhibitors-lessons from HFpEF in COVID-19 available evidence and insights into COVID-19",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Kai",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Hypertens Res",
+            "volume": "43",
+            "issn": "",
+            "pages": "648--654",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Angiotensin-converting enzyme 2 (ACE2), SARS-CoV-2 and the pathophysiology of coronavirus disease 2019 (COVID-19)",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Bourgonje",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Abdulle",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Timens",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Hillebrands",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Navis",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Gordijn",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Bolling",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Dijkstra",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Voors",
+                    "suffix": ""
+                },
+                {
+                    "first": "Adme",
+                    "middle": [],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "Phj",
+                    "middle": [],
+                    "last": "Voort",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Mulder",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Goor",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Pathol",
+            "volume": "251",
+            "issn": "",
+            "pages": "228--248",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Association of cardiac injury with mortality in hospitalized patients with COVID-19 in",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Qin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Cai",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA Cardiol",
+            "volume": "5",
+            "issn": "",
+            "pages": "802--810",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Cardiac involvement in a patient with coronavirus disease 2019 (COVID-19)",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Inciardi",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lupi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zaccone",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Italia",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Raffo",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Tomasoni",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Cani",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cerini",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Farina",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Gavazzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Maroldi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Adamo",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Ammirati",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Sinagra",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Lombardi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Metra",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA Cardiol",
+            "volume": "5",
+            "issn": "",
+            "pages": "819--824",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Cardiovascular implications of fatal outcomes of patients with coronavirus disease 2019 (COVID-19)",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JAMA Cardiol",
+            "volume": "5",
+            "issn": "",
+            "pages": "811--818",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "China Medical Treatment Expert Group for Covid-19. Clinical characteristics of coronavirus disease 2019 in China",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Ou",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shan",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Lei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Dsc",
+                    "middle": [],
+                    "last": "Hui",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zeng",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Yuen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Qiu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ye",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Zhong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "1708--1720",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "SARS-Coronavirus modulation of myocardial ACE2 expression and inflammation in patients with SARS",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Oudit",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Kassiri",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Poutanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Penninger",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Butany",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Plasma inflammatory cytokines and chemokines in severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Lam",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Ip",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Lit",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Hui",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Chung",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Sung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Clin Exp Immunol",
+            "volume": "136",
+            "issn": "",
+            "pages": "95--103",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Difference of coagulation features between severe pneumonia induced by SARS-CoV2 and non-SARS-CoV2",
+            "authors": [
+                {
+                    "first": "Shm",
+                    "middle": [],
+                    "last": "Yin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Tang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Thromb Thrombolysis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "COVID-19 illness and heart failure: a missing link?",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mehra",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ruschitzka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "JACC Heart Fail",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Left ventricular performance in patients with severe acute respiratory syndrome: a 30-day echocardiographic follow-up study",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Fu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jwm",
+                    "middle": [],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Yiu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Circulation",
+            "volume": "108",
+            "issn": "",
+            "pages": "1798--1803",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {},
+    "back_matter": [
+        {
+            "text": "We wish to gratefully acknowledge the invaluable comments by Dr James Januzzi on this case report, which helped us improve the manuscript substantially. We would also like to thank all medical staff who are on the front line of the coronavirus pandemic around the world.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "None declared.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of interest"
+        }
+    ]
+}

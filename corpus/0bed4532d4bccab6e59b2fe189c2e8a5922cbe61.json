@@ -1,0 +1,2167 @@
+{
+    "paper_id": "0bed4532d4bccab6e59b2fe189c2e8a5922cbe61",
+    "metadata": {
+        "title": "Epidemiological Study of Betacoronaviruses in Captive Malayan Pangolins",
+        "authors": [
+            {
+                "first": "Matteo",
+                "middle": [],
+                "last": "Negroni",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Darren",
+                "middle": [],
+                "last": "Martin",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Vladimir",
+                "middle": [
+                    "N"
+                ],
+                "last": "Uversky",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "L",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Wang",
+                "middle": [
+                    "X"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hua",
+                "middle": [
+                    "Y"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Liu",
+                "middle": [
+                    "P"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Zhou",
+                "middle": [
+                    "J"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Chen",
+                "middle": [
+                    "J"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "An",
+                "middle": [
+                    "F"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hou",
+                "middle": [
+                    "F"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Huang",
+                "middle": [
+                    "W"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Linmiao",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Xiaohu",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Guangdong Key Laboratory of Animal Conservation and Resource Utilization, Guangdong Public Laboratory of Wild Animal Conservation and Utilization",
+                    "institution": "Guangdong Academy of Sciences",
+                    "location": {
+                        "settlement": "Guangzhou",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Yan",
+                "middle": [],
+                "last": "Hua",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Guangdong Provincial Key Laboratory of Silviculture, Protection and Utilization, Guangdong Academy of Forestry",
+                    "institution": "",
+                    "location": {
+                        "settlement": "Guangzhou",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ping",
+                "middle": [],
+                "last": "Liu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Guangdong Key Laboratory of Animal Conservation and Resource Utilization, Guangdong Public Laboratory of Wild Animal Conservation and Utilization",
+                    "institution": "Guangdong Academy of Sciences",
+                    "location": {
+                        "settlement": "Guangzhou",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jiabin",
+                "middle": [],
+                "last": "Zhou",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Guangdong Key Laboratory of Animal Conservation and Resource Utilization, Guangdong Public Laboratory of Wild Animal Conservation and Utilization",
+                    "institution": "Guangdong Academy of Sciences",
+                    "location": {
+                        "settlement": "Guangzhou",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jing",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Fuyu",
+                "middle": [],
+                "last": "An",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Guangdong Provincial Key Laboratory of Silviculture, Protection and Utilization, Guangdong Academy of Forestry",
+                    "institution": "",
+                    "location": {
+                        "settlement": "Guangzhou",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Fanghui",
+                "middle": [],
+                "last": "Hou",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Wenzhong",
+                "middle": [],
+                "last": "Huang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Guangdong Key Laboratory of Animal Conservation and Resource Utilization, Guangdong Public Laboratory of Wild Animal Conservation and Utilization",
+                    "institution": "Guangdong Academy of Sciences",
+                    "location": {
+                        "settlement": "Guangzhou",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jinping",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Guangdong Key Laboratory of Animal Conservation and Resource Utilization, Guangdong Public Laboratory of Wild Animal Conservation and Utilization",
+                    "institution": "Guangdong Academy of Sciences",
+                    "location": {
+                        "settlement": "Guangzhou",
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The coronavirus disease 2019 (COVID-19) outbreak has significantly affected international public health safety. It has been reported that the pathogen severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which causes COVID-19, could originate from bats and utilize the Malayan pangolin (Manis javanica) as an intermediate host.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "To gain further insights into the coronaviruses carried by pangolins, we investigated the occurrence of Betacoronavirus (\u03b2-CoV) infections in captive Malayan pangolins in the Guangdong province of China. We detected three \u03b2-CoV-positive M. javanica individuals with a positive rate of 6.98% and also detected \u03b2-CoV in two dead pangolins sampled in August 2019. The CoV carried by pangolins is a new \u03b2-CoV, which is genetically related to SARS-CoV-2. Furthermore, the expression of angiotensin-converting enzyme 2 (ACE2) was detected in eight organs of pangolins, with the highest ACE2 mRNA levels in the kidney, suggesting that these organs could be at a risk of \u03b2-CoV infection. These results enable us to better understand the status of \u03b2-CoV carried by Malayan pangolins, while providing a theoretical basis for better pangolin protection and viral control.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The emergence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2; provisionally named 2019 novel coronavirus or 2019-nCoV) has become a global challenge. The disease caused by SARS-CoV-2 was designated coronavirus disease 2019 (COVID-19) by the World Health Organization (WHO) Zhou F. et al., 2020; Zhu et al., 2020) and was defined as a public health emergency of international concern on January 30, 2020. As of January 18, 2021, data from the WHO have confirmed 93,194,922 cases of COVID-19, including 2,014,729 deaths, indicating that this is a major global threat to public health. Based on whole genome sequence comparison, Bat-CoV-RaTG13 from the bat, Rhinolophus affinis, colonized in China's Yunnan province, was found to be 96% identical to SARS-CoV-2, suggesting that SARS-CoV-2 could be of bat origin . However, direct contact between bats and humans is rare as discovered in the SARS-CoV and MERS-CoV epidemics (Drosten et al., 2003; Guan et al., 2003; Zaki et al., 2012; Cunha and Opal, 2014; Drosten et al., 2014; Sabir et al., 2016) ; therefore, it seems more likely that the virus transmission route involves a spillover of SARS-CoV-2 to humans through an intermediate host rather than direct transmission from bats.",
+            "cite_spans": [
+                {
+                    "start": 289,
+                    "end": 310,
+                    "text": "Zhou F. et al., 2020;",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 311,
+                    "end": 328,
+                    "text": "Zhu et al., 2020)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 936,
+                    "end": 958,
+                    "text": "(Drosten et al., 2003;",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 959,
+                    "end": 977,
+                    "text": "Guan et al., 2003;",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 978,
+                    "end": 996,
+                    "text": "Zaki et al., 2012;",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 997,
+                    "end": 1018,
+                    "text": "Cunha and Opal, 2014;",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1019,
+                    "end": 1040,
+                    "text": "Drosten et al., 2014;",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 1041,
+                    "end": 1060,
+                    "text": "Sabir et al., 2016)",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "The existence of an intermediate animal host of SARS-CoV-2 between the bat reservoir and humans is currently under investigation. Researchers discovered a Betacoronavirus (\u03b2-CoV) closely related to the newly emerged SARS-CoV-2 in a metagenomic dataset from sampled pangolins (Lam et al., 2020; Liu et al., 2020; Xiao et al., 2020; Zhang et al., 2020) . Furthermore, researchers believe that pangolins have the potential to act as an intermediate host of SARS-CoV-2, possibly from the recombination of a pangolin-CoV virus with a Bat-CoV-RaTG13 virus (Xiao et al., 2020) . However, whole genome sequence comparison revealed that pangolin and human viruses share 90.3% of their whole genome and that the cleavage site between S1 and S2 in SARS-CoV-2 had multiple insertions (i.e., PRRA) when compared with those of Bat-CoV-RaTG13 and pangolin-CoV-2020 (Lam et al., 2020; Liu et al., 2020) . Conversely, other researchers believe that pangolins may be a natural reservoir of SARS-CoV-2-like CoVs Zhang et al., 2020) ; however, there has been no evidence of coronavirus or other potentially zoonotic viral emergence from the Malayan pangolins (Manis javanica) entering the wildlife trade through Malaysia (Lee et al., 2020) . Nevertheless, pangolins are currently receiving extensive attention and debate over their role as potential hosts of SARS-CoV-2.",
+            "cite_spans": [
+                {
+                    "start": 275,
+                    "end": 293,
+                    "text": "(Lam et al., 2020;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 294,
+                    "end": 311,
+                    "text": "Liu et al., 2020;",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 312,
+                    "end": 330,
+                    "text": "Xiao et al., 2020;",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 331,
+                    "end": 350,
+                    "text": "Zhang et al., 2020)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 550,
+                    "end": 569,
+                    "text": "(Xiao et al., 2020)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 850,
+                    "end": 868,
+                    "text": "(Lam et al., 2020;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 869,
+                    "end": 886,
+                    "text": "Liu et al., 2020)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 993,
+                    "end": 1012,
+                    "text": "Zhang et al., 2020)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 1201,
+                    "end": 1219,
+                    "text": "(Lee et al., 2020)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Angiotensin-converting enzyme 2 (ACE2) is a metalloprotease that is widely found in the heart, liver, lung, kidney, gastrointestinal tract, and other major animal organs (Crackower et al., 2002; Harmer et al., 2002) . It plays a key role in regulating the heart and kidney functions and controlling blood pressure (Ingelfinger, 2009) . In a previous study on SARS-CoV and SARS-CoV-2, ACE2 was found to be the main functional receptor for the two viruses. It is likely that pangolin-CoV uses ACE2 as its receptor because pangolin-CoV-2020 has a conserved receptor-binding domain . Thus, it is important to understand which pangolin tissues are susceptible to \u03b2-CoV using ACE2 expression analysis.",
+            "cite_spans": [
+                {
+                    "start": 170,
+                    "end": 194,
+                    "text": "(Crackower et al., 2002;",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 195,
+                    "end": 215,
+                    "text": "Harmer et al., 2002)",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 314,
+                    "end": 333,
+                    "text": "(Ingelfinger, 2009)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Currently, the world is facing an outbreak of COVID-19. Controlling the COVID-19 pandemic and tracing the virus and its transmission are the key tasks faced by humanity. Although pangolins have attracted attention as potential hosts of SARS-CoV-2, and recent studies have reported \u03b2-CoV in confiscated diseased or dead pangolins (Liu et al., 2019; Lam et al., 2020) , \u03b2-CoV prevalence has not yet been reported in living and healthy pangolins. Therefore, an epidemiological investigation of \u03b2-CoVs in pangolins is needed. With this purpose in mind, the objectives of this study were to: (i) determine whether there is a relationship between pangolins and SARS-CoV-2 infections, and (ii) collect real-time data to help decision-making in the prevention and control of the pandemic.",
+            "cite_spans": [
+                {
+                    "start": 329,
+                    "end": 347,
+                    "text": "(Liu et al., 2019;",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 348,
+                    "end": 365,
+                    "text": "Lam et al., 2020)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "In February and March of 2020, a total of 43 captive pangolin individuals (41 Malayan pangolins and 2 Chinese pangolins) from the Wildlife Rescue Center of Dongguan, Shenzhen, and Shaoguan were investigated and sampled, as shown in Supplementary Table S1 . We used the non-destructive sampling to collect throat swab, anal swab, urine, feces, and environmental samples.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 232,
+                    "end": 254,
+                    "text": "Supplementary Table S1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Pangolin Sample Collection and Preparation"
+        },
+        {
+            "text": "Seven pangolin individuals (Supplementary Table S1 ), which were intercepted by Guangdong customs in July 2019, and later died, were sampled in August 2019. We collected 16 samples including 7 lungs, 5 lymph nodes, and 4 intestinal contents. Six of seven dead pangolins were tested for \u03b2-CoVs by viral metagenomics . The 16 samples were tested for \u03b2-CoVs by quantitative real-time polymerase chain reaction (qRT-PCR). Among the seven dead pangolins, three Malayan pangolin individuals were dissected in a sterile environment; samples, including the heart, liver, spleen, lung, kidney, stomach, lymph node, and pancreas, were used for qRT-PCR to determine the expression of ACE2 mRNA.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 42,
+                    "end": 50,
+                    "text": "Table S1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Pangolin Sample Collection and Preparation"
+        },
+        {
+            "text": "The samples were immediately placed in 2 mL polyethylene tubes (RNase-free) and stored in a liquid nitrogen tank. All samples were stored at \u221280 \u2022 C until nucleic acid extraction. All lab personnel were professionally trained and wore protective clothing to protect against biological agents before sample collection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Pangolin Sample Collection and Preparation"
+        },
+        {
+            "text": "Viral nucleic acid was extracted using a QIAamp R Viral RNA Mini Kit (Qiagen, Germany) after 112 samples were inactivated at 56 \u2022 C for 30 min. A total of 50 mg of each sample (24 tissue samples from three dead pangolins) were ground into powder and transferred to diethylpyrocarbonate-treated Eppendorf tubes before being volatilized using liquid nitrogen. Total RNA was extracted using 1 mL RNAsio Plus (Takara, Japan), and 1 \u00b5g cDNA was synthesized using the SuperScript III First-Strand Synthesis System (Invitrogen, United States).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RNA Extraction"
+        },
+        {
+            "text": "First, all samples were detected using the 2019-nCoV Nucleic Acid Test Kit (dual fluorescence method; Genekey, Shenzhen, China), which was designed based on the ORF1ab and N gene fragments of the SARS-CoV-2 genome. The selection criteria were as follows: Ct \u2264 35, positive; Ct > 40, negative; if 35 < Ct < 40, then the samples needed to be tested once again and were considered positive when the Ct value was < 40; otherwise, they were considered negative. Second, all samples were detected again using qRT-PCR using the primers and probe (N-F, 5 -GGGGAACTTCTCCTGCTAGAAT-3 ; N-R, 5 -CAGACATTTTGCTCTCAAGCTG-3 ; and N-P, 5 -FAM-TTGCTGCTGCTTGACAGATT-TAMRA-3 ) based on the N gene of new coronavirus nucleic acids as announced by the Chinese Center for Disease Control and Prevention of Viral Diseases. The Centers for Disease Control (CDC)positive plasmid combining the N gene sequence was synthesized at Sangon Biotech (Shanghai) Co., Ltd. by referring to the region of the viral genome. A 25 \u00b5L reaction was set up containing 5 \u00b5L of RNA, 12.5 \u00b5L of 2x reaction buffer, provided with the Superscript III one step RT-PCR system with Platinum Taq Polymerase (containing 0.4 mM of each deoxyribonucleotide triphosphates (dNTP) and 3.2 mM magnesium sulfate; Invitrogen, United States), 1 \u00b5L of reverse transcriptase/Taq mixture from the kit, 0.4 \u00b5L of a 50 mM magnesium sulfate solution (Invitrogen, United States), 1 \u00b5L of non-acetylated bovine serum albumin (1 mg/mL) (Roche, Switzerland), 2.6 \u00b5l H 2 O (RNase-free), 1 \u00b5L forward primer (10 \u00b5M), 1 \u00b5L reverse primer (10 \u00b5M), and 0.5 \u00b5L of probe (10 \u00b5M). Thermal cycling was performed at 50 \u2022 C for 2 min for reverse transcription, followed by 95 \u2022 C for 2 min, and 40 cycles of 95 \u2022 C for 15 s and 60 \u2022 C for 30 s. The selection criteria were as follows: Ct < 37, positive; Ct > 40, negative; if samples were 37 < Ct < 40, then they needed to be tested once again to be considered positive when the Ct value was below 40; otherwise, they were considered negative. Finally, the results of the two experiments were combined to determine the positivity or negativity of SARS-CoV-2 in pangolins.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quantitative Real-Time Polymerase Chain Reaction (qRT-PCR)"
+        },
+        {
+            "text": "qRT-PCR was used to determine the mRNA expression of ACE2 in different tissues of Malayan pangolins. The total volume of the qRT-PCR mixture was 20 \u00b5L, which included 10 \u00b5L 2x qPCR mixture (Takara, Japan), 0.5 \u00b5L of forward and reverse primers, 1 \u00b5L of template, with the remaining volume made up of nuclease-free water. The following procedure was used for amplification: 95 \u2022 C for 30 s, 40 cycles of 95 \u2022 C for 5 s, 60 \u2022 C for 34 s, and 95 \u2022 C for 15 s. \u03b2-actin was used as the internal control. The primers for pangolins were:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quantitative Real-Time Polymerase Chain Reaction (qRT-PCR)"
+        },
+        {
+            "text": "ACE2-F, 5 -GCGTATGAATGGAACGACAGT-3 ; ACE2-R, 5 -GAATGACGGCAGACACATTTT-3 ; \u03b2-actin-F, 5 -TGCCCATCTACGAAGGTTATG-3 ; and \u03b2-actin-R, 5 -GCA CAGCTTCTCCTTGATGTC-3 .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quantitative Real-Time Polymerase Chain Reaction (qRT-PCR)"
+        },
+        {
+            "text": "The expression of ACE2 mRNA was separately determined using the comparative CT (2 \u2212 CT ) method. The mean and standard deviation (M \u00b1 SD) were calculated from biological replicates. Statistical significance was measured using the independent samples t-test by SPSS 17.0 software.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Quantitative Real-Time Polymerase Chain Reaction (qRT-PCR)"
+        },
+        {
+            "text": "To confirm the positivity accuracy of the previously tested samples, we used RT-PCR with primers targeting against fragments from the N gene to the open reading frame (ORF)-10 gene of SARS-CoV-2 and pangolin-CoV. The specific primers were: P24F, 5 -AACTCAAGCCTTACCGCAGA-3 ; P24R, 5 -ATAGCCCATCTGCCTTGTGT-3 ; and size, 160 nucleotides (nt). A 25 \u00b5L reaction was set up, containing 12.5 \u00b5L PCR mix (Gentech, China), 10.5 \u00b5l double-distilled water (dd H 2 O), 1 \u00b5L template, 0.5 \u00b5L Primer P24F (10 \u00b5M), and 0.5 \u00b5L Primer P24R (10 \u00b5M). Thermal cycling was performed at 94 \u2022 C for 3 min, followed by 35 cycles at 94 \u2022 C for 30 s, 50 \u2022 C for 30 s, and 72 \u2022 C for 1 min, followed by 72 \u2022 C for 1 min. We used the template from a pangolin lung (individual number: L08) as a positive control (Liu et al., 2019) . PCR products were detected on 1.5% agarose gel and sequenced. These sequences were compared using MEGA X (Sudhir et al., 2018) . ",
+            "cite_spans": [
+                {
+                    "start": 783,
+                    "end": 801,
+                    "text": "(Liu et al., 2019)",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 909,
+                    "end": 930,
+                    "text": "(Sudhir et al., 2018)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "RT-PCR and Sequencing"
+        },
+        {
+            "text": "We downloaded 26 fragment sequences of N gene from GenBank (Supplementary Table S2 ). Phylogenetic analyses were performed based on their nucleotides using IQ-Tree (Nguyen et al., 2015) , and the evolutionary history was inferred by using the maximum likelihood method; the thread count and bootstrap values were 24 and 1,000, respectively.",
+            "cite_spans": [
+                {
+                    "start": 164,
+                    "end": 185,
+                    "text": "(Nguyen et al., 2015)",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 74,
+                    "end": 82,
+                    "text": "Table S2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Phylogenetic Analysis"
+        },
+        {
+            "text": "In February and March of 2020, we investigated the living conditions of pangolins in the Wildlife Rescue Centers of Dongguan, Shenzhen, and Shaoguan; all the pangolins were healthy and without pathological symptoms. Pangolin samples were randomly collected (Supplementary Table S1 ). The Ct values of three samples after two detections by qRT-PCR using the same primer were all less than 40, so three stool samples were positive; however, the Ct values of two samples after one detection using qRT-PCR were all less than 40, so two stool samples were suspected to be positive (Supplementary Table  S3 ). Meanwhile, one lymph node sample was positive and one intestinal content sample was suspected to be positive in two dead pangolin individuals. Finally, five of seven samples were identified as positive using RT-PCR and sequencing, including three feces (named DG13-3, DG14-3, DG18-3), one lymph node (named GZ1-2), and one intestinal content (named GZ5-2), from three healthy and two dead M. javanica individuals. The overall positivity rate was 10.00% for 50 pangolins individuals and 6.98% for the 43 living pangolin individuals.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 272,
+                    "end": 280,
+                    "text": "Table S1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 576,
+                    "end": 600,
+                    "text": "(Supplementary Table  S3",
+                    "ref_id": null
+                }
+            ],
+            "section": "Field Investigation and Test Results of Pangolins"
+        },
+        {
+            "text": "The N protein is a highly conserved and immunogenic phosphoprotein present in CoVs. Therefore, the CoV N protein has often been used as a marker in diagnostic assays. Phylogenetic analysis showed that the relationship of the five sequences (GenBank number: MT672412-MT672416) from positive samples were closer to the pangolin-CoV-MP789 carried by pangolin from Guangdong than SARS-CoV-2 (Figure 1) . The nucleotide sequence identities were 98.13-100% between five positive sequences and pangolin-CoV-MP789, as well as 93.75-95.63% between five positive sequences and SARS-CoV-2, respectively (Table 1) . Therefore, the CoV carried by pangolins is a new \u03b2-CoV with variation in nucleotides and amino acids among pangolin individuals (Figures 2A,B) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 387,
+                    "end": 397,
+                    "text": "(Figure 1)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 592,
+                    "end": 601,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 732,
+                    "end": 746,
+                    "text": "(Figures 2A,B)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Sequence Analysis of Positive Samples"
+        },
+        {
+            "text": "We investigated the mRNA expression levels of ACE2 in eight pangolin organs using qRT-PCR. We found that the mRNA expression levels of ACE2 were highest in the kidney; moreover, its expression levels were also high in the heart and spleen (Figure 3) . The relative mRNA expression levels in tissues relevant to SARS-CoV-2 infection, such as the lungs were 400-fold lower than those in the kidneys. Among these organs, pangolins exhibited the lowest mRNA levels in the lung, followed by the pancreas, lymph, and liver. Our results suggest that all these organs are at risk of infection by SARS-CoV-2 or pangolin-CoV.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 239,
+                    "end": 249,
+                    "text": "(Figure 3)",
+                    "ref_id": null
+                }
+            ],
+            "section": "mRNA Expression of ACE2 Gene"
+        },
+        {
+            "text": "Traceability studies of SARS-CoV-2 revealed that pangolins might be an intermediate host for SARS-CoV-2 (Lam et al., 2020; Xiao et al., 2020) ; however, there is no strong evidence currently available to support this notion. Although studies have suggested that bats could be natural hosts for SARS-CoV-2 , how the virus accomplished cross-species transfer and propagation remainunclear. Therefore, it is important to investigate whether living pangolins carry SARS-CoV-2. The results of the 43 pangolins from Dongguan, Shenzhen, and Shaoguan revealed that the positive rate of SARS-CoV-2-like virus was 6.98% in living individuals. We also detected \u03b2-CoV using RT-PCR in two dead pangolins from Guangzhou and one was also positive by metagenomic sequencing . Our research, to the best of our knowledge, is the first comprehensive study on captive pangolins carrying a new coronavirus similar to SARS-CoV-2 in Guangdong province. We detected coronavirus cases in healthy, symptomatic, and dead Malayan pangolins. This suggests that pangolins can carry and spread the virus; however, we cannot be certain if Malayan pangolins are natural coronavirus hosts (Tang et al., 2020) . Therefore, it is necessary to strengthen worldwide cooperation to detect coronaviruses in wild populations of Malay pangolins. Recent research has revealed that the Malayan pangolin from both Peninsular Malaysia and Sabah did not carry coronavirus or other zoonotic viruses before entering the wildlife trade. This may be attributed to the fact that they were yet to be exposed to multiple potential sources of infection (Lee et al., 2020) . Therefore, it is still necessary to detect coronaviruses in pangolins from their native countries to confirm whether pangolins are a natural host of the pangolin-CoV.",
+            "cite_spans": [
+                {
+                    "start": 104,
+                    "end": 122,
+                    "text": "(Lam et al., 2020;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 123,
+                    "end": 141,
+                    "text": "Xiao et al., 2020)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1155,
+                    "end": 1174,
+                    "text": "(Tang et al., 2020)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1598,
+                    "end": 1616,
+                    "text": "(Lee et al., 2020)",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Coronavirus is mainly present in the respiratory and gastrointestinal systems of mammals and birds (Masters, 2006) . Scientists have discovered that feces may be an important mode of transmission for some new coronaviruses carried by bats (Valitutto et al., 2020) . Similarly, we found that coronavirus was mainly present in pangolin feces, indicating that this virus may also be transmitted through feces. Although pangolins in Dongguan live together, only 3 of 22 feces were found to be positive, and their sequences had nucleic acid variations with two different genotypes. This finding indicated that this coronavirus had a limited ability to spread among individuals. Although it was weakly infectious, it is important to prevent the pangolin virus from spreading to humans through fecal transmission. Interestingly we also identified coronavirus in the lymph nodes of dead pangolins, suggesting that this virus could attack the immune system. It is likely that pangolin-CoV uses ACE2 as its receptor (Liu et al., 2019; Xiao et al., 2020) . ACE2 expression has been observed in multiple pangolin organs, including the heart, liver, spleen, lungs, kidneys, stomach, lymph nodes, and pancreas, implying that all of these organs are at risk of infection. Similarly, ACE2 expression has also been observed in the human kidneys, respiratory tract, lungs, ileum, bladder, esophagus, and heart. Moreover, SARS-CoV-2 directly infects the kidneys, causing acute renal failure with severe acute tubular necrosis and lymphocyte infiltration (Diao et al., 2020; Wadman et al., 2020) . During examination of the dead pangolin named M1 (Supplementary Table S1 ), hemorrhage of the heart, liver, and kidney was observed, which could be related to coronavirus infection.",
+            "cite_spans": [
+                {
+                    "start": 99,
+                    "end": 114,
+                    "text": "(Masters, 2006)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 239,
+                    "end": 263,
+                    "text": "(Valitutto et al., 2020)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1006,
+                    "end": 1024,
+                    "text": "(Liu et al., 2019;",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1025,
+                    "end": 1043,
+                    "text": "Xiao et al., 2020)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1535,
+                    "end": 1554,
+                    "text": "(Diao et al., 2020;",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 1555,
+                    "end": 1575,
+                    "text": "Wadman et al., 2020)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1642,
+                    "end": 1650,
+                    "text": "Table S1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Our results suggest that pangolins may have been infected in markets or during trade-related activities, while being kept in overcrowded conditions with other animal species. Therefore, to further determine the source of pangolin-CoV, it is necessary to sample more pangolins, and to also examine other animals that live in close proximity in markets or during trade-related activities. Although we detected SARS-CoV-2 like viruses in some captive pangolins, the role of pangolins in the transmission of SARS-CoV-2 from a putative natural bat host to humans is yet FIGURE 3 | mRNA expression of angiotensin-converting enzyme 2 in different pangolin organs.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Frontiers in Microbiology | www.frontiersin.org to be established. Recently, wild animals from Southeast Asia have been smuggled into China (Heinrich et al., 2017) , and little is known about the evolutionary status of the virus in these wild animals. However, sporadic coronavirus infections in both Guangdong and Guangxi in recent years indicate that we cannot ignore these potential hosts (Dong et al., 2007; Liu et al., 2019; Lam et al., 2020) . Therefore, it is important to monitor and understand the coronavirus spectrum carried by animals over an extended period (especially pangolins, confiscated in China), and to catalog the diversity of these viruses in their natural hosts, so that in the future we can more easily identify the host species if another coronavirus crosses into humans. This will be of great significance in protecting the health of pangolins and humans. In order to facilitate further in-depth research, collaboration is needed across multiple countries and institutions.",
+            "cite_spans": [
+                {
+                    "start": 140,
+                    "end": 163,
+                    "text": "(Heinrich et al., 2017)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 392,
+                    "end": 411,
+                    "text": "(Dong et al., 2007;",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 412,
+                    "end": 429,
+                    "text": "Liu et al., 2019;",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 430,
+                    "end": 447,
+                    "text": "Lam et al., 2020)",
+                    "ref_id": "BIBREF10"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The datasets presented in this study can be found in online repositories. The names of the repository/repositories and accession number(s) can be found below: https://www.ncbi.nlm. nih.gov/genbank/, MT672412; https://www.ncbi.nlm.nih.gov/ genbank/, MT672413; https://www.ncbi.nlm.nih.gov/genbank/, MT672414; https://www.ncbi.nlm.nih.gov/genbank/, MT672415; and https://www.ncbi.nlm.nih.gov/genbank/, MT672416.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DATA AVAILABILITY STATEMENT"
+        },
+        {
+            "text": "The animal study was reviewed and approved by the Committee on the Ethics of Animal Experiments of the Institute of Zoology of Guangdong Academy of Sciences.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ETHICS STATEMENT"
+        },
+        {
+            "text": "JPC conceived the study. YH, JZ, FA, FH, and WH collected the samples. LL, XW, JZ, and JC performed virus detection and sequencing. LL, XW, and JPC performed the analysis. LL and JPC wrote and revised the manuscript. All authors contributed to the article and approved the submitted version. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "AUTHOR CONTRIBUTIONS"
+        },
+        {
+            "text": "We acknowledge the support of Zhiliao Zeng for helping us collect pangolin samples.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ACKNOWLEDGMENTS"
+        },
+        {
+            "text": "The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fmicb. 2021.657439/full#supplementary-material",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "SUPPLEMENTARY MATERIAL"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Angiotensin-converting enzyme 2 is an essential regulator of heart function",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Crackower",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sarao",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Oudit",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Yagil",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Kozieradzki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Scanga",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Nature",
+            "volume": "417",
+            "issn": "",
+            "pages": "822--888",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/nature00786"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Middle east respiratory syndrome (MERS): a new zoonotic viral pneumonia",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Cunha",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Opal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Virulence",
+            "volume": "5",
+            "issn": "",
+            "pages": "650--654",
+            "other_ids": {
+                "DOI": [
+                    "10.4161/viru.32077"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Human kidney is a target for novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection. bioRxiv",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Diao",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.03.04.20031120"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Detection of a novel and highly divergent coronavims from Asian leopard cats and Chinese ferret badgers in southern China",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Vijaykrishna",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J. Virol",
+            "volume": "81",
+            "issn": "",
+            "pages": "6920--6926",
+            "other_ids": {
+                "DOI": [
+                    "10.1128/JVL.00299-07"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Identification of a novel coronavirus in patients with severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Escriou",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kramme",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Brodt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Becker",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Rabenau",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "N. Engl. J. Med",
+            "volume": "348",
+            "issn": "",
+            "pages": "1967--1976",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa030747"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Evidence for camel-to-human transmission of MERS coronavirus",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Drosten",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kellam",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Memish",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "N. Engl. J. Med",
+            "volume": "371",
+            "issn": "",
+            "pages": "1359--1360",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMc1409847"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Isolation and characterization of viruses related to the SARS coronavirus from animals in Southern China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhuang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Science",
+            "volume": "302",
+            "issn": "",
+            "pages": "276--278",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.1087139"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Quantitative mRNA expression profiling of ACE 2, a novel homologue of angiotensin converting enzyme",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Harmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gilbert",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Borman",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Clark",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "FEBS Lett",
+            "volume": "532",
+            "issn": "",
+            "pages": "107--110",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0014-5793(02)03640-2"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "The Global Trafficking of Pangolins: A Comprehensive Summary of Seizures and Trafficking Routes From",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Heinrich",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Wittman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Ross",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Shepherd",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "W S"
+                    ],
+                    "last": "Challender",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cassey",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "TRAFFIC, Southeast Asia Regional Office",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Angiotensin-converting enzyme 2: implications for blood pressure and kidney disease",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Ingelfinger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Curr. Opin. Nephrol. Hypertens",
+            "volume": "18",
+            "issn": "",
+            "pages": "79--84",
+            "other_ids": {
+                "DOI": [
+                    "10.1097/MNH.0b013e32831b70ad"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Identifying SARS-CoV-2-related coronaviruses in Malayan pangolins",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Lam",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Jia",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Shum",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "583",
+            "issn": "",
+            "pages": "282--285",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41586-020-2169-0"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "No evidence of coronaviruses or other potentially zoonotic viruses in Sunda pangolins (Manis javanica) entering the wildlife trade via Malaysia",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Hughes",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Ho",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Field",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Rovie-Ryan",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Sitam",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "EcoHealth",
+            "volume": "17",
+            "issn": "",
+            "pages": "406--418",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.06.19.158717"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Viral metagenomics revealed sendai virus and coronavirus infection of Malayan pangolins (Manis javanica)",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Viruses",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3390/v11110979"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Are pangolins the intermediate host of the 2019 novel coronavirus (SARS-CoV-2)?",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Wan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hua",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Zhou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "PLoS Pathog",
+            "volume": "16",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.ppat.1008421"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "The molecular biology of coronaviruses",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Masters",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Adv. Virus Res",
+            "volume": "66",
+            "issn": "",
+            "pages": "193--292",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/978-1-4684-5350-8_10"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "IQ-TREE: a fast and effective stochastic algorithm for estimating maximum-likelihood phylogenies",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Schmidt",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Von Haeseler",
+                    "suffix": ""
+                },
+                {
+                    "first": "Minh",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Mol. Biol. Evol",
+            "volume": "32",
+            "issn": "",
+            "pages": "268--274",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/molbev/msu300"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Co-circulation of three camel coronavirus species and recombination of MERS-CoVs in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "S M"
+                    ],
+                    "last": "Sabir",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "T Y"
+                    ],
+                    "last": "Lam",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "M M"
+                    ],
+                    "last": "Ahmed",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E M"
+                    ],
+                    "last": "Abo-Aba",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Science",
+            "volume": "351",
+            "issn": "",
+            "pages": "81--84",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.aac8608"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "MEGA X: molecular evolutionary genetics analysis across computing platforms",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Sudhir",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Glen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Michael",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Christina",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Koichiro",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Mol. Biol. Evol",
+            "volume": "35",
+            "issn": "",
+            "pages": "1547--1549",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/molbev/msy096"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "On the origin and continuing evolution of SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Natl. Sci. Rev",
+            "volume": "7",
+            "issn": "",
+            "pages": "1012--1023",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/nsr/nwaa036"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Detection of novel coronaviruses in bats in Myanmar",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Valitutto",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Aung",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "Y N"
+                    ],
+                    "last": "Tun",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Vodzak",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Zimmerman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Yu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "PLoS One",
+            "volume": "15",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0230802"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "A rampage through the body",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wadman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Couzin-Frankel",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kaiser",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Matacic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Science",
+            "volume": "368",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.368.6489.356"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "A new coronavirus associated with human respiratory disease in China",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Song",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "579",
+            "issn": "",
+            "pages": "265--269",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41586-020-2008-3"
+                ]
+            }
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Isolation of SARS-CoV-2-related coronavirus from Malayan pangolins",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Xiao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Zhai",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Zou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "583",
+            "issn": "",
+            "pages": "286--289",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41586-020-2313-x"
+                ]
+            }
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Zaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Van Boheemen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Bestebroer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D M E"
+                    ],
+                    "last": "Osterhaus",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A M"
+                    ],
+                    "last": "Fouchier",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "N. Engl. J. Med",
+            "volume": "367",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa1211721"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Probable pangolin origin of SARS-CoV-2 associated with the COVID-19 outbreak",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Curr. Biol",
+            "volume": "30",
+            "issn": "",
+            "pages": "1346--1351",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.cub.2020.03.022"
+                ]
+            }
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Du",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "20",
+            "pages": "30566--30569",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30566-3"
+                ]
+            }
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "A pneumonia outbreak associated with a new coronavirus of probable bat origin",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nature",
+            "volume": "579",
+            "issn": "",
+            "pages": "270--273",
+            "other_ids": {
+                "DOI": [
+                    "10.1038/s41586-020-2012-7"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "A novel coronavirus from patients with pneumonia in China",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Song",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "N. Engl. J. Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "727--733",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2001017"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Phylogenetic relationship of N gene of \u03b2-CoV from Malayan pangolin and other hosts. The analysis was inferred using the Maximum Likelihood method based on IQ-Tree(Nguyen et al., 2015). Branch bootstrap values are shown and were based on 1,000 replicates. The red letters indicate sequences of the \u03b2-CoV from M. javanica in this study.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Sequence comparison between SARS-CoV-2, Bat-CoV-RaTG13, and pangolin-CoVs based on their N gene sequence: (A) Sequence comparison between SARS-CoV-2, Bat-CoV-RaTG13, and pangolin-CoVs based on their N gene nucleotide sequence. The red frame indicates nucleotide variation sites among pangolins. The green frame indicates nucleotide variation sites between pangolins and SARS-CoV-2 or Bat-RaTG13. The blue frame indicates nucleotide variation sites between SARS-CoV-2 and Bat-RaTG13. (B) Sequence comparison between SARS-CoV-2, Bat-CoV-RaTG13, and pangolin-CoVs based on their N gene amino acid sequence. The purple frame indicates amino acid variation sites between pangolins and SARS-CoV-2 or Bat-RaTG13. The asterisk indicates that all nucleotide and amino acid sites are exactly the same in all compared sequences.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Nucleotide sequence identity of SARS-CoV-2, Bat-CoV-RaTG13 and pangolin-CoVs in 160 nucelotides (nt) from N gene sequence.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

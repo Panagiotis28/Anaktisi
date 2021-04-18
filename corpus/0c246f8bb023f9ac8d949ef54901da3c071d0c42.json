@@ -1,0 +1,1825 @@
+{
+    "paper_id": "0c246f8bb023f9ac8d949ef54901da3c071d0c42",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Yogesh",
+                "middle": [],
+                "last": "Apte",
+                "suffix": "",
+                "affiliation": {},
+                "email": "yogesh.apte@health.qld.gov.auy.apte."
+            },
+            {
+                "first": "Mbbs",
+                "middle": [],
+                "last": "Fcicm",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Intensive Care Unit",
+                    "institution": "Redcliffe Hospital",
+                    "location": {
+                        "country": "Australia"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kylie",
+                "middle": [],
+                "last": "Jacobs",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "B",
+                "middle": [
+                    "N"
+                ],
+                "last": "Rn",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Intensive Care Unit",
+                    "institution": "Redcliffe Hospital",
+                    "location": {
+                        "country": "Australia"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Shaun",
+                "middle": [],
+                "last": "Shewdin",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Fracp",
+                "middle": [],
+                "last": "Fcicm",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Intensive Care Unit",
+                    "institution": "Redcliffe Hospital",
+                    "location": {
+                        "country": "Australia"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Andrew",
+                "middle": [],
+                "last": "Murray",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Luke",
+                "middle": [],
+                "last": "Tung",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mahesh",
+                "middle": [],
+                "last": "Ramanan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Debbie",
+                "middle": [],
+                "last": "Massey",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of New South Wales",
+                    "location": {
+                        "country": "Australia"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Background: Acute respiratory distress syndrome (ARDS) is a relatively common condition of varied aetiology associated with high morbidity and mortality. A range of therapies have been proven to be useful for patients with ARDS, including ventilatory and nonventilatory strategies. Prone positioning is one of the nonventilatory strategies and has been proven to be safe and is associated with significant mortality benefit in patients with moderate to severe ARDS. It is now included in several international guidelines as the standard of care for these cases. Objectives: The aim of the study was to develop, implement, and evaluate a prone positioning program in two nonmetropolitan, nontertiary intensive care units in South East Queensland. Methods: A PlaneDoeStudyeAct quality improvement model was used to implement changes in clinical practice in relation to prone positioning of patients. Results: A description of the methods used to promote a complex change strategy is provided in this article. Conclusions: In this article, we demonstrate the feasibility of introducing a nonventilatory intervention of prone positioning in the management of patients with moderate to severe ARDS in regional intensive care in South East Queensland. This implementation strategy could be replicated and adopted in other similar intensive care units that do not have the ability to provide tertiary services such as extracorporeal life support. Crown",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "In the past decade, there has been an increased focus on quality and safety in critical care. 1e3 The drive to standardise practice, deliver evidence-based practice, reduce adverse events, and promote patient-centred care are some of the key factors driving the quality and safety agenda in critical care. 2 Clinical audits are increasingly used in critical care as a mechanism for promoting and developing best practice. 2e4 The primary aim of clinical audits is to identify areas of practice that would benefit from improvement. 2, 4 In this article, we describe our experiences of implementing prone positioning in two nontertiary ICUs and establishing a 'proning units' using the PlaneDoeStudyeAct (PDSA) framework. 15 ",
+            "cite_spans": [
+                {
+                    "start": 94,
+                    "end": 97,
+                    "text": "1e3",
+                    "ref_id": null
+                },
+                {
+                    "start": 306,
+                    "end": 307,
+                    "text": "2",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 422,
+                    "end": 425,
+                    "text": "2e4",
+                    "ref_id": null
+                },
+                {
+                    "start": 531,
+                    "end": 533,
+                    "text": "2,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 534,
+                    "end": 535,
+                    "text": "4",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 720,
+                    "end": 722,
+                    "text": "15",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "ARDS is a syndrome of diverse aetiology and is characterised by acute onset of hypoxaemia (arterial partial pressure of oxygen to fraction of inspired oxygen [PaO 2 /FIO 2 ] 200 mm Hg) with bilateral infiltrates on the frontal chest radiograph, with no evidence of left atrial hypertension and classified as per the Berlin definition (Table 1) . 5 As per current estimates, the mortality associated with ARDS ranges from 22% to 44%, 6 and patients with ARDS are ventilated for approximately 11 days and have a median length of ICU stay of 14 days. 6 Despite improvements in prevention and treatment advances, ARDS remains a relatively common syndrome. 7 Recently, there has been an increase in the reported cases of ARDS as a result of the coronavirus (COVID-19) pandemic. 8 The prevalence of ARDS caused by COVID-19 is approximately 8.25% (178/2278) (95% confidence interval, 7.07e9.47%). 9e11 The primary outcome in the management of ARDS is optimisations of ventilator and nonventilatory support and minimisation of ventilator-induced lung injury. 12 Prone positioning (proning) has been used for many years to improve oxygenation in patients who require mechanical ventilator support for management of ARDS. 13 In patients with moderate to severe ARDS, proning significantly decreases mortality. 10, 11 Prone positioning is recommended for at least 12 hours a day in patients with moderate to severe ARDS. 12 Despite the positive outcomes associated with proning, there are a number of clinical and organisational challenges associated with this therapy. 14,15 Patient complications include airway obstruction and endotracheal tube dislodgement, hypotension and arrhythmias, loss of venous access, facial and airway oedema, a greater need for sedation, and increased risk of pressure injuries. 16, 17, 18 Organisational challenges include lack of familiarity with proning techniques, the need for education, rigorous and evidence-based protocol development, and lack of adequate resources. 14, 19 Lack of familiarity with prone positioning techniques is associated with increased patient complications. 14 Because of the associated patient complications and organisational challenges, prone positioning techniques are not currently offered in all ICUs. A Cochrane systematic review identified that clinical audits lead to small but important improvement in practice. 16 However, the effectiveness of the audit depends on baseline performance, the personnel undertaking the audit, the frequency the audit is repeated, the feedback method, and the methodology used to develop and evaluate the program. Thus, clinical audits and QI programs can and do make an important contribution to knowledge and understanding about clinical problems and are increasingly being used to disseminate practice changes and improvements. However, the methodology used to implement the QI project is often not reported, and many important practice changes associated with QI initiatives are not disseminated.",
+            "cite_spans": [
+                {
+                    "start": 346,
+                    "end": 347,
+                    "text": "5",
+                    "ref_id": null
+                },
+                {
+                    "start": 433,
+                    "end": 434,
+                    "text": "6",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 548,
+                    "end": 549,
+                    "text": "6",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 652,
+                    "end": 653,
+                    "text": "7",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 773,
+                    "end": 774,
+                    "text": "8",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1051,
+                    "end": 1053,
+                    "text": "12",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1212,
+                    "end": 1214,
+                    "text": "13",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1300,
+                    "end": 1303,
+                    "text": "10,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1304,
+                    "end": 1306,
+                    "text": "11",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1410,
+                    "end": 1412,
+                    "text": "12",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1798,
+                    "end": 1801,
+                    "text": "16,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1802,
+                    "end": 1805,
+                    "text": "17,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1806,
+                    "end": 1808,
+                    "text": "18",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1994,
+                    "end": 1997,
+                    "text": "14,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1998,
+                    "end": 2000,
+                    "text": "19",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 2371,
+                    "end": 2373,
+                    "text": "16",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 334,
+                    "end": 343,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Background"
+        },
+        {
+            "text": "Mitchell and Seckel 19 provide a detailed description of updating a prone positioning guideline and procedure in two hospitals in the United States. However, they did not use a QI framework, and prone positioning was already a standard practice in their hospitals. In this article, we provide a detailed description of developing and implementing a PPP in two nonmetropolitan, nontertiary ICUs in South East Queensland that did not have access to extracorporeal membrane oxygenation therapy. The recent COVID-19 outbreak indicates that a significant number of patients admitted with COVID-19 develop ARDS and require prone positioning. 7 The processes undertaken by us may be useful to other regional ICUs that are considering implementation of prone positioning as a nonventilator strategy for patients with ARDS.",
+            "cite_spans": [
+                {
+                    "start": 636,
+                    "end": 637,
+                    "text": "7",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Background"
+        },
+        {
+            "text": "Prior to undertaking this quality improvement project we sought advice from the Prince Charles Ethics Committee regarding ethical approval. The project was identified as a quality improvement project and was therefore except from full ethical review. The project was assigned the following ID e 66433.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethical considerations"
+        },
+        {
+            "text": "The PDSA (Fig. 1 ) model is based on a scientific method that encompasses a planned, systematic approach to a problem that has a clear structure that can be followed. We used the PDSA model to provide a structured framework to develop a proning protocol and identify an implementation plan for prone positioning. 15 The four stages of the PDSA cycle ( Fig. 4 ) are as follows: Plandthe change to be tested or implemented, Dodcarry out the test or change, Studydexamine data before and after the change and reflect on what was learned, and Actdplan the next change cycle or full implementation.",
+            "cite_spans": [
+                {
+                    "start": 313,
+                    "end": 315,
+                    "text": "15",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 9,
+                    "end": 16,
+                    "text": "(Fig. 1",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 352,
+                    "end": 358,
+                    "text": "Fig. 4",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "The PDSA cycle"
+        },
+        {
+            "text": "The plan was to test the feasibility of implementing a PPP in two regional ICUs in South East Queensland. During the process of updating local ICU guidelines, we identified strong evidence recommending prone positioning for ARDS 6, 9, 11, 14, 17 and proning was not offered in our ICUs at the time. Therefore, we identified an important clinical opportunity to improve the care and outcomes of critically ill patients. Ongoing challenges arise when introducing evidence and clinical guidelines into routine daily practice. Many of these challenges are related to staff resisting guidelines or change in practice, 20 and this resistance usually stems from lack of knowledge and understanding. 21 Thus, before we implemented the PPP, we needed to understand the barriers and incentives to achieving change in practice. 22, 23 As part of the planning cycle, we formed a Proning Working Committee (PWC) that consisted of interested senior medical, nursing, and allied health members (physiotherapists, dieticians, and social workers) working in the ICUs. The first task the PWC undertook was a critical review of the relevant literature related to proning and assessing the level of evidence for the PPP. The PWC reviewed the literature, meta-analysis, and guidelines published on ARDS management over the last ten years. 6,15,16,22,24e30 Based on the findings from the review of the literature, as well as current international guidelines and procedures, the PWC planned and wrote the work unit guidelines.",
+            "cite_spans": [
+                {
+                    "start": 229,
+                    "end": 231,
+                    "text": "6,",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 232,
+                    "end": 234,
+                    "text": "9,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 235,
+                    "end": 238,
+                    "text": "11,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 239,
+                    "end": 242,
+                    "text": "14,",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 243,
+                    "end": 245,
+                    "text": "17",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 613,
+                    "end": 615,
+                    "text": "20",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 692,
+                    "end": 694,
+                    "text": "21",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 817,
+                    "end": 820,
+                    "text": "22,",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 821,
+                    "end": 823,
+                    "text": "23",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1318,
+                    "end": 1334,
+                    "text": "6,15,16,22,24e30",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Plan"
+        },
+        {
+            "text": "Changes from any QI initiative can have wideranging consequences and include unplanned outcomes. These were considered as much as possible in the planning stage of the QI project. The PWC created a flow chart (Fig. 3) to assist with the clinical decisionmaking process in relation to proning (see Figs. 2 ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 209,
+                    "end": 217,
+                    "text": "(Fig. 3)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 297,
+                    "end": 304,
+                    "text": "Figs. 2",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Do"
+        },
+        {
+            "text": "The aim of the flow chart was to outline the processes that staff needed to undertake before initiating prone positioning. In the 'Do' stage, the PPP was implemented, and a PPP education package was developed and delivered over an 8-week period. It included weekly 1-h session involving a lecture and interactive discussion on ARDS and indications or contraindications, for proning and troubleshooting of a patient in the prone position. We also developed and implemented an interprofessional simulation program that aimed to capture at least 80% of the permanent ICU staff members. The simulation program was delivered over 2 h with multiple scenarios per session. It was designed to develop clinicians' understanding and familiarity with guidelines and protocol as well as to establish team roles, communication, and troubleshooting.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "and 5)."
+        },
+        {
+            "text": "The simulation scenarios were based on experience, the literature, and published care reports and included (i)Turning the intubated and ventilated manikin, with necessary vascular access devices in situ, from the supine to prone position and then back from the prone to supine position, (ii)Accidental extubation in the prone position, and (iii)Cardiac arrest with the manikin in the prone position.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "and 5)."
+        },
+        {
+            "text": "Each simulation session included all aspects of crisis resource management and compliance with the PPP. Doctors and nurses working in the ICUs, with various clinical experience, attended the simulation sessions. These simulation sessions identified several issues and potential barriers and challenges to the PPP including technical skills, particularly haemodynamic monitoring and prevention of pressure injuries, and nontechnical skills, for example, team, coordination, and communication. Based on observations from the simulation sessions and feedback from the participants, the PPP was modified to include pressure injury pressure adjuncts, increased number of people to assist with turning the patient, and the presence of a video laryngoscope device at the bedside to assist reintubation for accidental extubations. Following these modifications, we retested the revised PPP in the simulation sessions before implementation. The protocol was finalised in March 2018, and the simulation training program was completed in May 2018.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "and 5)."
+        },
+        {
+            "text": "The 'Study' stage identifies if the PPP improved patient outcomes and if further changes are required. The first patient who fulfilled the criteria for the PPP was admitted in June 2018, 3 weeks after finalisation of the PPP. Since June 2018, 25 patients have been diagnosed with ARDS, and a total of nine patients have been placed in the prone position (<30% prevalence rate). 11 No major complications or adverse events associated with the proning procedure were identified. Three patients developed a grade 1 pressure injury to their face, chest, and toes as a result of proning. Thus, one in three patients suffered pressure injury, and this rate is similar to those reported by other researchers. 11e14 Seven patients were successfully weaned from mechanical ventilation, one patient who suffered from cardiac arrest secondary to refractory hypoxia was given CPR whilst in the prone position, resuscitated, and later transferred to a tertiary centre for extracorporeal therapy, and one patient died.",
+            "cite_spans": [
+                {
+                    "start": 378,
+                    "end": 380,
+                    "text": "11",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Study"
+        },
+        {
+            "text": "The 'Act' stage focuses on what should be planned for the next iteration of the cycle. This should incorporate any modifications that are deemed necessary from the 'Study' stage that may lead to an improvement. To assess if there was any improvement in quality outcomes, we conducted a formal audit of prone positioning in our ICUs during the first 12 months after introduction of the PPE.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Act"
+        },
+        {
+            "text": "After analysis of the audit findings, we identified a lack of surveillance and documentation in relation to pressure injury prevention strategies. In response to these identified barriers to pressure injury prevention, we modified the equipment used (for example, we purchased softer pillows and gel packs) and increased monitoring and surveillance of pressure areas to reduce pressure injuries. As part of the ongoing Act phase, the PWC discusses individual cases that have been involved in the PPP on a monthly basis, and this forms part of the formal monitoring process. To date, no major adverse events have been identified. Consumer feedback from the ICU follow-up clinic is sought from all patients who survived and presented for follow-up.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Act"
+        },
+        {
+            "text": "A strength of this project is that it provides a detailed description of implementing a PPP in regional a nontertiary ICU using a recognised QI framework. We do recognise that our QI projects report on a very small sample size. However, the units involved in this study are similar in size, with similar prevalence of ARDS cases to regional ICUs in Australia and New Zealand. Thus, we hope that the PPP QI strategy reported in this article may provide useful information and act as a valuable resource for other similar size units. ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Strength and llimitations"
+        },
+        {
+            "text": "Prone positioning of patients with moderate to severe ARDS is a safe and effective treatment modality in centres without access to extracorporeal therapies. With a planned, methodical, comprehensive approach that incorporates literature review, team discussions, guideline formation, stakeholder engagement, and, most importantly, a broad education and simulation program, it is possible to safely introduce a complex intervention into an ICU environment. This article demonstrates a similar PDSA model could be replicated successfully in other nontertiary, nonmetropolitan ICUs.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        },
+        {
+            "text": "The authors declare no conflict of interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of Interest"
+        },
+        {
+            "text": "CRediT authorship contribution statement ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of Interest"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Quality and safety in intensive careda means to an end is critical",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hewson-Conroy",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Elliott",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Burrell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Aust Crit Care",
+            "volume": "23",
+            "issn": "3",
+            "pages": "109--138",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Prone positioning decision-making flowchart. ARDS: acute respiratory distress syndrome; WUG: work unit guideline",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Australian Critical Care xxx (xxxx) xxx",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Apte",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Prone positioning in patients with acute respiratory distress syndrome, translating research and implementing practice change from bench to bedside in the era of coronavirus disease",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Apte",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Australian Critical Care",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.aucc.2020.08.002"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Clinical audits to improve critical care: Part 1 Prepare and collect data",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ullman",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ray-Barruel",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Rickard",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cooke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Aust Crit Care",
+            "volume": "31",
+            "issn": "2",
+            "pages": "101--106",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Sustaining reductions in catheter related bloodstream infections in Michigan intensive care units: observational study",
+            "authors": [
+                {
+                    "first": "Pronovost",
+                    "middle": [],
+                    "last": "Peter",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Goeschel",
+                    "middle": [],
+                    "last": "Christine",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Colantuoni",
+                    "middle": [],
+                    "last": "Elizabeth",
+                    "suffix": ""
+                },
+                {
+                    "first": "Watson",
+                    "middle": [],
+                    "last": "Sam",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lubomski",
+                    "middle": [],
+                    "last": "Lisa",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                },
+                {
+                    "first": "Berenholtz",
+                    "middle": [],
+                    "last": "Sean",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "BMJ",
+            "volume": "340",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Clinical audits to improve critical care: Part 2: analyse, benchmark and feedback",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Ray-Barruel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ullman",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Rickard",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cooke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Aust Crit Care",
+            "volume": "31",
+            "issn": "2",
+            "pages": "106--115",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Acute respiratory distress syndrome: the Berlin definition",
+            "authors": [],
+            "year": 2012,
+            "venue": "JAMA",
+            "volume": "307",
+            "issn": "23",
+            "pages": "2526--2559",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2012.5669"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Salvage therapies for refractory hypoxemia in ARDS",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Cherian",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kumar",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Akasapu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Ashton",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Aparnath",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Malhotra",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Respir Med",
+            "volume": "141",
+            "issn": "",
+            "pages": "150--158",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Epidemiology, patterns of care, and mortality for patients with acute respiratory distress syndrome in intensive care units in 50 countries",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bellani",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Laffey",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Pham",
+                    "suffix": ""
+                },
+                {
+                    "first": "Fan",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Brochard",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Esteban",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "JAMA",
+            "volume": "315",
+            "issn": "8",
+            "pages": "788--800",
+            "other_ids": {
+                "DOI": [
+                    "10.1001/jama.2016.0291"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Pathological findings of COVID-19 associated with acute respiratory distress syndrome",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Respir Med",
+            "volume": "8",
+            "issn": "4",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2213-2600(20)30076-X"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "ECMO for ARDS due to COVID-19",
+            "authors": [
+                {
+                    "first": "\u00d1amendys-Silva",
+                    "middle": [],
+                    "last": "Sa",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Heart Lung",
+            "volume": "49",
+            "issn": "",
+            "pages": "348--357",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.hrtlng.2020.03.012"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ren",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "497--506",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Qu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Gong",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Han",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "507--520",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "The Berlin definition of ARDS: an expanded rationale, justification, and supplementary material",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Camporota",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Antonelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Anzueto",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Beale",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Intensive Care Med",
+            "volume": "38",
+            "issn": "10",
+            "pages": "1573--82",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "A comprehensive review of prone position in ARDS",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kallet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Respir Care",
+            "volume": "60",
+            "issn": "11",
+            "pages": "1660--87",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Does prone positioning improve oxygenation and reduce mortality in patients with acute respiratory distress syndrome? Canc Res",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Henderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "Deg",
+                    "middle": [],
+                    "last": "Griesdale",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Dominelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ronco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "21",
+            "issn": "",
+            "pages": "213--218",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "A prospective international observational prevalence study on prone positioning of ARDS patients: the APRONET (ARDS Prone Position Network) study",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Guerin",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Beuret",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Constantin",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Bellani",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Garcia-Olivares",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Roca",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Intensive Care Med",
+            "volume": "44",
+            "issn": "1",
+            "pages": "22--37",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Analysis of complications of prone position in acute respiratory distress syndrome: quality standard, incidence and related factors",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Ponseti",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Mill An",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Chinchilla",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Enfermer\u00eda Intensiva",
+            "volume": "28",
+            "issn": "3",
+            "pages": "125--159",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Prevention of pressure ulcers among individuals cared for in the prone position: lessons for the COVID-19 emergency",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Patton",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Avsar",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Mcevoy",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Curley",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Budri",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Wound Care",
+            "volume": "29",
+            "issn": "6",
+            "pages": "312--332",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "The impact of patient positioning on pressure ulcers in patients with severe ARDS: results from a multicentre randomised controlled trial on prone positioning",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Girard",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Baboi",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ayzac",
+                    "suffix": ""
+                },
+                {
+                    "first": "J-C",
+                    "middle": [],
+                    "last": "Richard",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Gu Erin",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Group",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Intensive Care Med",
+            "volume": "40",
+            "issn": "3",
+            "pages": "397--403",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Acute respiratory distress syndrome and prone positioning",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Mitchell",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Seckel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "AACN Adv Crit Care",
+            "volume": "29",
+            "issn": "4",
+            "pages": "415--440",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Defining barriers and enablers for clinical pathway implementation in complex clinical settings",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jabbour",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Newton",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Johnson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Curran",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Implement Sci",
+            "volume": "13",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Current practice in dialysis central venous catheter management: multi-disciplinary renal team perspectives",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Craswell",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Massey",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wallis",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Sriram",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Gray",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kotwal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Nephrology",
+            "volume": "25",
+            "issn": "",
+            "pages": "406--418",
+            "other_ids": {
+                "DOI": [
+                    "10.1111/nep.13626"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "What drives change? Barriers to and incentives for achieving evidence-based practice",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Grol",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wensing",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Med J Aust",
+            "volume": "180",
+            "issn": "",
+            "pages": "57--60",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "From best evidence to best practice: effective implementation of change in patients' care",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Grol",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Grimshaw",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "362",
+            "issn": "9391",
+            "pages": "1225--1255",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Prone positioning improves survival in severe ARDS: a pathophysiologic review and individual patient meta-analysis",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gattinoni",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Carlesso",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Taccone",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Polli",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Guerin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mancebo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Guidelines on the management of acute respiratory distress syndrome",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Griffiths",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Mcauley",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Perkins",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Barrett",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Blackwood",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Boyle",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "BMJ Open Respir Res",
+            "volume": "6",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Re-examining permissive hypercapnia in ARDS: a narrative review",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Barnes",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Zochios",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Parhar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Chest",
+            "volume": "154",
+            "issn": "1",
+            "pages": "185--95",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Optimal strategies for severe acute respiratory distress syndrome",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Cannon",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Gutsche",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Brodie",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Crit Care Clin",
+            "volume": "33",
+            "issn": "2",
+            "pages": "259--75",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Optimal duration of prone positioning in patients with acute respiratory distress syndrome: a protocol for a systematic review and meta-regression analysis",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kamo",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Aoki",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Fukuda",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Kurahashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yasuda",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sanui",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "BMJ Open",
+            "volume": "8",
+            "issn": "9",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Prone position for acute respiratory failure in adults",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bloomfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Noble",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sudlow",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Cochrane Database Syst Rev",
+            "volume": "",
+            "issn": "11",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "An official American Thoracic Society/European Society of Intensive Care Medicine/Society of Critical Care Medicine clinical practice guideline: mechanical ventilation in adult patients with acute respiratory distress syndrome",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Del",
+                    "middle": [],
+                    "last": "Sorbo",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Goligher",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Hodgson",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Munshi",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Walkey",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "195",
+            "issn": "9",
+            "pages": "1253--63",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Therapies for treatment of ARDS matched to severity of ARDS. Adapted from Ferguson ND, Fan E, Camporota L, et al. The Berlin definition of ARDS: an expanded rationale, justification, and supplementary material. Intensive Care Med 2012;38(10):1573e82. ECCO 2 -R: extracorporeal CO 2 removal; ECMO: extracorporeal membrane oxygenation; FiO 2: fraction of inspired oxygen, HFO: high-frequency oscillation; PEEP: positive end-expiratory pressure; ARDS: acute respiratory distress syndrome.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "Strategies to engage ICU teams to implement improvement initiatives. ICU: intensive care unit.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Potential barriers/incentives in relation to a proposed 10-step model for inducing change in professional behaviour.23",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Adapted from Institute for Healthcare Improvement (www.ihi.org). this article as: Apte Y et al., Prone positioning in patients with acute respiratory distress syndrome, translating research and implementing practice change from bench to bedside in the era of coronavirus disease 2019, Australian Critical Care, https://doi.org/10.1016/ j.aucc.2020.08.002",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Berlin definition of acute respiratory distress syndrome (ARDS).Respiratory failure within 1 week of a known clinical insult or new/worsening respiratory symptoms Bilateral opacities on CXR or chest CT not fully explained by effusions, lobar/lung collapse, or nodules Respiratory failure not fully explained by cardiac failure or fluid overload (need objective assessment [e.g., echocardiography] to exclude hydrostatic oedema if no risk",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Yogesh Apte: original manuscript preparation, Writing -original draft, Writing -review & editing, data analysis, Conceptuali-Conceptualization, Methodology, data collection. Shaun Shewdin: Conceptualization, Methodology, data collection. Andrew Murray: Conceptualization, Methodology, data collection. Luke Tung: Conceptualization, Methodology, data collection. Mahesh Ramanan: original manuscript preparation, Writing -original draft, Writing -review & editing, data analysis, Conceptualization, Methodology, data collection. Debbie Massey: Conceptualization and manuscript preparation.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors would like to acknowledge the following people for their contribution to the change of practice and introduction of prone positioning in our intensive care units: ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "Supplementary data to this article can be found online at https://doi.org/10.1016/j.aucc.2020.08.002.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Appendix ASupplementary data"
+        }
+    ]
+}

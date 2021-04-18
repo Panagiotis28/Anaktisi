@@ -1,0 +1,836 @@
+{
+    "paper_id": "0b17e8de89845f6715e7cc93ed595506316a2538",
+    "metadata": {
+        "title": "Correlation between CT findings and outcomes in 46 patients with coronavirus disease 2019",
+        "authors": [
+            {
+                "first": "Qiang",
+                "middle": [],
+                "last": "Lei",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Guangming",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhongyuan RD",
+                    "location": {
+                        "postCode": "441003",
+                        "settlement": "Xiangyang",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Xiaofen",
+                "middle": [],
+                "last": "Ma",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Junzhang",
+                "middle": [],
+                "last": "Tian",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yun",
+                "middle": [],
+                "last": "Fan Wu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hui",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhongyuan RD",
+                    "location": {
+                        "postCode": "441003",
+                        "settlement": "Xiangyang",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Wen",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Zhongyuan RD",
+                    "location": {
+                        "postCode": "441003",
+                        "settlement": "Xiangyang",
+                        "country": "People's Republic of China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Cheng",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Guihua",
+                "middle": [],
+                "last": "Jiang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The aim of this study was to analyze initial chest computed tomography (CT) findings in COVID-19 pneumonia and identify features associated with poor prognosis. Patients with RT-PCR-confirmed COVID-19 infection were assigned to recovery group if they made a full recovery and to death group if they died within 2 months of hospitalization. Chest CT examinations for ground-glass opacity, crazypaving pattern, consolidation, and fibrosis were scored by two reviewers. The total CT score comprised the sum of lung involvement (5 lobes, scores 1-5 for each lobe, range; 0, none; 25, maximum). 40 patients who recovered from COVID-19 and six patients who died were enrolled. The initial chest CTs showed 27 (58.7%) patients had ground-glass opacity, 19 (41.3%) had ground glass and consolidation, and 35 (76.1%) patients had crazy-paving pattern. None of the patients who died had fibrosis in contrast to six (15%) patients who recovered from COVID-19. Most patients had subpleural lesions (89.0%) as well as bilateral (87.0%) and lower (93.0%) lung lobe involvement. Diffuse lesions were present in four (67%) patients who succumbed to coronavirus but only one (2.5%) patient who recovered (p < 0.001). In the death group of patients, the total CT score was higher than that of the recovery group (p = 0.005). Patients in the death group had lower lymphocyte count and higher C-reactive protein than those in the recovery group (p = 0.011 and p = 0.041, respectively). A high CT score and diffuse distribution of lung lesions in COVID-19 are indicative of disease severity and shortterm mortality.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "Study design and patients. This retrospective study was approved, and written informed consent was waived by the medical ethics committee of Guangdong Second Provincial General Hospital (protocol number 352072440105210132). We retrospectively reviewed patients diagnosed with COVID-19 who were admitted to Guangdong Second Provincial General Hospital or Xiangyang Central Hospital from 1 January 2020 to 20 February 2020. The patients recovered or died within 2 months of hospitalization, and the interval between the first or last CT scan and reverse transcription polymerase chain reaction (RT-PCR) was less than 3 days. Patients with COVID-19 confirmed by RT-PCR testing were enrolled, and both chest CT scan and RT-PCR testing were conducted within an interval of three or fewer days.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Material and methods"
+        },
+        {
+            "text": "The exclusion criteria were (1) patients who refused chest CT, (2) severe motion artifacts on chest CT, and (3) patients whose outcomes were not available within 2 months of hospitalization. Basic clinical characteristics and initial CT features were compared between two groups on the basis of clinical outcomes: the death group and the recovery group.",
+            "cite_spans": [
+                {
+                    "start": 63,
+                    "end": 66,
+                    "text": "(2)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Material and methods"
+        },
+        {
+            "text": "Diagnostic and recovery criteria of COVID-19. According to the preliminary diagnosis and treatment protocols from the National Health Commission of the People's Republic of China, the final diagnosis for COVID-19 was determined by real-time fluorescence polymerase chain reaction from oropharyngeal swabs of suspected patients. Patients with confirmed COVID-19 were hospitalized and isolated for treatment. The recovery criteria were as follows: (1) no fever for more than 3 days, (2) respiratory symptoms significantly improved, (3) improvement in the radiological abnormalities on chest CT, and (4) at least two negative COVID-19 nucleic acid detection within an interval of 1 day.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Material and methods"
+        },
+        {
+            "text": "Chest CT protocols. All images were obtained on Optima 660 (GE, USA) with patients in the supine position.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Material and methods"
+        },
+        {
+            "text": "The main scanning parameters were as follows: tube voltage = 120 kV, automatic tube current modulation (30-70 mAs), pitch = 0.99-1.22 mm, matrix = 512 \u00d7 512, slice thickness = 10 mm, field of view = 350 mm \u00d7 350 mm. All images were then reconstructed with a slice thickness of 0.625-1.250 mm with the same increment 10 .",
+            "cite_spans": [
+                {
+                    "start": 316,
+                    "end": 318,
+                    "text": "10",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Material and methods"
+        },
+        {
+            "text": "CT image analysis. All chest CT images were reviewed by two radiologists (Q.L. and G.M.L with 5 and 15 years of experience in interpreting chest CT imaging, respectively) including main CT features and lesion distribution. The total CT score was determined by consensus. Referring to international standard nomenclature defined by the Fleischner Society glossary 11 and peer-reviewed literature on viral pneumonia 12, 13 , the main CT features were described using terms including ground-glass opacity (GGO), crazy-paving pattern, consolidation, and fibrosis. Reticulation with associated architectural distortion and mild traction bronchiectasis were considered to be related to fibrosis.",
+            "cite_spans": [
+                {
+                    "start": 414,
+                    "end": 417,
+                    "text": "12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 418,
+                    "end": 420,
+                    "text": "13",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Material and methods"
+        },
+        {
+            "text": "The lung involvement of all these abnormalities was quantitatively estimated according to the area involved. Each lung lobe was visually scored from 0 to 5; 0, no involvement; 1, < 5% involvement; 2, 25% involvement; 3, 26-49% involvement; 4, 50-75% involvement; 5, > 75% involvement. The total CT score was the sum of the individual lobar scores and ranged from 0 (no involvement) to 25 (maximum involvement). The distribution of pulmonary abnormalities was classified as predominantly subpleural (mainly the peripheral one-third of the lung involved), diffuse (continuous involvement without respect to lung segments), or random 5 . Statistical analysis. Statistical analyses were performed using IBM SPSS Statistics Software (version 23.0; IBM, Chicago, IL, USA). Normally distributed data were presented as mean (SD), non-normally distributed data as median (IQR), and categorical data as the percentage of the total unless otherwise specified. The comparisons of non-paired data were evaluated using the Student t test, Mann-Whitney U test, or Chi-squared test 5 . A p-value of < 0.05 was defined as statistically significant.",
+            "cite_spans": [
+                {
+                    "start": 1066,
+                    "end": 1067,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Material and methods"
+        },
+        {
+            "text": "Ethics approval. All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Material and methods"
+        },
+        {
+            "text": "Second Provincial General Hospital, and informed written consent was waived.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Informed consent. This retrospective study was approved by the medical ethical committee of Guangdong"
+        },
+        {
+            "text": "Patient characteristics. There were 46 patients (26 males and 20 females) included in the study. The average age was 50 (17) years (range 9-87). 40 patients were assigned to recovery group and six patients to death group. Patients who succumbed to COVID-19 pneumonia were older than those who recovered (p = 0.001). Patients with hypertension were more likely to die than those without the previous history of d hypertension (p = 0.002; Table 1 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 437,
+                    "end": 444,
+                    "text": "Table 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "The most prevalent presenting symptoms include fever (22, 48.0%), cough (6, 13.0%), or both (18, 39.0%). These patients underwent initial CT scans from the symptom onset with a mean interval of 5 (3) days (range 1-15 days). A total of 86 chest CT scans (46 initial CT and 40 discharge CT re-examination) were performed. After initial symptom onset, 40 patients recovered with a mean hospitalized period of 23 (9) days (range 9-42), and six patients died after a mean hospitalized period of 16 (8) www.nature.com/scientificreports/",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Results"
+        },
+        {
+            "text": "The main CT findings of COVID-19 consist of ground-glass opacity, consolidation, and crazy-paving pattern, which were similar to those described by several groups of investigators 14, 15 . Our study highlights the clinical implication of initial CT findings as a prognostic indicator in patients with COVID-19. Upon comparing those who recovered with those who did not, neither ground-glass opacity, consolidation, nor crazy-paving pattern were associated with final outcomes. However, fibrosis was observed in six who recovered and none who died. We speculate that fibrotic changes may have resulted from organizing pneumonia patterns of lung injury with COVID-19. Jae et al. 16 found the remaining opacity of MERS in the intubation group and that fibrosis was a sequela on follow-up chest radiographies. Similar to other acute lung injuries, fibrosis is thought to be the result of resolution 13, 17 . Fibrosis was in the early stages, assuming all of the patients were in an early stage of infection and underwent initial CT scans from symptom onset with a mean interval of 5 \u00b1 3 days. This may be associated with good prognosis in early chest CT examinations. In our patients, pleural effusion was not present in those with COVID-19. Karuna et al. 18 reported that the early appearance of pleural effusion was a predictor of short-term mortality in patients with MERS; however, this relationship was not demonstrated in our patients with COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 180,
+                    "end": 183,
+                    "text": "14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 184,
+                    "end": 186,
+                    "text": "15",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 677,
+                    "end": 679,
+                    "text": "16",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 895,
+                    "end": 898,
+                    "text": "13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 899,
+                    "end": 901,
+                    "text": "17",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1252,
+                    "end": 1254,
+                    "text": "18",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "A high CT lung score was a sign of poor prognosis and was associated with short-term mortality. Patients who died had higher CT lung scores versus those who recovered in our study, indicating the rapid development of the disease process. The largest area of the lung was occupied by pneumonia. Similar to our study, Zhao et al. 19 reported that the CT involvement score can help evaluate the severity and extent of COVID-19. The area of the affected lung lobes in expired patients was greater than those who recovered. The predominant peripheral distribution of abnormalities was observed in our study; however, four patients who died and one who recovered showed diffuse distribution of lung lesions. Patients with diffuse lung lesions were more likely to die than those with subpleural lesions. These factors are consistent with diffuse alveolar damage patterns that may cause worse Figure 2 . A 57-year-old man with a history of recent travel to Wuhan presented with fever for 10 days. (a,b) Non-contrast enhanced chest CT showed multiple peripheral patchy ground glass opacities (white arrows) and crazy-paving pattern (red arrow) in both lower lobes. CT scan also demonstrated consolidation in the left lower lobe (black arrow). CT involvement score was 11. www.nature.com/scientificreports/ outcomes for patients. Xu et al. 20 also reported a COVID-19 patient death with diffuse lung involvement on X-ray images and pathological findings of pulmonary edema and clear film formation on lung biopsy samples. These findings indicate acute respiratory distress syndrome (ARDS). Our results suggest that high CT scores coupled with diffuse distribution of lung lesions on admission were responsible for ensuing ARDS and a poor prognosis in most patients. Patients who died from COVID-19 had a higher C-reactive protein and lower lymphocytic count than the recovery group. Lymphocytes were reduced in the group that died, reflecting a deficiency of adaptive immune response. Lymphopenia and high plasma levels of C-reactive protein may be related to cytokine storm in patients with COVID-19 as postulated by a previous report 1 . In our study, older subjects, and those with hypertension were statistically associated with mortality; however, we did not see a statistically significant difference between the two groups in terms of sex and diabetics. These factors were congruent with the MuLBSTA score 21 for predicting mortality in viral pneumonia and may have played a role in the death of patients with COVID-19.",
+            "cite_spans": [
+                {
+                    "start": 328,
+                    "end": 330,
+                    "text": "19",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1330,
+                    "end": 1332,
+                    "text": "20",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 885,
+                    "end": 893,
+                    "text": "Figure 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "Our study has several limitations. The sample size especially in the death group was small; negative results and infections with other viruses were not included. Future studies should involve a large patient population. Also, the time of the initial CT after admission was not unified, and imaging changes in COVID-19 are rapid.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "In conclusion, a high CT score and diffuse distribution of lung lesions in COVID-19 are indicative of a poor prognosis and short-term mortality.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusion"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Lancet",
+            "volume": "395",
+            "issn": "20",
+            "pages": "30183--30188",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0140-6736(20)30183-5"
+                ]
+            }
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Coronavirus disease 2019 (COVID-19): A perspective from China",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Zu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Radiology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiol.2020200490"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "World Health Organization. Coronavirus disease (COVID-2019) situation reports-102",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Clinical characteristics of coronavirus disease 2019 in China",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Guan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N. Engl. J. Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1056/NEJMoa2002032"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Time course of lung changes on chest CT during recovery from 2019 novel coronavirus (COVID-19) pneumonia",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Radiology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiol.2020200370"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Emerging coronavirus 2019-nCoV pneumonia",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Radiology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiol.2020200274"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Initial CT findings and temporal changes in patients with the novel coronavirus pneumonia (2019-nCoV): A study of 63 patients in Wuhan, China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Pan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Eur Radiol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1007/s00330-020-06731-x"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "CT imaging features of 2019 novel coronavirus (2019-nCoV)",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Radiology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiol.2020200230"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Chest CT findings in coronavirus disease-19 (COVID-19): Relationship to duration of infection",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bernheim",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Radiology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiol.2020200463"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Correlation of chest CT and RT-PCR testing in coronavirus disease 2019 (COVID-19) in China: A report of 1014 cases",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Radiology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiol.2020200642"
+                ]
+            }
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Fleischner Society: Glossary of terms for thoracic imaging",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hansell",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Radiology",
+            "volume": "246",
+            "issn": "3",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiol.2462070712"
+                ]
+            }
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Performance of radiologists in differentiating COVID-19 from viral pneumonia on chest CT",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "X"
+                    ],
+                    "last": "Bai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Radiology",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiol.2020200823"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Imaging of pulmonary viral pneumonia",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Franquet",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Radiology",
+            "volume": "260",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1148/radiol.11092149"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Radiological findings from 81 patients with COVID-19 pneumonia in Wuhan, China: A descriptive study",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Shi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect. Dis",
+            "volume": "",
+            "issn": "20",
+            "pages": "30086--30090",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/s1473-3099(20)30086-4"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Clinical and CT features in pediatric patients with COVID-19 infection: Different points from adults",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Xia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Pediatr. Pulmonol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1002/ppul.24718"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Clinical implication of radiographic scores in acute Middle East respiratory syndrome coronavirus pneumonia: Report from a single tertiary-referral center of South Korea",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Cha",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Eur. J. Radiol",
+            "volume": "107",
+            "issn": "",
+            "pages": "196--202",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.ejrad.2018.09.008"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Clinical features and radiological findings of adenovirus pneumonia associated with progression to acute respiratory distress syndrome: A single center study in 19 adult patients",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Cha",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Korean J. Radiol",
+            "volume": "17",
+            "issn": "6",
+            "pages": "940--949",
+            "other_ids": {
+                "DOI": [
+                    "10.3348/kjr.2016.17.6.940"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "CT correlation with outcomes in 15 patients with acute Middle East respiratory syndrome coronavirus",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Das",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "AJR Am. J. Roentgenol",
+            "volume": "204",
+            "issn": "4",
+            "pages": "736--742",
+            "other_ids": {
+                "DOI": [
+                    "10.2214/AJR.14.13671"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Relation between chest CT findings and clinical conditions of coronavirus disease (COVID-19) pneumonia: A multicenter study",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "AJR Am. J. Roentgenol",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.2214/AJR.20.22976"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Pathological findings of COVID-19 associated with acute respiratory distress syndrome",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Respir. Med",
+            "volume": "",
+            "issn": "20",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2213-2600(20)30076-X"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Clinical features predicting mortality risk in patients with viral pneumonia: The MuLBSTA score",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Guo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Front. Microbiol",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.3389/fmicb.2019.02752"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "A 45-year-old woman with history of recent travel to Wuhan presented with fever for 1 day. (a,b) Non-contrast enhanced chest computed tomography (CT) showed multiple peripheral patchy ground glass opacities in both lower lobes (white arrows). CT scan also demonstrated consolidation in the left lower lobe (black arrow). CT involvement score was 5.Scientific Reports | (2021) 11:1103 | https://doi.org/10.1038/s41598-020-79183-4",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "days (range 8-25).Table 1. Comparison of final outcome according to clinical characteristics. Continuous data presented as median (IQR) and categorical data as n (%).",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Comparison of final outcome according to CT findings. Continuous data presented as median (IQR), categorical data as n (%), CT computed tomography.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "All the materials and data in studies are available. Author contributions G.J., C.L., and G.L. designed the study; Q.L. was a major contributor in writing the manuscript; H.C. and W.X. collected the imaging and clinical data; X.M., J.T., and Y.W. revised it critically for important intellectual content. All of the authors have read and approved the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data availability"
+        },
+        {
+            "text": "This study was funded by the National Natural Science Foundation of China (Grant number U1903120 and 81771807) and the Youth Foundation of Guangdong Second Provincial General Hospital (Grant number YQ2019-004).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "The authors declare no competing interests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        },
+        {
+            "text": "Correspondence and requests for materials should be addressed to C.L. or G.J.Reprints and permissions information is available at www.nature.com/reprints.Publisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creat iveco mmons .org/licen ses/by/4.0/.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Additional information"
+        }
+    ]
+}

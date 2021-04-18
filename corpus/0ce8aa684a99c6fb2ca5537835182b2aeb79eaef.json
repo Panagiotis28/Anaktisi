@@ -1,0 +1,272 @@
+{
+    "paper_id": "0ce8aa684a99c6fb2ca5537835182b2aeb79eaef",
+    "metadata": {
+        "title": "Dear Editor",
+        "authors": [
+            {
+                "first": "T",
+                "middle": [],
+                "last": "Okuno",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "D",
+                "middle": [],
+                "last": "Takada",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "J.-H",
+                "middle": [],
+                "last": "Shin",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "T",
+                "middle": [],
+                "last": "Morishita",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "H",
+                "middle": [],
+                "last": "Itoshima",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "S",
+                "middle": [],
+                "last": "Kunisawa",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Y",
+                "middle": [],
+                "last": "Imanaka",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Kyoto University",
+                    "location": {
+                        "settlement": "Kyoto City, Kyoto",
+                        "country": "Japan"
+                    }
+                },
+                "email": "imanaka-y@umin.net"
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Internationally, the coronavirus disease (COVID-19) pandemic has caused unprecedented challenges for surgical staff to minimize exposure to COVID-19 or save medical resources in accordance with the statement of each surgical society 1 . The Japanese Surgical Society (JSS, which consists of 10 major surgical societies in Japan) announced the importance of surgical triage according to severity of illness on 1 April 2020, and surgical recovery planning for the backlog of procedures based on the estimate on 22 May 2020 2 . Because there have been no studies of trends in surgical volume during the pandemic in Japan, one of the regions most affected by COVID-19 at the earliest stages of the pandemic, the authors undertook a retrospective study of elective surgical procedures to help inform future surgical management strategy.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Dear Editor"
+        },
+        {
+            "text": "Diagnosis Procedure Combination data from the Quality Indicator/Improvement Project database were used. Data were obtained from 261 hospitals (of 365 participating hospitals during the study period), including 642 720 patients aged over 15 years who were admitted and discharged between 1 October 2018 and 30 September 2019, and between 1 October 2019 and 30 September 2020. The year-on-year trend in procedure volume per month was calculated for eight types of surgery during the latest 12 months.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Dear Editor"
+        },
+        {
+            "text": "The year-on-year trend for all eight surgical categories, especially ophthalmological and ear, nose, and throat (ENT) procedures, decreased from April 2020 and reached a minimum in May 2020 (May: abdominal, 68.3 per cent; thoracic, 85.4 per cent; genitourinary, 78.1 per cent; cardiovascular, 71.7 per cent; neurosurgical, 67.9 per cent; orthopaedic, 62.3 per cent; ophthalmological, 52.1 per cent; ENT, 28.1 per cent) (Fig. 1) . Surgical volume has been recovering gradually since June, partially because of the statement of surgical recovery by the JSS and partially owing to the temporary decrease in the COVID-19 positive patients. However, in September 2020, the year-on-year volume of abdominal, ophthalmological, and ENT operations decreased compared with that in August.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 419,
+                    "end": 427,
+                    "text": "(Fig. 1)",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Dear Editor"
+        },
+        {
+            "text": "These data indicate that orthopaedic, ophthalmological, and ENT procedures were especially decreased by the COVID-19 pandemic. The state of emergency declared by the government led to people voluntarily refraining from going out, which led to a decrease in fracture-related operations, and a reluctance Research Letter of patients themselves to be seen by doctors. On 7 April 2020, the Japanese Ophthalmological Society and Oto-Rhino-Laryngological Society of Japan recommended cancellation or postponement of most elective procedures because of the high probability of the COVID-19 virus being present in the nasal cavity, pharynx, and lacrimal fluid. The other types of surgery showed relatively smaller reductions than the above three categories. Abdominal, genitourinary, and thoracic departments include many oncological procedures, which should be performed considering the evidence on timing of operations and oncological outcomes 3 . High-risk operations, including cardiovascular and neurological procedures, should also be regulated in consideration of the shortage of ICU beds, ventilators, and blood donations. However, Japan had far fewer patients with severe COVID-19 infection than Western countries, which might have enabled the Japanese hospitals to schedule high-priority operations. Effective surgical scheduling strategy is needed the deal with the backlog of operations all over the world 1, 4 . Fortunately, preoperative rapid testing for COVID-19 or preoperative chest X-ray is easily accessible in Japan, which may have contributed to the increase in elective surgical volumes. However, as shown in Fig. 1 , no category has yet reached the same level as in the previous year. Considering the likelihood of future COVID-19 flare-ups, it will be necessary to tackle this problem as soon as possible, with reference to efforts and estimations of surgical care models 5 .",
+            "cite_spans": [
+                {
+                    "start": 1410,
+                    "end": 1412,
+                    "text": "1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1413,
+                    "end": 1414,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1623,
+                    "end": 1629,
+                    "text": "Fig. 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Dear Editor"
+        },
+        {
+            "text": "This study was supported by JSPS KAKENHI (grant number JP19H01075) from the Japan Society for the Promotion of Science, GAP Fund Programme of Kyoto University type B, and Health Labour Sciences Research Grant from the Ministry of Health, Labour and Welfare, Japan (H29-shinkogyosei-shitei-005) to Y.I. The funders had no role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "Disclosure. The authors declare no conflict of interest.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Elective surgery cancellations due to the COVID-19 pandemic: global predictive modelling to inform surgical recovery plans",
+            "authors": [
+                {
+                    "first": "Covidsurg",
+                    "middle": [],
+                    "last": "Collaborative",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Br J Surg",
+            "volume": "107",
+            "issn": "",
+            "pages": "1440--1449",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Recommendations for the Provision of Surgical Care for the Convergence of a New Coronavirus Pandemic",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Impact of the coronavirus (COVID-19) pandemic on surgical practice-part 2 (surgical prioritisation)",
+            "authors": [
+                {
+                    "first": "Al-Jabir A",
+                    "middle": [],
+                    "last": "Kerwan",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nicola",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Alsafi",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Khan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sohrabi",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Int J Surg",
+            "volume": "79",
+            "issn": "",
+            "pages": "233--248",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Towards a full capacity of anaesthesia and surgical services in the epicenter (Wuhan) of the COVID-19 epidemic",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "Br J Surg",
+            "volume": "108",
+            "issn": "",
+            "pages": "1--2",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "New geographic model of care to manage the post-COVID-19 elective surgery aftershock in England: a retrospective observational study",
+            "authors": [
+                {
+                    "first": "Pansurg",
+                    "middle": [],
+                    "last": "Collaborative",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "BMJ Open",
+            "volume": "10",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Year-on-year trend in the number of operations by surgical category ENT, Ear, nose, and throat. Received: November 01, 2020. Revised: December 8, 2020. Accepted: January 11, 2021 V C The Author(s) 2021. Published by Oxford University Press on behalf of BJS Society Ltd. All rights reserved. For permissions, please email: journals.permissions@oup.",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

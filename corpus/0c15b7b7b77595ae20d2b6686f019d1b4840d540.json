@@ -1,0 +1,542 @@
+{
+    "paper_id": "0c15b7b7b77595ae20d2b6686f019d1b4840d540",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Andrea",
+                "middle": [],
+                "last": "Lazzati",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Bertrand",
+                "middle": [],
+                "last": "Dousset",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Thibault",
+                "middle": [],
+                "last": "Voron",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yann",
+                "middle": [],
+                "last": "Parc",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jeremie",
+                "middle": [
+                    "H"
+                ],
+                "last": "Lefevre",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "The outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection, which causes coronavirus disease 2019 (COVID-19), reorganized digestive care. On March 12, 2020, the French government declared national restrictions on elective surgery and gastrointestinal endoscopy for 2 months. After suspension of elective surgery, the French government reimposed restrictions on October 30, 2020. Several guidelines were rapidly published to help guide surgeons and gastroenterologists in their decision making. 1e4 A decrease in colorectal cancer screening was reported by Rutter et al, 5 among others. In their analysis of a UK nationwide database, they found a decrease up to 95% for activity in endoscopy volumes during their lockdown. Similarly, Latinga et al reported a 44% decrease in endoscopy activity after the onset of COVID-19 for colorectal cancer screening in the Netherlands. 6 However, there are no data reporting the resumption of activities in the months after the COVID-19 lockdown period. Therefore, the aim of this report was to analyze the activity after the lockdown period in the management of colorectal cancer in 2020 and its potentially significant impact on public health.",
+            "cite_spans": [
+                {
+                    "start": 522,
+                    "end": 525,
+                    "text": "1e4",
+                    "ref_id": null
+                },
+                {
+                    "start": 598,
+                    "end": 599,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 901,
+                    "end": 902,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "To analyze nationwide activity, we collected data from a mandatory national database that records patient hospital stays in both public and private hospitals. Access to the database was requested from and granted by the National Commission on Informatics and Liberty. Because the identifier is anonymous, patient consent was not required.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "All cases of colonoscopy or colorectal cancer resection performed from January 2020 to October 2020 were extracted from the database and compared with cases from January 2018 to December 2018 and from January 2019 to December 2019.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "The year 2020 was categorized into 3 time periods: January 1st to March 15th was considered the prelockdown period, March 16th to May 12th the lockdown period, and May 13th to October first the postlockdown period. Overall activity was analyzed, and cumulative curves for colonoscopy and colorectal resections were undertaken.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods"
+        },
+        {
+            "text": "During the prelockdown period, colonoscopy and colorectal resections were comparable among the 3 years (Fig 1) . We observed a major change in the cumulative curves of colonoscopies performed between March 2020 and May 2020, corresponding to the national lockdown. As of October first, the gap in the number of colonoscopies performed in 2020 compared with 2019 was 176,107, corresponding to a decrease of 26%. During the middle of the lockdown (Apr 2020), activity decreased by 85%. A 34% decrease in colonoscopy screening for patients with a familial history of colorectal cancer was seen. Table I summarizes the decrease according the indication(s) for colonoscopy. In the year 2020, the number of colonoscopies performed for rectal bleeding increased during the lockdown period from 4% to 7%, whereas colonoscopies performed for a family history of colorectal cancer or diverticulosis decreased during the lockdown period. At the end of the lockdown period, the number of colonoscopies performed decreased by 32% (152,114) compared to 2019.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 103,
+                    "end": 110,
+                    "text": "(Fig 1)",
+                    "ref_id": "FIGREF0"
+                },
+                {
+                    "start": 592,
+                    "end": 599,
+                    "text": "Table I",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "A similar trend was reported for the number of colorectal cancer resections performed from January to October first 2020, which were decreased by 18% (4,254) compared with prior years. The overall activity fell by 33% in May 2020. Elective colorectal surgery was more significantly impacted than emergency surgery (elective: 19% vs emergency: 10%; P \u00bc .001) as reported in Table I . At the end of the lockdown period (May 12, 2020), the number of colorectal resections performed had decreased by 13% (2,070) compared with the same time period in 2019, which persisted, and in fact increased, during the postlockdown period (18%; 4,254).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 373,
+                    "end": 380,
+                    "text": "Table I",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Results"
+        },
+        {
+            "text": "In this analysis, we reported a major gap in the number of colonoscopies performed by October 2020, corresponding to a 20% decrease (176,000) compared to the overall activity in 2019. The decreased activity has been reported in several studies. 5e7 Our results are consistent with results of other recent studies. 8 The novelty of our current report is the analysis of the post-COVID lockdown activity, which raises a public health concern. The rate of colonoscopies performed had reverted to baselines levels at the end of the pandemic lockdown. As seen in Fig 1, that of previous years during July to September, without an upsurge of activity. This observation suggests that all human and national resources were used to their maximum capacity in the postlockdown period. This finding raises a major risk for an increased rate of undiagnosed colorectal cancers. This hypothesis is particularly relevant as the indications for colonoscopy remained quite constant during the lockdown period compared to the pre-and post-COVID phases.",
+            "cite_spans": [
+                {
+                    "start": 314,
+                    "end": 315,
+                    "text": "8",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 558,
+                    "end": 564,
+                    "text": "Fig 1,",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "Discussion"
+        },
+        {
+            "text": "Colorectal cancer surgery was also impacted by the pandemic lockdown. A decrease of 19% for elective colorectal resections was observed. The same post-COVID pandemic trend for colonoscopy was observed for colorectal surgery. No rebound of activity was reported, confirming the potentially high rate of undiagnosed colorectal cancers. In a recent study, the authors report that a 3month delay in colorectal cancer resection could be responsible for 5,000 related deaths in the United Kingdom. 9 In conclusion, post-COVID pandemic analysis is required to analyze the staging of colorectal cancers in patients diagnosed after the lockdown period. This observation could have a devastating effect, especially during subsequent waves of COVID-19 and new, although potentially less strict, lockdown mandates in France.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "No funding to report.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding/Support"
+        },
+        {
+            "text": "No disclosure to report. Alexandre Challine, MD Sorbonne Universit e, Department of Digestive Surgery AP-HP, H\u00f4pital Saint Antoine, Paris, France",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conflict of interest/Disclosure"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Gastrointestinal endoscopy during COVID-19 pandemic: an updated review of guidelines and statements from international and national societies",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Castro Filho",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Castro",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Fernandes",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Pereira",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Perazzo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Gastrointest Endosc",
+            "volume": "92",
+            "issn": "",
+            "pages": "440--445",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "COVID-19 epidemic: Proposed alternatives in the management of digestive cancers: A French intergroup clinical point of view",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Fiore",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Bouch E",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lepage",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "52",
+            "issn": "",
+            "pages": "597--603",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Management considerations for the surgical treatment of colorectal cancer during the global Covid-19 pandemic",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "O&apos;leary",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Choong",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Thornblade",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Fakih",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Fong",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kaiser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Ann Surg",
+            "volume": "272",
+            "issn": "",
+            "pages": "98--105",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Our challenge is to adapt the organization of our system to the six stages of the epidemic to go beyond the COVID-19 crisis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Tuech",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gangloff",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Schwarz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Br J Surg",
+            "volume": "107",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Impact of the COVID-19 pandemic on UK endoscopic activity and cancer detection: a National Endoscopy Database Analysis. Gut; 2020",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Rutter",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Brookes",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Rogers",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sharp",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1136/gutjnl-2020-322179"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "IT foundation study group. Impact of the COVID-19 pandemic on gastrointestinal endoscopy in the Netherlands: analysis of a prospective endoscopy database",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Lantinga",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Theunissen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ter",
+                    "middle": [],
+                    "last": "Borg",
+                    "suffix": ""
+                },
+                {
+                    "first": "Pcj",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Endoscopy. Available",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1055/a-1272-3788"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Impact of COVID-19 lockdown on inhospital mortality and surgical activity in elective digestive resections. A nationwide cohort analysis. Surgery",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Challine",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Dousset",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "De&apos;angelis",
+                    "suffix": ""
+                }
+            ],
+            "year": 2021,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.surg.2020.12.036"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "and the French Society of Digestive Endoscopy (Soci et e Fran\u00e7aise d'Endoscopie Digestive). Impact of the COVID-19 pandemic on gastrointestinal endoscopy activity in France",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Belle",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Barret",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bernardini",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Endoscopy",
+            "volume": "52",
+            "issn": "",
+            "pages": "1111--1115",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Collateral damage: the impact on outcomes from cancer surgery of the COVID-19 pandemic",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sud",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Broggio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Ann Oncol",
+            "volume": "31",
+            "issn": "",
+            "pages": "1065--1074",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Cumulative incidence of colonoscopy and colorectal resection for cancer between years 2018, 2019, and January to October 2020.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "the rate of colonoscopies performed in the postlockdown period was similar to Contents lists available at ScienceDirect Surgery journal homepage: www.elsevier.com/locate/surg Surgery xxx (2021) 1e3 https://doi.org/10.1016/j.surg.2020.12.021 0039-6060/\u00a9 2020 Elsevier Inc. All rights reserved.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Decrease of activity between 2019 and 2020 according to the indication",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

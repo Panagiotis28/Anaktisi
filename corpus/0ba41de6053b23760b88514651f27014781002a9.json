@@ -1,0 +1,387 @@
+{
+    "paper_id": "0ba41de6053b23760b88514651f27014781002a9",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Lisa",
+                "middle": [],
+                "last": "Saidel-Odes",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Infection Control and Hospital Epidemiology Unit",
+                    "institution": "Ben-Gurion University of the Negev",
+                    "location": {
+                        "settlement": "Beer-Sheva",
+                        "country": "Israel"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lior",
+                "middle": [],
+                "last": "Nesher",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Infectious Diseases Unit",
+                    "institution": "Ben-Gurion University of the Negev",
+                    "location": {
+                        "settlement": "Beer-Sheva",
+                        "country": "Israel"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ronit",
+                "middle": [],
+                "last": "Nativ",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Infection Control and Hospital Epidemiology Unit",
+                    "institution": "Soroka University Medical Center",
+                    "location": {
+                        "settlement": "Beer-Sheva",
+                        "country": "Israel"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Abraham",
+                "middle": [],
+                "last": "Borer",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Infection Control and Hospital Epidemiology Unit",
+                    "institution": "Ben-Gurion University of the Negev",
+                    "location": {
+                        "settlement": "Beer-Sheva",
+                        "country": "Israel"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "To the Editor-Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) has caused the coronavirus disease 2019 (COVID-19) pandemic. The most common type of transmission is through large respiratory droplet particles. The 2 other accepted modes of SARS-CoV-2 transmission are direct contact and through inhaling aerosols. 1, 2 At the beginning of the pandemic, airborne transmission was recognized only for aerosol-generating procedures (AGPs) in healthcare settings. Since then, the World Health Organization and the scientific community are evaluating whether SARS-CoV-2 also spreads through aerosols in the absence of AGPs, particularly in indoor settings with poor ventilation. 3 Hematopoietic cell transplantation (HCT) and cellular therapy recipients are unique populations at increased risk for complications from SARS-CoV-2. 4 Currently, limited data exist on the epidemiology, clinical manifestations, and optimal management of COVID-19 in this patient population. Patients who have tested positive for COVID-19 should be isolated in negative-pressure room if available or in a neutral-pressure room. 5 Our index case, a 48-year-old immunocompromised man with multiple myeloma IgA \u03ba, underwent an autologous stem-cell transplant on September 21, 2020. He tested positive for SARS-CoV-2 on a screening test 3 days later, and the cycle threshold (Ct) value was 15. He developed a high temperature and a dry cough, and a computed tomography scan demonstrated bilateral ground-glass opacities consistent with COVID-19. Treatment included convalescent plasma, remdesivir, and antibiotics. AGPs were not performed. He was discharged on October 8, and a nasal swab for SARS-CoV-2 PCR was still positive with a Ct value of 19.",
+            "cite_spans": [
+                {
+                    "start": 325,
+                    "end": 327,
+                    "text": "1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 328,
+                    "end": 329,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 685,
+                    "end": 686,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 836,
+                    "end": 837,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 1113,
+                    "end": 1114,
+                    "text": "5",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The transplant unit includes 6 positive-pressure isolation rooms with high-efficiency particulate air (HEPA) filters; each has an anteroom with self-closing doors that cannot be opened simultaneously. Patient rooms are built to primarily assure patients safely; the pressure cascade from the patient room to the anteroom and from the anteroom to the corridor protects the patients but exposes healthcare professionals (HCPs), even when positive-pressure is neutralized.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The following measures were applied following the diagnosis of the index case: (1) positive-pressure neutralization in the index patient's isolation room; (2) HCP treating the index patient donned airborne PPE (nonpermeable gown, N95 respirator, face shield, and gloves) before entering his isolation room and removed the airborne PPE in the anteroom; (3) the index case was confined to his room and wore a surgical mask during HCP visits; (4) all other work in the transplant unit, outside the index patient's room, continued while donning droplet PPE according to our institutional policy; and (5) patients and HCPs were screened for SARS-CoV-2 twice weekly. From October 1 through October 8, of 37 HCPs, 7 (19%) tested positive for SARS-CoV-2: 2 doctors, 4 nurses, and 1 housekeeping worker.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "A case-control study was conducted, including phone interviews with all the units' HCPs and verification of HCP SARS-CoV-2 nasopharyngeal swab test results. Cases were HCPs who tested positive for SARS-CoV-2; controls were HCPs who tested negative. Phone interviews included the following questions: (1) How long were you present in the transplant-unit corridor or nurses' station during your shift? (2) Did you enter the index patient's room. And if yes, (3) how long were you present in the room? Staff members did not sit together in eating areas, and no out-of-work staff gatherings took place. Our univariate analysis revealed that cases were present significantly more than controls in the transplant unit's corridor or nurses' station (relative risk [RR], R = 7.2; 95% CI, 1.22-42.49; P = .018) but not in the index patient's room, Table 1 .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 839,
+                    "end": 846,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": ""
+        },
+        {
+            "text": "Preventing the spread of SARS-CoV-2 requires rapid identification and isolation of infectious people, especially those with a high viral load because they have potential to become superspreaders. 6 HCT recipients may be at an even higher risk for a complicated course resulting from viral infections in general and COVID-19 infection in particular. Our transplant unit's patient rooms are large rooms with closed windows, positive-pressure, and HEPA filtration, and each has an anteroom with 20 air exchanges per hour. Units must balance the risk of other major pathogens (ie, invasive molds) against the risk of COVID-19 when deciding whether the unit's airflow should be modified. Reducing the positive pressure in isolation rooms could lead to poorly ventilated spaces that facilitate aerosol transmission.",
+            "cite_spans": [
+                {
+                    "start": 196,
+                    "end": 197,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In HCT recipients infected with other human coronaviruses, there is an association between initial high viral loads and prolonged viral shedding. 7 Shedding duration is an important determinant of viral infectivity and transmissibility. Ct value, a measure of the SARS-CoV-2 viral load, is inversely related to viral load. Our index case was diagnosed with a Ct value of 15; 2 weeks later, his Ct value was still only 19, which probably enhanced the viral spread in the transplant unit.",
+            "cite_spans": [
+                {
+                    "start": 146,
+                    "end": 147,
+                    "text": "7",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Because aerosols are carried by air currents and dispersed by diffusion and air turbulence, aerosols from infected persons may pose an inhalation threat even at considerable distances in enclosed spaces, particularly if there is poor ventilation. 8 Providing sufficient and effective ventilation together with airborne infection control is of paramount importance. 2 In our COVID-19 outbreak, 2 of the 7 infected HCPs had no direct contact with the index case. All worked in the transplant unit corridor or nurses' station while wearing droplet PPE. The corridor or nurses' station is an enclosed space with no open windows. The anterooms of the isolation rooms open into this space. Outdoor air enters the unit's corridor through an air handling unit, ventilation air is provided by a heating, ventilating, and air-conditioning system. It is highly probable that HCPs inhaled SARS-CoV-2 aerosols through their surgical masks while working in this area for the most part of their shift.",
+            "cite_spans": [
+                {
+                    "start": 365,
+                    "end": 366,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Although molecular data are not available, airborne transmission appears to be the only plausible explanation for this outbreak. We are of the opinion that additional airborne precautions should be taken for further reduction of infection risk. Note. SD, standard deviation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "How can airborne transmission of COVID-19 indoors be minimized?",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Morawska",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Tang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Bahnfleth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Environ Int",
+            "volume": "142",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "It is time to address airborne transmission of coronavirus disease 2019 (COVID-19)",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Morawska",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Milton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Infect Dis",
+            "volume": "71",
+            "issn": "",
+            "pages": "2311--2313",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Transmission of SARS-CoV-2: implications for infection prevention precautions: scientific brief. World Health Organization website. www.who.int/ news-room/commentaries/detail/transmission-of-sars-cov-2-implicationsfor-infection-prevention-precautions",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Guidelines for COVID-19 management in hematopoietic cell transplantation and cellular therapy recipients",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Waghmare",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Abidi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Boeckh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Biol Blood Marrow Transplant",
+            "volume": "26",
+            "issn": "",
+            "pages": "1983--1994",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "COVID-19 rapid guideline: haematopoietic stem cell transplantation. NICE guideline. UK National Institute for Healthcare Excellence website. www.nice.org.uk/guidance/ng164",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "To interpret the SARS-CoV-2 test, consider the cycle threshold value",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Tom",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Mina",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Infect Dis",
+            "volume": "19",
+            "issn": "",
+            "pages": "2252--2254",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Predicting SARS-CoV-2 from diagnostic samples",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bullard",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Dust",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Funk",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Clin Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/cid/ciaa638"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Droplet and Aerosols in the transmission of SARS-CoV-2 Correspondence",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Meselson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Interview Questions, Cases Versus Controls Variable Cases (N = 7), mean \u00b1 SD Controls (N = 30), mean \u00b1 SD P Value RR [95% CI] Time (minutes) spent in the transplant unit's corridor/nurse station",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Acknowledgments. We would like to thank the infection control unit for their assistance in the epidemiological investigation.Financial support. All authors report no financial support.Conflict of interest. All authors report no conflicts of interest relevant to this article.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "acknowledgement"
+        }
+    ]
+}
